@@ -109,3 +109,5 @@ sculpted-metal-casting skill's `client-picks.md`; they are counted into the stri
   (a correct diagram of a part is not jewelry: the concept and page were liked, every object was not)
 - transmission jewelry | piece type | "also who the fuck wears bolo ties man" | -> domains (wearability), C: piece
   types must be things people actually wear now; a type that only exists to avoid repeating a type is a fail
+- Silk Road jewelry (Bombyx, 64 cast pieces) | all | "Bombyx is nearly perfect though" (said beside the Governor
+  r1 critique) | -> approval: Bombyx is the quality bar for jewelry (form, surface, finish), see domains

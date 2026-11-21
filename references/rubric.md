@@ -53,3 +53,9 @@ After scoring, answer these in the notes, in a sentence each. They catch what th
 
 ## When a critique gets past this rubric
 Add the line that would have caught it, in the same session, and publish (see SKILL.md).
+
+## Added 21 Nov 2026 (round 4 boots review)
+- Before scoring Surface, put the largest plain panel (often the vamp) on screen at part-sheet size. If it is blank
+  and the motif does not reach it, Surface is 1 at most, however rich the rest is.
+- Many small soft lobes (feathers, scales, petals) score 0 to 1 on Solidity even when watertight: they read torn or
+  floppy. Fewer, larger, stiff plates.
