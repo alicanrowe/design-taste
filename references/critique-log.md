@@ -131,3 +131,7 @@ sculpted-metal-casting skill's `client-picks.md`; they are counted into the stri
 - Dancers (all 24, live page) | every image | "why are the dancers backgrounds all black they should always be
   white unless specififed"; "why did this happen fix the skill so this doesnt happen again" | -> D3, domains: site
   pages and renders, rubric gate (background check); cause: the page builder flattened transparent renders to black
+- HELIUM (hyperpop jewelry, 10 pieces), self-check before going live | all | measured against "Bombyx is nearly
+  perfect" | -> first pass was chunky, sparse and one-note (balloon sausages only). Fine barbed linework, small
+  stones and colour coats brought it near the bar. Self-check: does each piece have fine detail at the terminals,
+  or only big forms?
