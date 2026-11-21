@@ -13,6 +13,11 @@ Each collection's own brief sets the weights; this is the shared list of who mea
 - Harold & Saxon chisels: the bar for tool finish (mirror flats, blackened bevels, hairline lands).
 
 ## Leather, bags and boots
+- **Japanese craft leather workshops** (from the client's saves, the most-saved makers overall): veg-tan,
+  kakishibu and shell cordovan, hand saddle-stitching, solid brass, soft roomy bag shapes, colours from tan to
+  oxblood, forest green and teal. See `instagram-saves.md` S1.
+- **Japanese repro denim and workwear** (saves): selvedge, chain-stitch, patina, horsehide jackets, engineer
+  boots. Honest construction and wear over ornament. S2.
 - **Kei Kagami** AW2014 shoes: metal structure that *is* the heel (rib cage, spine), plain uppers so the metal leads.
 - **Söderberg**: knife-edge restraint, one precise structural metal part, tilted block heel, black.
 - **Ives Barrera**: bespoke last shapes (chisel toe, fiddle waist), welted finish, hardware as jewelry (cast floral
@@ -31,6 +36,14 @@ Each collection's own brief sets the weights; this is the shared list of who mea
 - **Gregory Beson**: the render and staging bar for furniture (soft high window light, paper sweep, linen curtain,
   limewash room, measured walnut tone).
 - Krenov, the Center for Furniture Craftsmanship: joinery and proportion.
+- From the client's saves (`instagram-saves.md` S3): Nakashima (live edge, butterfly keys), sculpted rockers in
+  the Maloof line, Windsors, wiped-urushi Japanese cabinets, carved gouge-ripple and fluted surfaces, wood paired
+  with stone or clear resin as equals.
+
+## Metal, from the saves
+- Vintage watches with sculptural cases and quiet dials (Tank, Golden Ellipse, integrated bracelets) and infill
+  planes in brass and exotic wood: the model for men's and machined pieces. Symmetrical spine and vertebra tattoo
+  linework as a structural jewelry motif. `instagram-saves.md` S4, S5.
 
 ## Digital
 - **Syd Mead**: ultra-wide lens, chrome megastructure, sunset palettes; the bar for the fractal engine's Syd preset.

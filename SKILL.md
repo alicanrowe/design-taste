@@ -21,10 +21,13 @@ The point is to get it right before the client sees it, instead of finding taste
 - `references/domains.md`: how the principles translate into each medium (metal, wood, leather, garments,
   machines, renders and pages), including what went wrong in each.
 - `references/critique-log.md`: every critique, verbatim, dated, by project and piece. Append-only.
+- `references/instagram-saves.md`: patterns from the client's saved Instagram posts (about 2,500): materials,
+  makers, surfaces, colours and staging they keep returning to. Lower weight than critique; use it to pick
+  references and break ties. Where it conflicts with a principle, the principle wins.
 
 ## Use it (every design task)
-1. **Before sketching.** Read `principles.md`, `banned-moves.md` and the section of `domains.md` for your
-   medium. Read the project's own brief and picks file. Write the brief in four lines: the one silhouette idea,
+1. **Before sketching.** Read `principles.md`, `banned-moves.md`, the section of `domains.md` for your
+   medium, and the matching signals in `instagram-saves.md`. Read the project's own brief and picks file. Write the brief in four lines: the one silhouette idea,
    the language every part is built from (named motifs, from the host piece if there is one), the focal point,
    and the two or three references you will hold it against.
 2. **Design to the rubric, not to the checklist after.** The rubric's top failures are structural (a plain base
