@@ -19,6 +19,13 @@ already gone wrong and what passing looks like.
 - Two-tone by finish (bright, satin, oxidised black, stainless). Black parts get bright cut chamfers or they read
   as holes. Stones only where the real part has a ball.
 - Piece types come from the parts, one per job, so the set reads as one machine and not as rings in a new metal.
+  But every type must be something people actually wear now ("who the fuck wears bolo ties man", 21 Nov): no
+  bolo ties, no novelty types picked only to avoid a repeat.
+- The concept carrying the page is not enough ("i love this thinking but every piece in governor is ugly", 21 Nov).
+  Round 1 failed because each piece was a literal, life-size diagram of the part: flat plates, square bars, a
+  cutaway bore, plain bands, gadgets glued onto a shank. The machine is the source, not the object. Each piece has
+  to be beautiful jewelry first (proportion, a flowing silhouette, volume that catches light, detail at jewelry
+  scale) and read as the part second. Test: hide the story; would someone still want to wear it?
 - Line (rubric 7) reads as: straight where the part is straight, true arcs, crisp edges, no wobble, no blobs.
 
 ## Cast metal: furniture-scale (sawhorses, case hardware, jail grilles, tools)

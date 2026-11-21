@@ -104,3 +104,8 @@ sculpted-metal-casting skill's `client-picks.md`; they are counted into the stri
   to have a check for saminess ... more masculine, maybe less gemstoned, more precise machining ... knurling elements
   or other like American industrial kind of things"; "don't just do a cuff, earrings, and rings for everything" |
   -> rubric 12 (sameness check), banned-moves (knurling exception), domains: machined metal
+- transmission jewelry (Governor r1, 12 machined pieces) | all | "i love this thinking but every piece in governor is
+  ugly"; "this could be such a cool idea if the pieces just werent so damn ugly" | -> A10, domains: machined metal
+  (a correct diagram of a part is not jewelry: the concept and page were liked, every object was not)
+- transmission jewelry | piece type | "also who the fuck wears bolo ties man" | -> domains (wearability), C: piece
+  types must be things people actually wear now; a type that only exists to avoid repeating a type is a fail
