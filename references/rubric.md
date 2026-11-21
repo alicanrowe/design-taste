@@ -39,6 +39,10 @@ Bar to show: **no zeros, and at least 20 of 24.** For the client's own flagship 
 | 12 | **Distinct** (for sets) | each variant has its own silhouette idea | variants differ by seed, colour or stone | A1 |
 
 For a single piece with no set, score 12 as 2 if it is distinct from the client's earlier rejected rounds.
+For a whole collection, 12 also covers the earlier collections: run the sameness check (sculpted-metal-casting,
+`scripts/check_sameness.py`) against every earlier collection and any sibling being built at the same time. Any
+SAME, ECHO, RESKIN or TYPES flag scores 0 ("make sure that they all like look different, so it looks not too samey
+compared to the other ones", 21 Nov).
 
 ## The four questions to ask out loud
 After scoring, answer these in the notes, in a sentence each. They catch what the table misses.

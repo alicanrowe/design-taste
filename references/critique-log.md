@@ -98,3 +98,9 @@ sculpted-metal-casting skill's `client-picks.md`; they are counted into the stri
   you executed was so stupid and gimmicky" | -> A1, A2, A4, A5, A6, domains: leather
 - all | process | "do recursive passes against my previous notes for all other projects and synthesize it ... so
   you're not wasting a bunch of time on recursive edits"; "make this skill self-improving" | -> this skill
+- transmission jewelry | brief | "the way a transmission of an automatic car looks ... how oil gets turned into a
+  computer ... I want this collection to be uniquely different from the other ones ... make sure that they all like
+  look different, so it looks not too samey compared to the other ones. So figure out a way to like improve the skill
+  to have a check for saminess ... more masculine, maybe less gemstoned, more precise machining ... knurling elements
+  or other like American industrial kind of things"; "don't just do a cuff, earrings, and rings for everything" |
+  -> rubric 12 (sameness check), banned-moves (knurling exception), domains: machined metal

@@ -11,6 +11,16 @@ already gone wrong and what passing looks like.
 - Every face of a ring carries detail. Wearables: no sharp points, wire and links at least 1.0 mm.
 - Domain rules: sculpted-metal-casting `style-rules.md`, `client-picks.md`, `casting-rules.md`.
 
+## Machined metal (jewelry as precision parts)
+- The brief: "more masculine, maybe less gemstoned, more precise machining ... an ode to precise machining ...
+  knurling elements or other like American industrial kind of things" (21 Nov).
+- Every detail is a real part's real detail at its real proportion: cut knurl, involute teeth that mesh, threads
+  under screw heads, springs with closed ends, chamfered edges. A detail that only looks mechanical is a fail.
+- Two-tone by finish (bright, satin, oxidised black, stainless). Black parts get bright cut chamfers or they read
+  as holes. Stones only where the real part has a ball.
+- Piece types come from the parts, one per job, so the set reads as one machine and not as rings in a new metal.
+- Line (rubric 7) reads as: straight where the part is straight, true arcs, crisp edges, no wobble, no blobs.
+
 ## Cast metal: furniture-scale (sawhorses, case hardware, jail grilles, tools)
 - Loved: Durumi's crane foot and bojagi seat, Thread's twisted-strand foot, Edge's tapered side profile, thorned
   vines up the posts, the carved-feather stretcher, the cast braided-lancet jail with the moth hanging like a bat,

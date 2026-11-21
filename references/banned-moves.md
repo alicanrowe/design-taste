@@ -16,6 +16,10 @@ before showing anything.
 - Feathers or leaf blades used as antennae. (5 strikes)
 - Nubs, stubs, end-cap balls, beads on stalks. (8 strikes)
 - Evenly spaced rows: bead rows, graded dots, ladder ticks, combs of barbs, milgrain, rope rims, knurling.
+  Exception, scoped: a collection whose brief is machining ("an ode to precise machining ... knurling elements or
+  other like American industrial kind of things", 21 Nov) uses knurling, even rows and straight rods as its
+  language. There the ban is on fake machining: texture instead of cut teeth, gears that could not mesh, parts
+  with no job. See domains.md, Machined metal.
 - Braided or twisted-rope wire as decoration. ("this braid looks ass") Twisted structural strands that are the
   piece's own language (a twisted foot, a twisted jail bar) are fine.
 - Crosses, daggers, fleur-de-lis terminals. ("chrome hearts rip off")
