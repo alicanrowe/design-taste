@@ -1,0 +1,33 @@
+# Banned moves
+
+Each of these was rejected outright. Any one present is a gate fail (rubric G4). Search the render for each line
+before showing anything.
+
+## Any medium
+- A plain, standard object with one feature attached (a ring on an ankle, a hoop behind a heel, a motif glued
+  on a blank panel). The feature must be the structure. ("so stupid and gimmicky")
+- One part at lower fidelity or in another language than the rest (smooth chrome among carving, a default shell
+  under rich hardware). ("doesnt fit the rest of the piece", "inconsistent in quality")
+- Large flat, unmodelled panels or plates; flat laser-cut sheet standing in for a sculpted motif. ("a lot of flat
+  surfaces", "this sucks")
+- Anything thin that dangles, flaps, droops, wobbles or floats free; thin single-layer points, tails and flaps.
+  ("flimsy or floppy", "not possible in real life", "no floaters")
+- Literal clip-art creatures, bug pictograms, symmetric stencils, butterflies. ("far too literal")
+- Feathers or leaf blades used as antennae. (5 strikes)
+- Nubs, stubs, end-cap balls, beads on stalks. (8 strikes)
+- Evenly spaced rows: bead rows, graded dots, ladder ticks, combs of barbs, milgrain, rope rims, knurling.
+- Braided or twisted-rope wire as decoration. ("this braid looks ass") Twisted structural strands that are the
+  piece's own language (a twisted foot, a twisted jail bar) are fine.
+- Crosses, daggers, fleur-de-lis terminals. ("chrome hearts rip off")
+- Melting, drooping, Dali-like drips; lumpy junctions. ("too dali esque", "lumpy tumour")
+- Wavy bars and frames. ("wavy as hell")
+- Hexagon cages or frames with a block hub. ("i hate the hexagon rework")
+- Curled-up toes on feet ("elf shoes"); one stock foot shared across variants.
+- Pentagram-like even radials (five equal points in a ring).
+- Generic hardware that could go on any object (rectangular stock buckles on a sculptural boot, a tidy handle on a
+  gothic case). ("this handle is awful")
+- Deep, dark stones (almandine garnet, London blue); mixed stone species on one piece; different stones on a pair.
+- Variants that differ only by seed or colour. ("a bit samey", "meh samey")
+- Classic-benchmarked lookalikes when the brief asked for creative. ("super ugly and unoriginal")
+- Costume or cosplay reads; copying a game character's real garment.
+- Glossy grey leather that reads as rubber; milky or untextured stones; low-poly facets; clipping of any kind.
