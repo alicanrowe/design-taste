@@ -82,6 +82,8 @@ What passing needs:
   rougher than the rest stands out).
 
 ## Site pages and renders
+- White backgrounds by default (D3): every render, page image, teaser and part photo. Check the actual output
+  file, not the render: a transparent PNG flattened with a plain RGB convert lands on black.
 - Every page matches the newest page look (currently Nine Rests): same layout, type and theme. A page that passes
   the brand audit can still look old.
 - Every image, GLB and spec shows the newest model version. Caching or a stale file reads as "not done".

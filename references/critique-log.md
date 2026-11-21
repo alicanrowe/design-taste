@@ -128,3 +128,6 @@ sculpted-metal-casting skill's `client-picks.md`; they are counted into the stri
   modelled leaves and fewer, larger stones beat open outlines and many small ones
 - Bombyx | BUYAO hair clip (a spare branch, veined leaves, ruby buds on fine sprung stems) | "super well done" |
   -> approval: a spare elegant line with detail at the terminals (A9)
+- Dancers (all 24, live page) | every image | "why are the dancers backgrounds all black they should always be
+  white unless specififed"; "why did this happen fix the skill so this doesnt happen again" | -> D3, domains: site
+  pages and renders, rubric gate (background check); cause: the page builder flattened transparent renders to black

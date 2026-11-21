@@ -18,6 +18,8 @@ Write the result into the piece's notes as one line plus the fixes:
 - **G3 Buildable and strong.** Real stock sizes (stones, leather thickness, wire, bought hardware named), casting
   minimums, no gaps that would snap, no part that would flop or fold under its own weight, seats carry their load.
 - **G4 No banned move.** Go down `banned-moves.md` line by line against the main views and the part sheet.
+- **G6 White background.** Every image that goes out sits on white unless the client asked otherwise (principles
+  D3). Run the background check on the exported files themselves; a transparent render turns black on export.
 - **G5 Current.** The render, page, GLB and sheet all show the newest version of the model.
 
 ## Scored criteria (0 = fails, 1 = passable, 2 = strong)

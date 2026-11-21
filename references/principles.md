@@ -130,6 +130,13 @@ it"). Same stone on both of a pair. Stones sit on a clear anchor ("odd placement
 **D2. Palette.** Black, washed charcoal, washed indigo, oxblood red, natural tan; bright or oxidised silver.
 Leather in black and red when asked for colourways.
 
+**D3. Backgrounds are white unless the client asks for another. (1)** Renders, page images, teasers, contact
+sheets, part photos and 3D stages all sit on white. "why are the dancers backgrounds all black they should always
+be white unless specififed". A transparent render shown or exported as is turns black in most viewers and every
+JPEG, so flatten onto white and run the background check (shop-machine-cad `scripts/check_backgrounds.py`,
+website-publishing `scripts/check_image_backgrounds.py`) before anything is shown. A dark background is only for a
+piece the client asked to be dark; a dark photo of a real thing (a seller's lifestyle shot) is not a background.
+
 ## E. How the client works with a design (process taste)
 
 **E1. When they like it, refine; don't redesign.** "i do really like the designs tho so if we dont have to change
