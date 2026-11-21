@@ -9,6 +9,8 @@ already gone wrong and what passing looks like.
 - Missed: vein fills that are dense, combed, random or noisy (a whole stud family "a mess"); bug bodies as spiky
   clusters; nubs on every tail; dark stones; ten near-identical cuffs.
 - Every face of a ring carries detail. Wearables: no sharp points, wire and links at least 1.0 mm.
+- Reference for a finished piece: Bombyx SENMURV ("looks super good", 21 Nov): carved plumes from one root, a
+  claw-set eye tied in by several members, every end drawn to a point or buried. Measure new pieces against it.
 - Domain rules: sculpted-metal-casting `style-rules.md`, `client-picks.md`, `casting-rules.md`.
 
 ## Machined metal (jewelry as precision parts)

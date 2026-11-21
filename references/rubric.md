@@ -73,3 +73,10 @@ Add the line that would have caught it, in the same session, and publish (see SK
   tip. A knuckle on the arc or a rounded nub on a tip meant to be sharp scores Line 0.
 - Bundles (ribbons, vines, strands): they share one rule (an even fan, a common wave). Random crossings or merges
   score Focus 0 to 1.
+
+## Added 21 Nov 2026 (Bombyx review 2)
+- Ends and junctions: zoom on every place a member ends or meets another (sculpted-metal-casting
+  `check_members.py` lists them: NUB, CROSS, BOLT, HOLE). A round cap showing, a stem across a leaf face, a necked
+  bolted-on point, or anything in a ring's finger hole is a G4 fail, whatever the clipping check says.
+- Production: before a collection is called done, can each piece be sent to a jeweler as is? Watertight STL,
+  stone list with cut and mm size, findings named (bought ear wires, posts, barrettes) on cast loops or pads.

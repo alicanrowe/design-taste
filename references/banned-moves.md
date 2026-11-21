@@ -43,3 +43,14 @@ before showing anything.
 - In film and reels: hard jump cuts between shots when one continuous move would work; small floating islands
   of terrain in a void where an endless ground plane would do; cartoon puff clouds. ("no jumpcuts", "grass going
   forever into the horizon instead of these floating islands", "the clouds look pretty stupid", 21 Nov)
+- Blunt round capsule ends ("nubs"): a stroke that stops at full width with its round cap showing, in air or half
+  out of the member it meets. ("this nub in buyao is ugly", "got some nubs to smooth out") Draw it to a point or
+  bury the whole end inside the metal it joins.
+- Stems, stalks or tendrils laid across a carved leaf or feather face, melting into it. ("zhang qians vine needs
+  fixing") A stem meets a leaf only at the leaf's root.
+- Points bolted on: a separate needle cone started inside a fat member, so the member necks to a pinched spike.
+  ("feitan needs more smoothing") The point is the member's own taper.
+- Any metal inside a ring's finger opening (claws, drops, spikes, struts below the band's inner face). ("this piece
+  still has geometry issues")
+- Fake findings: an ear wire, post or hair-clip spring modelled fused into the casting. Findings are bought and
+  soldered to a cast loop or pad. ("how are the hair clips actually being produced")

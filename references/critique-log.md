@@ -149,3 +149,22 @@ sculpted-metal-casting skill's `client-picks.md`; they are counted into the stri
   the jewlery is cool the clouds look pretty stupid tho" | -> v10: one continuous camera move, endless white grass
   to the horizon, near-black water, no clouds. Kept: drop-settings section, final all-pieces line-up. Self-check
   for environments: does it read as one endless world, or as props floating in a void? Are the cuts earned?
+- Bombyx review 2 | VINE (stalk and tendril laid across the carved leaf face, melted where they met it) | "zhang
+  qians vine needs fixing still improve the skill til this stops happening" | -> banned-moves (stems over a leaf),
+  rubric "Added 21 Nov (Bombyx review 2)". Cause: no check looked at how members meet; the clipping check passes
+  metal fused into metal. Fix: stems leave the leaf only from its root knot, through an open sector below it.
+- Bombyx review 2 | BUYAO (the pin ends in a blunt round stub) | "this nub in buyao is ugly" | -> banned-moves
+  (capsule-end nubs). Every end draws out to a point or is swallowed whole by the metal it joins.
+- Bombyx review 2 | FEITIAN (lumpy streamer shafts; each point a separate needle bolted onto a fat end, so the
+  ribbon necks before the tip) | "feitan needs more smoothing still" | -> banned-moves (bolted-on points), B3. Each
+  streamer is now one continuous member that tapers to its own point.
+- Bombyx review 2 | CRESCENT ring (blobby nubs where struts meet the band, a capsule stub, wobbly tubes, spikes near
+  the finger opening) | "this piece still has geometry issues" | -> banned-moves (anything in the finger hole),
+  rubric. Self-check for rings: look straight down the finger hole. Nothing may show inside the band's inner face.
+- Bombyx review 2 | SENMURV (carved feather plumes, claw-set eye, clean rim) | "senmurv looks super good just got
+  some nubs to smooth out keep improving the skill" | -> approval: Senmurv is the reference for a finished Bombyx
+  piece (domains, Cast metal: jewelry). Smooth the nubs; keep the design.
+- Bombyx review 2 | production | "also how are the hair clips actually being produced", "reaching out to a jewler
+  with CAD files and stones selected?", "and like all the pieces actually" | -> the design isn't finished until it
+  can be handed to a jeweler: findings are bought (ear wires, posts, barrettes) and soldered to cast loops or pads,
+  never modelled as fused fakes; every piece ships as a watertight STL with a stone list.
