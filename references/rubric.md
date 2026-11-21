@@ -59,3 +59,15 @@ Add the line that would have caught it, in the same session, and publish (see SK
   and the motif does not reach it, Surface is 1 at most, however rich the rest is.
 - Many small soft lobes (feathers, scales, petals) score 0 to 1 on Solidity even when watertight: they read torn or
   floppy. Fewer, larger, stiff plates.
+
+## Added 21 Nov 2026 (Bombyx live-page review)
+- Even fidelity across a collection: put the collection's best-detailed piece (for Bombyx, the carved LOULAN
+  feathers) next to each piece at the same size. Any piece whose surfaces are plainer (open outlines, smooth
+  struts) scores Even fidelity 0 to 1, however clean it is.
+- Solidity of heads: for every stone head, find the narrowest place where metal links the setting to the rest
+  (sculpted-metal-casting `check_joints.py`), then look at it in the main view. One visible link, or members ending
+  as stubs against the gallery, scores 0, whatever the numbers say.
+- Line on contours and tips: trace every arc the eye reads as one curve (a crescent's inner edge) and every free
+  tip. A knuckle on the arc or a rounded nub on a tip meant to be sharp scores Line 0.
+- Bundles (ribbons, vines, strands): they share one rule (an even fan, a common wave). Random crossings or merges
+  score Focus 0 to 1.

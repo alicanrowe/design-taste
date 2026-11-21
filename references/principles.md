@@ -5,9 +5,9 @@ are the ones that keep getting missed: check them hardest. Newest critique wins 
 
 ## A. The core of the taste (read these even if you read nothing else)
 
-**A1. Realised, not simple. (5 strikes)** Every round that read as a plain base object with an idea attached was
+**A1. Realised, not simple. (6 strikes)** Every round that read as a plain base object with an idea attached was
 rejected: boots r1 "these designs all suck and feel unrealised", boots r3 "how simple they are", the Swarm moths
-"these three motifs seem unrealised", the jewelry "a bit samey". A design is realised when its idea runs through
+"these three motifs seem unrealised", the jewelry "a bit samey", the Bombyx lotus ring "this feels kinda basic and boring". A design is realised when its idea runs through
 the whole object, every member is modelled, and it would hold up next to the best maker in its field.
 
 **A2. The motif is the structure, never a thing stuck on. (6 strikes)** What gets loved: the heel that *is* the
@@ -24,8 +24,10 @@ fit", "why do they all have elf shoes" (one stock foot on every variant), "this 
 nothing" (a generic handle on a gothic case). New parts are built from motifs already on the piece; list them
 before designing. Hero views hide the odd one out: look at a close-up of every part.
 
-**A4. Consistent detail quality. (4 strikes)** "the details are inconsistent in quality", "crazy low poly",
-"line weights seem unresolved", "like 2% too messy". Every part is modelled to the same fidelity and finish. A
+**A4. Consistent detail quality. (5 strikes)** "the details are inconsistent in quality", "crazy low poly",
+"line weights seem unresolved", "like 2% too messy", "why cant these petals be as detailed as those feathers?"
+(Bombyx: the carved LOULAN feathers were "a really cool piece"; the open-outline petals beside them were not). The
+best-detailed piece in a set is the bar for every other piece in it. Every part is modelled to the same fidelity and finish. A
 richly cast buckle on a default-shell boot, lames on the sleeve of an otherwise blank jacket, or a stitched line
 where its neighbours are cast relief all read as unfinished.
 
@@ -35,10 +37,12 @@ side reads weak; every face of a ring should carry detail" ("meh from this view"
 modelled: layered in depth, relief, overlap, over-and-under, crimping, moulding, carving. Quiet areas exist, but
 they are deliberate rest fields bounded by detail (A9), not big undifferentiated panels.
 
-**A6. Solid, never flimsy or floppy. (8 strikes)** "details that are flimsy or floppy", "this spike seems
+**A6. Solid, never flimsy or floppy. (9 strikes)** "details that are flimsy or floppy", "this spike seems
 fragile", "seems fragile" (earring wire), "these gaps would be too weak in real life", "not possible in real
 life" (long thin dangling tail), "cant have any floating pieces bro", "is this not too fragile could it support
-the weight of a man", "wavy as hell" (bars). Details read heavy and stiff: thick roots, tied-in ends, real
+the weight of a man", "wavy as hell" (bars), "this being the only connection point seems a lil weak" (a stone head carried on one vine
+tip). A head or any heavy part is tied in at several points and is seen to be: members flow into it, wrap under it
+or root into a seat, never end as a stub touching its side. Details read heavy and stiff: thick roots, tied-in ends, real
 section, closed loops. Nothing dangles, droops, flaps, wobbles or floats. Hanging parts are short and
 deliberate (the unequal chain drops are the exception that was loved: short, cast as one, weighty stones).
 
@@ -52,8 +56,9 @@ your understanding of design is somehow getting worse. I want them to be more cr
 classic types produced classic-looking work. Take function and makeability from classics; take the look from the
 brief. Every design needs one silhouette idea you can see in the main view.
 
-**A9. One focal point and quiet space. (5 strikes)** "this is kinda busy", "too much going on" (twice), "messy",
-"noisy and random", "a mess" (a whole stud family). Three or four motifs per piece, detail clustered at joins and
+**A9. One focal point and quiet space. (6 strikes)** "this is kinda busy", "too much going on" (twice), "messy",
+"noisy and random", "a mess" (a whole stud family), "this a bit of a mess geometrically" (Bombyx streamers that
+crossed and merged at random). Three or four motifs per piece, detail clustered at joins and
 terminals, a focal point with breathing room, crossing members passing clean. Busy is not the same as realised:
 A1 is about every part being designed, A9 about where the eye lands.
 
@@ -70,8 +75,9 @@ common robotic flag), no kinks ("maybe smooth this curve", "needs smoothing", "g
 **B2. Smooth, fair tapers; no lumps or blobs. (4)** "fix this being lumpy", "lumpy tumour", "body is mega
 fucked", "body is weird". Long spikes and horns taper smoothly; junctions blend without bulges.
 
-**B3. No nubs, no ball ends, no stubs. (8)** "ewwww nub", "bum ass nub", "this nub on the tail is awful",
-"nice curve ruined by nub", "this ball is weird". Every end tapers to a clean point, curls, or ends blunt in its
+**B3. No nubs, no ball ends, no stubs. (10)** "ewwww nub", "bum ass nub", "this nub on the tail is awful",
+"nice curve ruined by nub", "this ball is weird", "these nubs could be smoothed so it makes more of a circle shape",
+"think these points should be sharper" (Bombyx streamer tips ending in rounded nubs). Every end tapers to a clean point, curls, or ends blunt in its
 own section.
 
 **B4. Spikes are sharp and grow from the member. (3)** "make this spike sharp and smoothly go into the rest of
@@ -85,6 +91,14 @@ straight and tensioned. Melting or drooping forms are out ("too dali esque", "aw
 isnt possible", leather that renders like rubber, milky stones. Render like a product photo: dense geometry, real
 bevels, matte calf, bright silver with dark recesses, correctly coloured stones. "dont clip them", "always run a
 clipping check for everything always man".
+
+**B8. A contour that reads as one curve is one curve. (1)** "these nubs could be smoothed so it makes more of a
+circle shape" (the inner edge of a crescent kinked where it met the horns). When two members together draw an
+arc, circle or line, build that contour as one curve and hang the members off it, so the eye never hits a knuckle.
+
+**B9. Ordered rhythm in bundles. (1)** "this a bit of a mess geometrically" (Bombyx ribbons). Strands, ribbons
+and vines in a group share one rule: an even fan, a common wave, graded lengths, stacked in depth. They don't
+cross at random or merge into each other; a crossing is a single deliberate over-and-under.
 
 **B7. Asymmetry is bold or absent. (3)** "aysmetrical details should be bigger and more obvious so they seem more
 purposeful", "asymetrical?" on a jittery wing. Mirror the pair, or make one element clearly, intentionally

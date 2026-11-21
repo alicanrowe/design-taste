@@ -35,3 +35,8 @@ before showing anything.
 - Classic-benchmarked lookalikes when the brief asked for creative. ("super ugly and unoriginal")
 - Costume or cosplay reads; copying a game character's real garment.
 - Glossy grey leather that reads as rubber; milky or untextured stones; low-poly facets; clipping of any kind.
+- Open-wire outline panels (a leaf, petal or wing drawn as an empty rim with a few thin struts) at sizes where the
+  cells read as holes, about 8 mm across and up. ("kinda ugly", "basic and boring") Model them solid and carved
+  (rib and engraved veins, like the loved carved feathers) or fill the cells.
+- A stone head held by one visible link, or members that stop as stubs against a setting. ("only connection point
+  seems a lil weak")

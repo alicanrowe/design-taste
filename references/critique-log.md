@@ -111,3 +111,20 @@ sculpted-metal-casting skill's `client-picks.md`; they are counted into the stri
   types must be things people actually wear now; a type that only exists to avoid repeating a type is a fail
 - Silk Road jewelry (Bombyx, 64 cast pieces) | all | "Bombyx is nearly perfect though" (said beside the Governor
   r1 critique) | -> approval: Bombyx is the quality bar for jewelry (form, surface, finish), see domains
+- Silk Road jewelry (Bombyx, live page review) | BALAS ring, where a vine meets the stone head | "this being the
+  only connection point seems a lil weak" | -> A6, rubric 6 (a head visibly tied in at several points)
+- Bombyx | crescent ring (Yueyaquan), inner edge where the horns meet the stone row | "these nubs could be smoothed so
+  it makes more of a circle shape" | -> B3, B8 (a contour the eye reads as one curve stays one curve)
+- Bombyx | LOULAN pendant (shingled carved feathers, an asymmetric sweep, a spiral bail) | "this is a really cool
+  piece" | -> approval: the carved-feather surface is the jewelry detail bar (A4, A5)
+- Bombyx | ZAOJING ring (open-outline lotus petals with plain inner struts) | "why cant these petals be as detailed
+  as those feathers?"; "this feels kinda basic and boring" | -> A4, A5, A1, banned-moves (open-wire panels)
+- Bombyx | FEITIAN ring (tubular streamers curling over the stone) | "this a bit of a mess geometrically" | -> A9,
+  B9 (ordered rhythm: an even fan, one shared wave, no random crossings)
+- Bombyx | FEITIAN pendant streamer ends | "think these points should be sharper" | -> B3, B4
+- Bombyx | VINE earrings (open-wire grape-leaf "wings", a lumpy stalk, a cluster of three small stones) | "kinda
+  ugly" | -> banned-moves (open-wire panels), B2, A2
+- Bombyx | BUYAO earrings (solid modelled willow leaves, two ruby ovals) | "really nice" | -> approval: solid
+  modelled leaves and fewer, larger stones beat open outlines and many small ones
+- Bombyx | BUYAO hair clip (a spare branch, veined leaves, ruby buds on fine sprung stems) | "super well done" |
+  -> approval: a spare elegant line with detail at the terminals (A9)
