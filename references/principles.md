@@ -87,9 +87,13 @@ straight comb ("these are ugly tho"). Wearables round off points ("prolly too sh
 **B5. Taut where it should be taut. (2)** "wavy as hell", "eww wavy as hell": bars, frames and straps stay
 straight and tensioned. Melting or drooping forms are out ("too dali esque", "awful").
 
-**B6. Real-world fidelity in the render. (4)** "crazy low poly", "is the metal clipping through the glass that
-isnt possible", leather that renders like rubber, milky stones. Render like a product photo: dense geometry, real
-bevels, matte calf, bright silver with dark recesses, correctly coloured stones. "dont clip them", "always run a
+**B6. Real-world fidelity in the render. (5)** "crazy low poly", "is the metal clipping through the glass that
+isnt possible", leather that renders like rubber, milky stones, and "how can we up our jewlery collections to reach
+this fidelity" (21 Nov, holding up phone photos of a maker's real oxidised, densely carved sterling in low sun).
+The bar is a photo of a real, finished piece: dense geometry, real bevels, matte calf, sterling oxidised black in
+every recess with the high points rubbed bright, carving deep and dense enough to hold that black, a hard low
+light with a cast shadow (never floating), correctly coloured stones. A uniform mirror-chrome silver in a soft
+tent fails this even when the design is right. "dont clip them", "always run a
 clipping check for everything always man".
 
 **B8. A contour that reads as one curve is one curve. (1)** "these nubs could be smoothed so it makes more of a

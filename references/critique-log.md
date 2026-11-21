@@ -168,3 +168,8 @@ sculpted-metal-casting skill's `client-picks.md`; they are counted into the stri
   with CAD files and stones selected?", "and like all the pieces actually" | -> the design isn't finished until it
   can be handed to a jeweler: findings are bought (ear wires, posts, barrettes) and soldered to cast loops or pads,
   never modelled as fused fakes; every piece ships as a watertight STL with a stone list.
+- 21 Nov | jewelry, all collections | a reel of a maker's real pieces in late sun (feather-and-eye cuff carved in
+  hundreds of oxidised barbs, double-cupid pendant, filigree rings, held in hand over asphalt) | "how can we up our
+  jewlery collections to reach this fidelity" | -> B6 sharpened (oxidised recesses, carving deep enough to hold
+  black, low hard light, cast shadow, never floating); domains (Cast metal: jewelry) fidelity bar; render
+  look in sculpted-metal-casting `render-fidelity.md`.

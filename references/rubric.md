@@ -36,7 +36,7 @@ Bar to show: **no zeros, and at least 20 of 24.** For the client's own flagship 
 | 7 | **Line** | strokes swell and taper, curves accelerate, tapers smooth, ends clean | even tubes, kinks, lumps, nubs, wobble | B1 to B4 |
 | 8 | **Focus** | one focal point, three or four motifs, quiet around it | busy, noisy, competing centres | A9 |
 | 9 | **Mood** | dark, gothic, considered; could only be this client's | pretty, cute, generic, costume | A7 |
-| 10 | **Reference match** | at reference size it sits beside the references without looking like a render or a copy | the references make it look cheap, flat, or like plastic | A10, E5 |
+| 10 | **Reference match** | at reference size it sits beside the references without looking like a render or a copy; for metal, it could pass beside a phone photo of real oxidised cast silver (dark recesses, bright worn highs, cast shadow) | the references make it look cheap, flat, or like plastic; uniform chrome silver floating on white | A10, B6, E5 |
 | 11 | **Fit to world** | built from the host piece's or collection's own motifs; liked moves reused | ignores the host, or drops a pick the client loved | A3, E2, E3 |
 | 12 | **Distinct** (for sets) | each variant has its own silhouette idea | variants differ by seed, colour or stone | A1 |
 

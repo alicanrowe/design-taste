@@ -11,6 +11,9 @@ already gone wrong and what passing looks like.
 - Every face of a ring carries detail. Wearables: no sharp points, wire and links at least 1.0 mm.
 - Reference for a finished piece: Bombyx SENMURV ("looks super good", 21 Nov): carved plumes from one root, a
   claw-set eye tied in by several members, every end drawn to a point or buried. Measure new pieces against it.
+- Fidelity bar (21 Nov): it must pass as a phone photo of real cast sterling. Oxidised recesses with rubbed-bright
+  high points, barbs and cuts deep enough to hold black, three relief depths at the focal point, a low hard light and
+  a cast shadow on white. How: sculpted-metal-casting `render-fidelity.md` and `LOOK=fidelity`.
 - Domain rules: sculpted-metal-casting `style-rules.md`, `client-picks.md`, `casting-rules.md`.
 
 ## Machined metal (jewelry as precision parts)
