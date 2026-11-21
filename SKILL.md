@@ -39,6 +39,15 @@ The point is to get it right before the client sees it, instead of finding taste
 4. **Show only what passed**, with the score line. If the client asked not to review along the way, publish the
    passing set and report once.
 
+## Excuses that don't count
+Each of these is a shortcut that ends in a broken result. If you catch yourself thinking the left column, do the right column.
+
+| The excuse | What to do instead |
+|---|---|
+| "The owner will like this one, it's close" | Score it on the rubric first. Anything under the bar goes back into the loop, not to the owner. |
+| "That critique is obvious, no need to log it" | Log the exact words in the critique log the same session and distil them into the principles. |
+| "The variants are different enough" | Run the sameness check; variants that differ only by colour, seed or stone fail. |
+
 ## Keep it improving (standing rule, every thread, every project)
 Whenever the client gives design critique of any kind (a pin on a sheet, a word in chat, a reaction to a live
 page, a pick between options), in the same session:
