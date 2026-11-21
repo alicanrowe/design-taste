@@ -27,6 +27,20 @@ already gone wrong and what passing looks like.
   to be beautiful jewelry first (proportion, a flowing silhouette, volume that catches light, detail at jewelry
   scale) and read as the part second. Test: hide the story; would someone still want to wear it?
 - Line (rubric 7) reads as: straight where the part is straight, true arcs, crisp edges, no wobble, no blobs.
+- Round 2 failed too ("still think governor is really ugly"; "i dont like any of the pieces atm", 21 Nov): melted,
+  swelling liquid lines and blobby cups are the wrong language for men's jewelry. The client's reference for men's
+  pieces is a downtown men's chain-and-bar maker (URL in the critique log). What it does, and what to copy in spirit:
+  - Real, plain chains as the body of the piece: cable, anchor, box, curb, snake, ball. Mostly 2 to 6 mm, worn
+    loose. Mixed chains in one piece (fine beside heavy) and multi-wrap are the signature moves.
+  - One "disruption" per piece: a single bar, tube, ID plate or ring breaking the chain. Never more than one idea.
+  - Hand-forged and distressed: hammer marks, softened edges, an oxidised grey patina rubbed back on the high
+    points. Nothing mirror-bright, nothing sculpted, nothing swollen.
+  - One small signature stone (a tiny ruby), set flush or as a ball, off-centre. Never a gem cluster.
+  - Small and wearable every day. Quiet. The bracelet laid in a loop on white is the hero image.
+  - Test: would this sit in that maker's case without looking like a sculpture? If it looks melted, organic or
+    like a model of a machine, it fails.
+- So for machined pieces: the machine part is the one disruption element (a turned spool as the bar, a drilled
+  plate as the ID tag, a ring gear as the key ring), carried on honest chain or a plain band, distressed, small.
 
 ## Cast metal: furniture-scale (sawhorses, case hardware, jail grilles, tools)
 - Loved: Durumi's crane foot and bojagi seat, Thread's twisted-strand foot, Edge's tapered side profile, thorned

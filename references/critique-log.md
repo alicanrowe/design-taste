@@ -135,3 +135,11 @@ sculpted-metal-casting skill's `client-picks.md`; they are counted into the stri
   perfect" | -> first pass was chunky, sparse and one-note (balloon sausages only). Fine barbed linework, small
   stones and colour coats brought it near the bar. Self-check: does each piece have fine detail at the terminals,
   or only big forms?
+- Governor r2 (oil drawn as liquid silver lines, small turned and knurled nodes, antiqued) | whole collection |
+  "still think governor is really ugly maybe add this to ur influences to help
+  https://titleofwork.com/collections/mens-bracelets"; "i dont like any of the pieces atm" | -> full redesign of all
+  12, not a tweak. Influence added (domains: Machined metal / men's jewelry). Cause: the r2 forms were
+  sculptural blobs (melted lines, swollen cups) on a men's brief; the reference is the opposite: plain heavy
+  sterling chains, tubes, bars and ID plates, hand-forged and distressed, one small ruby, nothing sculpted.
+  Self-check for men's pieces: would this sit in a men's chain-and-bar case beside the reference, or does it
+  look like a melted sculpture?
