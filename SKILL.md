@@ -36,7 +36,14 @@ The point is to get it right before the client sees it, instead of finding taste
 3. **Score before showing.** Run `rubric.md` on the real render, including a close-up of every part. Write the
    scores in the piece's notes. Anything that fails a gate or scores under the bar is fixed and re-rendered, not
    shown. Use the domain skill's own checks (clipping, casting, fit) as gate G1 to G3.
-4. **Show only what passed**, with the score line. If the client asked not to review along the way, publish the
+4. **Cross-check a set before picking (blind critique).** When a step makes several variants or a pick among
+   options, don't let the maker grade its own work alone. Give each variant to a reviewer that did not make it
+   (a separate agent with only the brief, `principles.md`, `banned-moves.md`, `rubric.md` and the renders, not
+   the maker's notes). Each reviewer's job is to find what's wrong: rubric fails, banned moves, the weakest part
+   at close-up. Fix what they find, carry a fix that wins on one variant across the others where it fits their
+   motif, then re-score. Keep it small: one reviewer per variant, at most five, one round, two only if a gate
+   still fails. Skip it for a single quick fix.
+5. **Show only what passed**, with the score line. If the client asked not to review along the way, publish the
    passing set and report once.
 
 ## Excuses that don't count
@@ -46,6 +53,7 @@ Each of these is a shortcut that ends in a broken result. If you catch yourself 
 |---|---|
 | "The owner will like this one, it's close" | Score it on the rubric first. Anything under the bar goes back into the loop, not to the owner. |
 | "That critique is obvious, no need to log it" | Log the exact words in the critique log the same session and distil them into the principles. |
+| "I scored it myself, it passes" | For a set or a pick, run the blind cross-critique in step 4; the maker misses its own flaws. |
 | "The variants are different enough" | Run the sameness check; variants that differ only by colour, seed or stone fail. |
 
 ## Keep it improving (standing rule, every thread, every project)
