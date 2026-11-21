@@ -40,3 +40,6 @@ before showing anything.
   (rib and engraved veins, like the loved carved feathers) or fill the cells.
 - A stone head held by one visible link, or members that stop as stubs against a setting. ("only connection point
   seems a lil weak")
+- In film and reels: hard jump cuts between shots when one continuous move would work; small floating islands
+  of terrain in a void where an endless ground plane would do; cartoon puff clouds. ("no jumpcuts", "grass going
+  forever into the horizon instead of these floating islands", "the clouds look pretty stupid", 21 Nov)

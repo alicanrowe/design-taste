@@ -143,3 +143,9 @@ sculpted-metal-casting skill's `client-picks.md`; they are counted into the stri
   sterling chains, tubes, bars and ID plates, hand-forged and distressed, one small ruby, nothing sculpted.
   Self-check for men's pieces: would this sit in a men's chain-and-bar case beside the reference, or does it
   look like a melted sculpture?
+- Jewelry reel (90 s, 9:16; white grass, red water, black sky; seasonal gem captions) | video, environment | "can i
+  see a version with no jumpcuts and the grass going forever into the horizon instead of these floating islands
+  you build and make the water blackish instead of red, the drop settings part is sick and the final shot of all
+  the jewlery is cool the clouds look pretty stupid tho" | -> v10: one continuous camera move, endless white grass
+  to the horizon, near-black water, no clouds. Kept: drop-settings section, final all-pieces line-up. Self-check
+  for environments: does it read as one endless world, or as props floating in a void? Are the cuts earned?
