@@ -246,4 +246,8 @@ sculpted-metal-casting skill's `client-picks.md`; they are counted into the stri
   of compute on an animation" | -> B6 strike 6 (wood realism and metal polish are part of the fidelity bar). Process:
   samples and style frames before any animation compute (E-rule, already in the pacing check). The reel follows the
   pacing rule (no dead holds) and the specimen-sheet grade.
+- 2026-11-22 | Moth v8 samples (white ash with open pores, rift legs and posts, cathedral panels, oil sheen; polished
+  rhodium and brass with satin recesses; dark single-light style frames with specimen-sheet overlays and exploded
+  joints) | "sick, man. These are fucking incredible." | -> approval: the v8 materials are the bar for wood and
+  polished metal (B6), and the dark one-light specimen-sheet frame is approved for the Moth reel.
 
