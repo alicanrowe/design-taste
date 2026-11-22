@@ -179,6 +179,10 @@ sculpted-metal-casting skill's `client-picks.md`; they are counted into the stri
   Rib, Lames, Vein, Tendon. Cause: every chair was a welded tube frame with the cast form set on it; the blind
   reviewers said the same four rounds running and local fixes never moved the score. Fix: the body's own ribs,
   pipes, lames or strands run on down as the legs, the tube lives inside them, and no bare generic leg is left.
+- 22 Nov | chairs, one-body round (six liked chairs: Vertebra, Lancet, Rib, Lames, Vein, Tendon, all passing the
+  load check) | "these look pretty good" | -> confirms A2 fix: legs grown from the body read as one piece. Structure
+  hidden inside the casting (welded plates in webs, machined nodes in knuckles, domed glides) kept the look intact;
+  Tendon's forked front legs (from the MultiPipe reel) were in the set he approved.
 
 - 22 Nov | jackets, 9 leather Sculpture jackets (round 4 renders) | "these jackets are all kinda cool but look like
   CAD and not real life"; "sized to a size 40mens jacket and all pieces to be laser cut and hand saddle stitched" |
