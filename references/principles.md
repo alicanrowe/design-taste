@@ -87,14 +87,20 @@ straight comb ("these are ugly tho"). Wearables round off points ("prolly too sh
 **B5. Taut where it should be taut. (2)** "wavy as hell", "eww wavy as hell": bars, frames and straps stay
 straight and tensioned. Melting or drooping forms are out ("too dali esque", "awful").
 
-**B6. Real-world fidelity in the render. (5)** "crazy low poly", "is the metal clipping through the glass that
+**B6. Real-world fidelity in the render. (6)** "crazy low poly", "is the metal clipping through the glass that
 isnt possible", leather that renders like rubber, milky stones, and "how can we up our jewlery collections to reach
 this fidelity" (21 Nov, holding up phone photos of a maker's real oxidised, densely carved sterling in low sun).
 The bar is a photo of a real, finished piece: dense geometry, real bevels, matte calf, sterling oxidised black in
 every recess with the high points rubbed bright, carving deep and dense enough to hold that black, a hard low
 light with a cast shadow (never floating), correctly coloured stones. A uniform mirror-chrome silver in a soft
 tent fails this even when the design is right. "dont clip them", "always run a
-clipping check for everything always man".
+clipping check for everything always man". "their cad jewlery looks alot better than anything uve made" (22 Nov, a maker's
+ZBrush signet: hundreds of crisp, round-sectioned swirls laid in layers over a stippled black ground): dense
+ornament comes from placing a sculpted element many times over a heavy blank, not from a few swept strokes.
+Wood is held to the same bar: "i rekon u can make the wood material and texture a lot more realistic too and polish
+up some of those metal elements" (22 Nov, Moth case, before any casting order). Real species figure (ash: open
+earlywood pores, straw latewood, rift on legs and posts, cathedral on flat-sawn panels), true end grain only on
+ends, an oil sheen not a coat, and metals with polished highs and satin or oxidised recesses, never one flat chrome.
 
 **B8. A contour that reads as one curve is one curve. (1)** "these nubs could be smoothed so it makes more of a
 circle shape" (the inner edge of a crescent kinked where it met the horns). When two members together draw an
@@ -175,3 +181,7 @@ the job. This does not lift A5: flat sheet still may not stand in for a sculpted
 sheet itself: stacked and laminated slices that build a carved volume, slotted and interlocking plates, bent
 flanges, layered offsets, edge-on profiles. Every cut part ships as a DXF with material, thickness and process
 named in the BOM.
+
+**E9. Samples before heavy compute. (1)** "send me some samples to okay before burning a ton of compute on an
+animation" (22 Nov, Moth reel). Before any animation or farm render: a few full-size stills of the materials, the
+key style frames and the shot list with timings go to the client first; the animation starts only on their OK.

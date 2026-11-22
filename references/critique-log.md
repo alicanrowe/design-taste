@@ -230,3 +230,20 @@ sculpted-metal-casting skill's `client-picks.md`; they are counted into the stri
   super cool" | -> influences (Presentation and grade: preferred reel format, reference to result) and domains
   (Site pages and renders).
 
+- 2026-11-22 | jewelry CAD, all collections | sent a reel of a maker sculpting a cast-silver signet in ZBrush
+  (a heavy plain blank, one crescent swirl element placed hundreds of times in layers, stippled black ground,
+  fused into one mesh) | "their cad jewlery looks alot better than anything uve made can u replicate something
+  closer to their process or pipeline so things look better"; then a three.js robot-eye comparison: "why cant
+  your cad skills get this level of fidelity yet improve them til u can"; then a linked-petal brooch reel: "for
+  jewlery maybe" | -> B6 (density and crispness come from the modelling method, not only the light): the
+  insert-and-layer method in sculpted-metal-casting `references/insert-layer.md`; hard-surface lessons in
+  `machined-jewelry.md`; linked cast units in `buildable.md`.
+
+- 2026-11-22 | Moth (ash toolbox case, stand, rhodium lancets and castings, ten tools) | asked for a "stylised moth
+  animation kinda like the jewlery reel ... highlighting all the joinery and stuff but just a lot swaggier", then "i
+  rekon u can make the wood material and texture a lot more realistic too and polish up some of those metal elements
+  too before we start ordering parts to be caste or whatever", and "send me some samples to okay before burning a ton
+  of compute on an animation" | -> B6 strike 6 (wood realism and metal polish are part of the fidelity bar). Process:
+  samples and style frames before any animation compute (E-rule, already in the pacing check). The reel follows the
+  pacing rule (no dead holds) and the specimen-sheet grade.
+

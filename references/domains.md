@@ -56,6 +56,17 @@ already gone wrong and what passing looks like.
 - Hardware for an existing piece starts from that piece's own motifs (list them first).
 - Domain rules: sculpted-metal-casting `furniture-scale.md`, `design-coherence.md`, `buildable.md`.
 
+## Cut sheet, stacked (SendCutSend laminations: Nave, Ogive, Crocket)
+- Depth comes from stacking edge-on profiles, but the layer ends are where it fails. Fixed inward offsets of one
+  outline leave each outer layer ending in a square step, which reads as a stub (blind critique of Crocket r1,
+  22 Nov: "square, stepped layer ends ... read as unfinished cuts"). Build every layer from the same strokes at
+  reduced width, and make each outer pair stop a little earlier at every tip in a long taper, so the ends nest
+  as points and the centre layer runs on alone to the point.
+- A wall plate or base under a laminated stroke hugs it: a narrow stepped plate a few mm wider than the stack,
+  not a wide blank panel with the piece laid on it.
+- A spur or brace lands on the plate or the next member; a thin point ending in air beside a screw reads as an
+  afterthought.
+
 ## Wood furniture
 - The bar is the client's own carving (Fawn Orchard): long gouge scoops along the grain, pierced lancets, oiled
   walnut. When asked for "only solid wood carving", every metal, ply or bought part goes (keep what the client
