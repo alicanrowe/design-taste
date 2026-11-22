@@ -182,7 +182,7 @@ sculpted-metal-casting skill's `client-picks.md`; they are counted into the stri
 - 22 Nov | chairs, one-body round (six liked chairs: Vertebra, Lancet, Rib, Lames, Vein, Tendon, all passing the
   load check) | "these look pretty good" | -> confirms A2 fix: legs grown from the body read as one piece. Structure
   hidden inside the casting (welded plates in webs, machined nodes in knuckles, domed glides) kept the look intact;
-  Tendon's forked front legs (from the MultiPipe reel) were in the set he approved.
+  Tendon's forked front legs (from the MultiPipe reel) were in the approved set.
 
 - 22 Nov | jackets, 9 leather Sculpture jackets (round 4 renders) | "these jackets are all kinda cool but look like
   CAD and not real life"; "sized to a size 40mens jacket and all pieces to be laser cut and hand saddle stitched" |
