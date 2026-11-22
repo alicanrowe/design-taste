@@ -180,3 +180,9 @@ sculpted-metal-casting skill's `client-picks.md`; they are counted into the stri
   reviewers said the same four rounds running and local fixes never moved the score. Fix: the body's own ribs,
   pipes, lames or strands run on down as the legs, the tube lives inside them, and no bare generic leg is left.
 
+- 22 Nov | jackets, 9 leather Sculpture jackets (round 4 renders) | "these jackets are all kinda cool but look like
+  CAD and not real life"; "sized to a size 40mens jacket and all pieces to be laser cut and hand saddle stitched" |
+  -> a garment is real only when it is made from its own flat pattern: pieces flattened to a laser-cut SVG/DXF at
+  1:1, sewn with lapped saddle-stitched seams, draped by gravity on a 40R form, and shot on a ghost mannequin on
+  white (no people). No painted pillows or wrinkles; black must read black, not charcoal. A corset with a busk and
+  boning (STAY) needs real boned channels, so it was held back. Pipeline and lessons are in jackets/kit5/README.md.
