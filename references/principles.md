@@ -10,13 +10,13 @@ rejected: boots r1 "these designs all suck and feel unrealised", boots r3 "how s
 "these three motifs seem unrealised", the jewelry "a bit samey", the Bombyx lotus ring "this feels kinda basic and boring". A design is realised when its idea runs through
 the whole object, every member is modelled, and it would hold up next to the best maker in its field.
 
-**A2. The motif is the structure, never a thing stuck on. (6 strikes)** What gets loved: the heel that *is* the
+**A2. The motif is the structure, never a thing stuck on. (7 strikes)** What gets loved: the heel that *is* the
 hoop, the foot that is the leg continuing (Durumi's crane foot: "does the best job at being consistent with the
 theme"), wings whose longest feather lands on the leg as a brace, a jail grille that is the cast lancet with the
 moth hanging from it ("fucking sick"). What gets rejected: a ram horn ring bolted on an ankle ("so stupid and
 gimmicky"), a ball on a stalk to pass a tip rule ("this ball is weird", "lumpy spike"), a small floating ring
 behind a heel, a bug pictogram pinned at a crossing ("the literal bug sucks"), straight clip bars poking out of a
-body. Test: delete the feature in your head. If what is left is a normal, plain object, the feature was a gimmick.
+body, chair legs that "feel separate from the boddies" (stock tubes under a cast seat and back). Test: delete the feature in your head. If what is left is a normal, plain object, the feature was a gimmick.
 
 **A3. One language, head to toe. (5 strikes)** Every part speaks the piece's own language: "this part of carved
 doesnt fit the rest of the piece" (smooth chrome hooks on an all-carved piece), "the smooth abdomen ... doesn't

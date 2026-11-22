@@ -173,3 +173,10 @@ sculpted-metal-casting skill's `client-picks.md`; they are counted into the stri
   jewlery collections to reach this fidelity" | -> B6 sharpened (oxidised recesses, carving deep enough to hold
   black, low hard light, cast shadow, never floating); domains (Cast metal: jewelry) fidelity bar; render
   look in sculpted-metal-casting `render-fidelity.md`.
+- 22 Nov | chairs, cast-PU Sculpture set (10 lounge/side chairs, round 4 previews on a contact sheet) | "123479 have
+  something to them but all 10 need extensive work the legs feel separate from the boddies" | -> A2 strike 7 (legs
+  are the body carried to the floor), banned-moves (stock tube legs under a cast body). Liked: Vertebra, Lancet,
+  Rib, Lames, Vein, Tendon. Cause: every chair was a welded tube frame with the cast form set on it; the blind
+  reviewers said the same four rounds running and local fixes never moved the score. Fix: the body's own ribs,
+  pipes, lames or strands run on down as the legs, the tube lives inside them, and no bare generic leg is left.
+

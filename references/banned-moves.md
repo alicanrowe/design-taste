@@ -6,6 +6,9 @@ before showing anything.
 ## Any medium
 - A plain, standard object with one feature attached (a ring on an ankle, a hoop behind a heel, a motif glued
   on a blank panel). The feature must be the structure. ("so stupid and gimmicky")
+- Legs or a base that read as a separate stock frame under the body (welded tubes under a cast seat and back, a
+  four-leg ring base, a bistro column). The body's own ribs, pipes, lames or strands carry on down to the floor,
+  with the tube inside them. ("the legs feel separate from the boddies")
 - One part at lower fidelity or in another language than the rest (smooth chrome among carving, a default shell
   under rich hardware). ("doesnt fit the rest of the piece", "inconsistent in quality")
 - Large flat, unmodelled panels or plates; flat laser-cut sheet standing in for a sculpted motif. ("a lot of flat
