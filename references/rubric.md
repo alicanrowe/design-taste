@@ -89,3 +89,10 @@ Add the line that would have caught it, in the same session, and publish (see SK
   A form that fails in clay is reworked before surfacing, not rescued by the finish. Keep the clay sheet in the
   piece's notes; it is a check, not something to show the client unless they ask. (After a stool form study
   shown "in neutral clay white, one form, seven angles", 22 Nov.)
+
+## Added 22 Nov 2026 (reel pacing)
+- Pacing: play the cut at full speed once, start to finish, before showing it. Any stretch over about 2 s where
+  nothing new enters the frame (no new piece, label, reveal or change of direction) is a fail; speed-ramp it or
+  cut it. Each piece gets a short beat, not a long hold, and travel between pieces runs faster than the beat.
+  A social reel of a collection lands around 40 to 50 s. (After "the timing seemed super awkwardly long pauses",
+  on the 1:30 the jewelry line reel, 22 Nov.)

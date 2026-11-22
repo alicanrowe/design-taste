@@ -194,3 +194,8 @@ sculpted-metal-casting skill's `client-picks.md`; they are counted into the stri
 - 2026-11-22 | shrine bench | reference | sent a reel of a dark stone console with a light flow inlaid in its top:
   "for shrine bench maybe" | -> v13: oiled walnut flow from each seat toward the screen, the rest gouge-carved and
   ebonised. Logged as an influence, not a critique.
+
+- 2026-11-22 | jewelry reel (the jewelry line v10, one continuous 1:30 shot over endless white grass, black river, 16
+  pieces, drop settings, all-pieces finale) | "i really liked the reel u made for the jewlery but the timing seemed
+  super awkwardly long pauses and shit" | -> loved: the one-shot look. Banned: dead holds in reels. Rubric: pacing
+  check. Retimed from the same frames to about 47 s with speed ramps (fast between pieces, short beat on each).
