@@ -210,3 +210,8 @@ sculpted-metal-casting skill's `client-picks.md`; they are counted into the stri
   "this is sick" | -> influences (Metal and jewelry). Agrees with the saves' spine and vertebra motif and tribal
   linework (instagram-saves S4, S5). Logged as an influence, not a critique.
 
+
+- 2026-11-22 | process, all design work (said while new lights were being started) | "automated as much possible
+  shold be the goal for all design stuff laser cut or use send cut send as much as possible you know tjat kinda
+  stuff" | -> new principle E8 (automated production first; depth from stacked, slotted and bent sheet so A5
+  still holds). Standing rule for every project.

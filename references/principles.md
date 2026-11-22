@@ -166,3 +166,12 @@ reference (colour, light, camera) rather than eyeballing.
 **E7. Physically real.** "recursively check for real world fabricability", "keep in mind what leather i will buy
 ... so it can be actually produced", "would these wires be purchased?". Every part names its material, stock size
 and process.
+
+**E8. Automated production first: laser-cut and SendCutSend parts. (1)** "automated as much possible shold be
+the goal for all design stuff laser cut or use send cut send as much as possible you know tjat kinda stuff"
+(22 Nov). Design every piece around parts a machine makes from a file: laser/waterjet-cut and bent sheet
+(SendCutSend), CNC, 3D print, then bought parts. Hand fabrication and casting only where nothing automated can do
+the job. This does not lift A5: flat sheet still may not stand in for a sculpted surface. Make depth from the
+sheet itself: stacked and laminated slices that build a carved volume, slotted and interlocking plates, bent
+flanges, layered offsets, edge-on profiles. Every cut part ships as a DXF with material, thickness and process
+named in the BOM.
