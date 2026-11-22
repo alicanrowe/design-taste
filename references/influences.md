@@ -44,10 +44,35 @@ Each collection's own brief sets the weights; this is the shared list of who mea
   two-finish contrast (one quiet smooth field against dark carved terrain) and the slow-wave bank. Not used: its
   pour-to-the-floor leg, which is a drip (banned).
 
+- **metastudio "gravity table"** (Istanbul, reel DfxACqzjqV3, 22 Nov, "i really like the look of this reel"): a
+  round clear glass top on two glass sheets slotted into a cross, with a dye cloud inside the glass that pools
+  under the top and pulls down the cross to the floor like a funnel or a drop of ink falling (brown, blue,
+  burgundy, black). Used: colour that lives *inside* a clear material as a gradient, the structure itself
+  carrying the motif (the funnel is the base), the plain slotted cross, one colourway per piece. Not used as
+  is: plain smooth glass alone would fail A5; for us the gradient goes in cast clear resin or glass that also
+  carries carved or cast relief.
+
 ## Metal, from the saves
 - Vintage watches with sculptural cases and quiet dials (Tank, Golden Ellipse, integrated bracelets) and infill
   planes in brass and exotic wood: the model for men's and machined pieces. Symmetrical spine and vertebra tattoo
   linework as a structural jewelry motif. `instagram-saves.md` S4, S5.
+
+- **Dinara Garaeva (ddgradiva) 3D-printed ornament** (reel DdQmyiPuNuq, 22 Nov, "this is sick"): mirrored,
+  bilateral neo-tribal and baroque-scroll ornaments (wing pairs, a vertebra spine, ear climbers, a scroll
+  appliqué on a black blazer) printed in clear resin and black, then finished as glassy clear, liquid chrome,
+  opal-iridescent pink and green, and clear with blue marbled resin swirled through. Thorn hooks and crescent
+  claws end every stroke. Used: one ornament made in several finishes as a set; clear resin as a jewelry finish
+  equal to silver; thick confident strokes with needle tips; ornament worn as garment appliqué. Shown on black
+  gloves, black clothes and white or grey, so the piece is the only colour.
+
+## Presentation and grade (liked reel looks)
+- **"Specimen sheet" grade** (from the gravity table reel): a pale warm-grey seamless with film grain, the object
+  centred small and floating in corner crop marks, a tiny monospace caption ("gravity table · brown") and
+  coordinate readouts, then real-room shots with white tracking boxes and hairlines pinned to parts of the piece,
+  a saturated label chip (ultramarine block, white mono text), and an end card in flat ultramarine with a small
+  chrome logo. Real light: one hard window light with a sharp floor shadow in a grey concrete room. Cuts on the
+  beat through each colourway. Use for turntables, colourway reels and site sheets; keep the client's brand fonts and
+  white backgrounds (D-rule) for stills unless the reel is the point.
 
 ## Digital
 - **Syd Mead**: ultra-wide lens, chrome megastructure, sunset palettes; the bar for the fractal engine's Syd preset.

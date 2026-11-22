@@ -199,3 +199,14 @@ sculpted-metal-casting skill's `client-picks.md`; they are counted into the stri
   pieces, drop settings, all-pieces finale) | "i really liked the reel u made for the jewlery but the timing seemed
   super awkwardly long pauses and shit" | -> loved: the one-shot look. Banned: dead holds in reels. Rubric: pacing
   check. Retimed from the same frames to about 47 s with speed ramps (fast between pieces, short beat on each).
+
+- 2026-11-22 | reference | sent metastudio's "gravity table" reel (clear glass round table on a slotted glass cross,
+  a dye funnel inside the glass in brown, blue, burgundy, black; grey specimen-sheet titles with crop marks, mono
+  captions, tracking boxes, ultramarine end card) | "i really like the look of this reel" | -> influences (Wood and
+  furniture; Presentation and grade). Liked: colour held inside clear material, structure as the motif, the
+  specimen-sheet grade. Logged as an influence, not a critique.
+- 2026-11-22 | reference | sent Dinara Garaeva's 3D-printing reel (mirrored neo-tribal and scroll ornaments, a
+  vertebra spine, ear climbers, a blazer appliqué; clear resin, chrome, opal-iridescent and blue-marbled finishes) |
+  "this is sick" | -> influences (Metal and jewelry). Agrees with the saves' spine and vertebra motif and tribal
+  linework (instagram-saves S4, S5). Logged as an influence, not a critique.
+
