@@ -52,6 +52,14 @@ Each collection's own brief sets the weights; this is the shared list of who mea
   is: plain smooth glass alone would fail A5; for us the gradient goes in cast clear resin or glass that also
   carries carved or cast relief.
 
+- **medium things "light doors"** (reel Dd_JOR3sZgR, 22 Nov, "cool too"): a slim wall light built from stacked
+  3D-printed fluted panels in offset bands. The ribs act as lenses, so each band blends from dark to glowing
+  as the viewing angle changes, and turning the lamp makes the bands flip light and dark against each other.
+  Shown in one handheld mirror shot in a dark bathroom, the lamp as the only light. Used: light that changes
+  with the viewer's angle, the motif built into the diffuser's own surface (ribs, not a printed pattern),
+  banded blocks offset like a shifted stack. For lamps (VIGIL), shoot it turning in the dark so the effect
+  is the subject.
+
 ## Metal, from the saves
 - Vintage watches with sculptural cases and quiet dials (Tank, Golden Ellipse, integrated bracelets) and infill
   planes in brass and exotic wood: the model for men's and machined pieces. Symmetrical spine and vertebra tattoo
@@ -73,6 +81,18 @@ Each collection's own brief sets the weights; this is the shared list of who mea
   chrome logo. Real light: one hard window light with a sharp floor shadow in a grey concrete room. Cuts on the
   beat through each colourway. Use for turntables, colourway reels and site sheets; keep the client's brand fonts and
   white backgrounds (D-rule) for stills unless the reel is the point.
+
+- **Preferred reel format: reference to result** (Impermanence Studios reel DgDhn3HgLt9, 22 Nov: "reels like this
+  that show how the inspo became a new thing is super cool"). One locked-off shot, no cuts, about 14 s. The
+  finished piece sits on a plinth against a dark block wall in hard side light, with a short white caption
+  over it ("this is my art"). From 0.5 s, reference photos (archival shoes, armour, beaded corsets) drop onto
+  the frame one at a time, about one every 0.25 s, overlapping into a collage that covers the piece. Under the
+  collage a hand pulls a wrapper off the piece. From about 7 s the references fall away in reverse, and the
+  bare finished piece holds clean for the last 3 s with the caption back on. How to make ours: pair each
+  finished piece with 8 to 15 of the references it really came from (the logged reels, the saves, the
+  influences on this page), stack them over a still or turntable of the piece, peel them away, then hold the
+  result. Use real sources only, never invented ones; references are shown, not named in captions (see the top
+  of this page). For a longer cut, put a beat between groups, one per motif: "these thorns became this claw".
 
 ## Digital
 - **Syd Mead**: ultra-wide lens, chrome megastructure, sunset palettes; the bar for the fractal engine's Syd preset.

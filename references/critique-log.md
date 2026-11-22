@@ -215,3 +215,18 @@ sculpted-metal-casting skill's `client-picks.md`; they are counted into the stri
   shold be the goal for all design stuff laser cut or use send cut send as much as possible you know tjat kinda
   stuff" | -> new principle E8 (automated production first; depth from stacked, slotted and bent sheet so A5
   still holds). Standing rule for every project.
+- 22 Nov | jackets (round 5, 8 on the Sculpture page) and boots (round 4) | "still dont like the way the jackets
+  and boots look on the site it looks like shitty cheap roblox assets"; "maybe we should use blender maya or clo3d
+  more" | -> leather goods fail as soon as the surface is uniform: one smooth plastic sheen, no grain or pores, no
+  cut-edge thickness, stitches too small to read, no wear or creasing at the bends, soft grey lighting with no
+  shadow under the piece, and the piece small in the frame. Bar: a luxury leather product photo (grain visible at
+  full size, burnished or painted edges, stitch rows that catch light, real creasing at elbows and vamp, one hard key
+  light and a grounded shadow). Use a real garment tool (CLO3D or Blender cloth) for the drape.
+- 2026-11-22 | reference | sent medium things' "light doors" reel (3D-printed fluted panels in offset bands
+  that blend light by viewing angle, shot turning in a dark room) | "cool too" | -> influences (Wood and furniture;
+  lighting). Fits VIGIL. Logged as an influence, not a critique.
+- 2026-11-22 | reel format | sent Impermanence Studios' reel (reference photos stack over a sculpted torso one by
+  one, peel away, the finished piece holds clean) | "reels like this that show how the inspo became a new thing is
+  super cool" | -> influences (Presentation and grade: preferred reel format, reference to result) and domains
+  (Site pages and renders).
+

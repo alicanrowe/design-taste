@@ -108,4 +108,6 @@ What passing needs:
 - Every image, GLB and spec shows the newest model version. Caching or a stale file reads as "not done".
 - 3D viewers: no flicker, no shattered decimation, grain running along each part, stones in their colours.
 - Interactive pieces feel like product pages: images act as controls where they look like buttons.
+- Reels: the preferred format is reference to result (influences, Presentation and grade): references stack
+  over the piece, peel away, and the finished piece holds clean. Lamps are shot turning in the dark.
 - Fractal and digital presets match their named artist until the render could pass as theirs.
