@@ -39,6 +39,10 @@ Each collection's own brief sets the weights; this is the shared list of who mea
 - From the client's saves (`instagram-saves.md` S3): Nakashima (live edge, butterfly keys), sculpted rockers in
   the Maloof line, Windsors, wiped-urushi Japanese cabinets, carved gouge-ripple and fluted surfaces, wood paired
   with stone or clear resin as equals.
+- A stone console the client sent for the shrine bench (22 Nov, "for shrine bench maybe"): a smooth, light flow
+  inlaid in the top of a dark, rough-hewn slab, its banks one long slow wave, a chiselled rim round it. Used: the
+  two-finish contrast (one quiet smooth field against dark carved terrain) and the slow-wave bank. Not used: its
+  pour-to-the-floor leg, which is a drip (banned).
 
 ## Metal, from the saves
 - Vintage watches with sculptural cases and quiet dials (Tank, Golden Ellipse, integrated bracelets) and infill

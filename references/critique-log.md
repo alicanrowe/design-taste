@@ -190,3 +190,7 @@ sculpted-metal-casting skill's `client-picks.md`; they are counted into the stri
   1:1, sewn with lapped saddle-stitched seams, draped by gravity on a 40R form, and shot on a ghost mannequin on
   white (no people). No painted pillows or wrinkles; black must read black, not charcoal. A corset with a busk and
   boning (STAY) needs real boned channels, so it was held back. Pipeline and lessons are in jackets/kit5/README.md.
+
+- 2026-11-22 | shrine bench | reference | sent a reel of a dark stone console with a light flow inlaid in its top:
+  "for shrine bench maybe" | -> v13: oiled walnut flow from each seat toward the screen, the rest gouge-carved and
+  ebonised. Logged as an influence, not a critique.
