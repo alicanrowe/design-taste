@@ -33,6 +33,8 @@ The point is to get it right before the client sees it, instead of finding taste
 2. **Design to the rubric, not to the checklist after.** The rubric's top failures are structural (a plain base
    object with a feature stuck on, flat dead surfaces, one part at lower fidelity than the rest). They can't be
    patched at the end. Decide how the motif *is* the structure before modelling.
+   Check the bare form first: one matte clay render from every named view (rubric, "form study before surface")
+   before any material goes on.
 3. **Score before showing.** Run `rubric.md` on the real render, including a close-up of every part. Write the
    scores in the piece's notes. Anything that fails a gate or scores under the bar is fixed and re-rendered, not
    shown. Use the domain skill's own checks (clipping, casting, fit) as gate G1 to G3.
@@ -55,6 +57,7 @@ Each of these is a shortcut that ends in a broken result. If you catch yourself 
 | "That critique is obvious, no need to log it" | Log the exact words in the critique log the same session and distil them into the principles. |
 | "I scored it myself, it passes" | For a set or a pick, run the blind cross-critique in step 4; the maker misses its own flaws. |
 | "The variants are different enough" | Run the sameness check; variants that differ only by colour, seed or stone fail. |
+| "The finish will carry it" | Render it in plain clay from every side first; if the form doesn't hold up bare, rework the form. |
 
 ## Keep it improving (standing rule, every thread, every project)
 Whenever the client gives design critique of any kind (a pin on a sheet, a word in chat, a reaction to a live

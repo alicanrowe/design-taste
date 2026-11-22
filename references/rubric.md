@@ -80,3 +80,12 @@ Add the line that would have caught it, in the same session, and publish (see SK
   bolted-on point, or anything in a ring's finger hole is a G4 fail, whatever the clipping check says.
 - Production: before a collection is called done, can each piece be sent to a jeweler as is? Watertight STL,
   stone list with cut and mm size, findings named (bought ear wires, posts, barrettes) on cast loops or pads.
+
+## Added 22 Nov 2026 (form study before surface)
+- Before any material, texture or colour goes on, render the form once in one matte neutral clay (light warm grey,
+  so it reads on the white background) from a fixed set of named views: front, side, rear, top, three-quarter, a
+  close-up of each main part, exploded, and assembled. Look at the sheet. Silhouette idea, Line and Solidity are
+  scored on this clay sheet, because colour, shine and texture hide a weak outline, a lumpy curve or a thin leg.
+  A form that fails in clay is reworked before surfacing, not rescued by the finish. Keep the clay sheet in the
+  piece's notes; it is a check, not something to show the client unless they ask. (After a stool form study
+  shown "in neutral clay white, one form, seven angles", 22 Nov.)
