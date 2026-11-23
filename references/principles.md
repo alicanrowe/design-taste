@@ -55,6 +55,11 @@ proportion and material, not depicted gothic motifs: see A13. Newer word (23 Nov
 isnt so samey", the Vesper switch cover "soo dark and gothic still"): black anodise + gothic arches is no longer a
 default. Products and household objects get their own material identity, lighter (clear acrylic, bare bead-blasted
 metal, brass) and plain in geometry; dark-gothic only when the brief asks for it.
+Third strike (23 Nov, Flatwork reel: "dont love the black and gold colors maybe like malachite", "green and white could be
+better"): black + gold/brass is out as a default palette too. Colour can carry a piece's story: a set of repeated parts
+graded in one hue (Gyre v2 liners, crimson to pale pinks to white up the stack, "a flower going through spring"). A foot
+or base is built in the same language as the parts it carries, never a generic black plinth ("the base doesnt feel fully
+realised").
 
 **A8. Creative and original, never generic or classic. (4 strikes)** Boots r2: "super ugly and unoriginal ...
 your understanding of design is somehow getting worse. I want them to be more creative." Benchmarking against
