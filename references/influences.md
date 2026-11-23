@@ -96,6 +96,17 @@ design principles". Take the principles, never their products (no Wiggle, no 620
 - Together, for cast seating: one cast mass and as few other parts as possible, joined with fixings you can see
   and count, an idea that comes from the cast or the bend, mood from proportion and colour (principles A13).
 
+- **breados.doc, "thinking about fun things to do with steel"** (Instagram DfyBcRmiGKG, 23 Nov, sent by the
+  client as the inspo after "i hate them all too boring"): a bookshelf as a stage set. Laser-cut brushed stainless
+  plate in a big, asymmetric, layered thicket (pine bough, willow strands, broad leaves) rising off a stainless
+  base plate; small open steel boxes of books perched at four heights inside it; every joint is lab hardware you can
+  read: round-bar posts with split clamp collars, turnbuckle tie rods, bolted gussets, round foot discs, pan-head
+  screws. Use: function set *inside* a sculpture, not the sculpture shaped like the function; one material in one
+  finish; density and overlap (many plates at different depths) instead of one plane; asymmetry and reach; the
+  hardware treated as jewelry (collars, turnbuckles, foot discs); fun. Watch: the plant outline is depicted (A13,
+  A5 flat cut-out); here it works because it is openly a cut plate held up by a visible rig, like a theatre flat,
+  and because the precise hardware wins over the outline. Don't copy the plants, the shelf boxes or the layout.
+
 ## Metal, from the saves
 - Vintage watches with sculptural cases and quiet dials (Tank, Golden Ellipse, integrated bracelets) and infill
   planes in brass and exotic wood: the model for men's and machined pieces. Symmetrical spine and vertebra tattoo
