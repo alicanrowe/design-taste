@@ -67,3 +67,6 @@ before showing anything.
   unrelated pieces. One subject doing one thing (modules snapping together), or a tight pair at most. Cut pieces
   until the idea still holds. ("It feels like too much going on", "maybe it should just be like the hooks and that one
   lighting element", 23 Nov)
+- In reels and stills of lights: a black void where only the glow shows and the lamp's form disappears. ("It looks
+  pretty dark", 23 Nov) Shoot lamps in a white room at dusk: cool low ambient, warm pool of the lamp's own light on
+  wall and floor.
