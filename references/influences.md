@@ -106,7 +106,9 @@ Each collection's own brief sets the weights; this is the shared list of who mea
   magnets, inner walls read in one frame), and the grainy scatter reads as a scan or specimen, not CG gloss.
   Not to copy: the cyan-on-black gadget palette and the pod object. Ours: show hidden construction in our own
   pieces, graded to the studio look (white ground, IKIYA green tags), e.g. as a radiograph negative (dark
-  scatter on white).
+  scatter on white). Build note (first test, Nave tray): on hard plate CAD, a Principled Volume with emission
+  only (density 0) on 0.4 mm solidified shells, black world, then inverted, reads cleaner than Volume Scatter,
+  which saturated or washed out; add the grain and halation in the finish.
 
 ## Digital
 - **Syd Mead**: ultra-wide lens, chrome megastructure, sunset palettes; the bar for the fractal engine's Syd preset.
