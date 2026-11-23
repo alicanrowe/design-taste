@@ -87,7 +87,7 @@ asks for function, go back over every live piece in the family. Best fix when me
 they were made (plates stacked on a rod) and let the use come from the same process (the plates become trays that swing
 on the rod), so the sculpture is the object in use, not a sculpture with a tray added.
 
-**A13. Made, not depicted: restraint over theme. (1, seating)** "all the caste chairs are a little bit ugly or
+**A13. Made, not depicted: restraint over theme. (2: seating, Flatwork Tensor)** "all the caste chairs are a little bit ugly or
 campy or kitsche" (23 Nov, the cast chairs: a spine, a cathedral window, claw ribs, a spiked halo, organ pipes, a
 leaf, thorns, a coil). An object that *depicts* something (a bone, an arch, a creature, a plant) reads as a themed
 prop: campy, costume, kitsch, however well it is modelled. The client pointed at Tom Sachs, Frank Gehry and Dieter
@@ -105,6 +105,11 @@ Rams for the fix. Rules that come out of them:
   considered and thorough (Rams), so a quiet piece still holds up close.
 - Test: describe the piece without naming a thing it looks like. If the only description is "a chair shaped like
   a ___", it is kitsch.
+- Second strike (23 Nov, Tensor v1: "it sucks rn"): lancet-pointed blades in a black tensegrity prism. Applies to
+  every object, not only seating. Honest is not enough on its own: the process must *make the silhouette* (Plissé v2:
+  the fold is the form; Tensor v2: the cable bows the strips into the waist). A plain part tied together honestly
+  (a tripod with a cable) is still generic (A8); if the process could be removed without changing the outline, it is
+  not yet the idea.
 
 ## B. Line, form and finish
 
