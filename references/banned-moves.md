@@ -25,6 +25,8 @@ before showing anything.
   with no job. See domains.md, Machined metal.
 - Braided or twisted-rope wire as decoration. ("this braid looks ass") Twisted structural strands that are the
   piece's own language (a twisted foot, a twisted jail bar) are fine.
+- Black anodise or black steel with gothic arches (lancets, archivolts, tracery, spines to a needle) as the default
+  look of a product or household object. ("soo dark and gothic still", "less gothic ... so it isnt so samey", 23 Nov)
 - Crosses, daggers, fleur-de-lis terminals. ("chrome hearts rip off")
 - Melting, drooping, Dali-like drips; lumpy junctions. ("too dali esque", "lumpy tumour")
 - Wavy bars and frames. ("wavy as hell")

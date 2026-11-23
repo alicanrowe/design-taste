@@ -50,7 +50,10 @@ deliberate (the unequal chain drops are the exception that was loved: short, cas
 the jail moth hanging like a bat, thorned vines ("love the spiked vines running up the posts"), oxidised metal,
 oxblood leather ("perfect just make the leather red"), angelic vs demonic, baroque. Tidy, cute, generic or
 decorative-for-its-own-sake ornament fails even when clean. On furniture (23 Nov) the dark mood comes from mass,
-proportion and material, not depicted gothic motifs: see A13.
+proportion and material, not depicted gothic motifs: see A13. Newer word (23 Nov, twice: Nave "less gothic ... so it
+isnt so samey", the Vesper switch cover "soo dark and gothic still"): black anodise + gothic arches is no longer a
+default. Products and household objects get their own material identity, lighter (clear acrylic, bare bead-blasted
+metal, brass) and plain in geometry; dark-gothic only when the brief asks for it.
 
 **A8. Creative and original, never generic or classic. (4 strikes)** Boots r2: "super ugly and unoriginal ...
 your understanding of design is somehow getting worse. I want them to be more creative." Benchmarking against
