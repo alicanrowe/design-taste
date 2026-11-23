@@ -56,7 +56,9 @@ your understanding of design is somehow getting worse. I want them to be more cr
 classic types produced classic-looking work. Take function and makeability from classics; take the look from the
 brief. Every design needs one silhouette idea you can see in the main view.
 
-**A9. One focal point and quiet space. (6 strikes)** "this is kinda busy", "too much going on" (twice), "messy",
+**A9. One focal point and quiet space. (7 strikes)** "this is kinda busy", "too much going on" (twice), "messy",
+"the base of chrysallis is pretty ugly just looks like a black mess" (a foot of 16 thin twisting stepped steel slices: in
+near-black, many small steps read as noise; a base is a few large quiet planes with a crisp outline),
 "noisy and random", "a mess" (a whole stud family), "this a bit of a mess geometrically" (Bombyx streamers that
 crossed and merged at random). Three or four motifs per piece, detail clustered at joins and
 terminals, a focal point with breathing room, crossing members passing clean. Busy is not the same as realised:
@@ -199,3 +201,8 @@ named in the BOM.
 **E9. Samples before heavy compute. (1)** "send me some samples to okay before burning a ton of compute on an
 animation" (22 Nov, Moth reel). Before any animation or farm render: a few full-size stills of the materials, the
 key style frames and the shot list with timings go to the client first; the animation starts only on their OK.
+
+**A12. Near-twins are one project. (1)** "metamer and rachis should be one project they are so similiar", "same
+with chrysalis and gill" (23 Nov). Two pieces that share a silhouette idea and a language are shown as one project
+with variants (one page, one name), not as rivals. Before a new piece gets its own page, compare it with every live
+piece; if it is a twin, make it a variant of the existing project or push it further apart.
