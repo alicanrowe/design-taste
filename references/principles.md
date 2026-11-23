@@ -31,11 +31,12 @@ best-detailed piece in a set is the bar for every other piece in it. Every part 
 richly cast buckle on a default-shell boot, lames on the sleeve of an otherwise blank jacket, or a stitched line
 where its neighbours are cast relief all read as unfinished.
 
-**A5. Sculpted surfaces, no flat dead fields. (3 strikes)** "they have a lot of flat surfaces", "the plain band
+**A5. Sculpted surfaces, no flat dead fields. (4 strikes)** "they have a lot of flat surfaces", "the plain band
 side reads weak; every face of a ring should carry detail" ("meh from this view"), flat laser-cut plates
 "crude" twice ("i dont like try again", "this sucks") until the same design was cast in relief. Surfaces are
 modelled: layered in depth, relief, overlap, over-and-under, crimping, moulding, carving. Quiet areas exist, but
-they are deliberate rest fields bounded by detail (A9), not big undifferentiated panels.
+they are deliberate rest fields bounded by detail (A9), not big undifferentiated panels. Cardoon v1 (23 Nov,
+"can be pushed a lil further"): a bud cut as one flat outline reads as a paddle from the side; build the volume from the parts.
 
 **A6. Solid, never flimsy or floppy. (9 strikes)** "details that are flimsy or floppy", "this spike seems
 fragile", "seems fragile" (earring wire), "these gaps would be too weak in real life", "not possible in real
@@ -220,7 +221,10 @@ alive, so "no dead holds" never means "short shots".
 
 **E1. When they like it, refine; don't redesign. (2)** Nave, 23 Nov: "I really like what you have right now, but I just want it to be a bigger project with a larger product line ... take the design language and kind of expand upon it": a liked piece grows into a family on its own grid, parts and motifs, never a restyle. "i do really like the designs tho so if we dont have to change
 them thatd be ideal"; the tools "based on the old ones ... improvements in the geometry and increasing the
-complexity". Keep silhouette, proportion and materials; add real-world detail.
+complexity". Keep silhouette, proportion and materials; add real-world detail. "Can be pushed a lil further" (Cardoon,
+23 Nov) means the same: keep the name, the idea and the silhouette, and make the idea do the structural work in 3D
+through the process (v1's flat thorned outline became a bud built from its own folded brass bracts, the thorns the
+flare of the lower rows). Push means deeper, not different.
 
 **E10. A set is presented and checked as a set. (1)** Nine Lives, 23 Nov: "the ninelives has inconsistency across
 the pieces bring them to more harmony", "some have low quality graphics or whatever and some have none". When pieces

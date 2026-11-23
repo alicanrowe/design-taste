@@ -113,3 +113,9 @@ Add the line that would have caught it, in the same session, and publish (see SK
   comes from proportion, mass and colour.
 - **Five-word idea:** write the piece's one idea in five words in its notes. If it takes two ideas, cut one.
 
+
+## Added 23 Nov 2026 (Cardoon pushed further)
+- **Edge-on test (flat-sheet pieces).** Render the main part 90 degrees from the hero view. If it reads as a
+  paddle, a line or a cut-out outline, Surface scores 1 at most and the volume has to come from the parts (stacked,
+  shingled, folded, slotted), not from one outline. Thorns, hooks or spikes drawn on a sheet's edge are depicted
+  (A13); make them come out of how the parts sit (the flare of a row, the tip of a fold).
