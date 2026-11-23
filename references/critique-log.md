@@ -299,3 +299,24 @@ sculpted-metal-casting skill's `client-picks.md`; they are counted into the stri
 - 2026-11-23 | jackets round 6b product photography (ghost body in an A-pose, arms out, hard key with strip rims and negative fill, dark near-black frames on white) | "ur product photography was really bad for the last pass of that project" | -> rejected: moody CG studio lighting (hard key, rim strips, black fill) on apparel, A-pose arms that hold the sleeves out stiff, crops that hide how the garment hangs. Wanted: real e-commerce product shots in the SSENSE / Grailed way: garment hung on a dress form or invisible form with arms down, soft even high-key light, straight-on camera at chest height, whole garment with margin, accurate colour, a set of front / back / side / 3/4 plus detail crops. Standard in boots-bags/PHOTO_STANDARD.md.
 - 2026-11-23 | Cast Chairs, live page /cast-chairs (six cast integral-skin PU chairs over aluminium: Vertebra, a bone-white spine back; Lancet, an oxblood cathedral-window back with tracery and arched legs; Rib, black claw ribs round a round seat; Lames, stacked black armour plates; Vein, a black leaf with veins; Tendon, a black sinew-strip lounger. The round-5 set also had Halo with spikes, Organ pipes, Briar thorns and Coil) | "i think all the caste chairs are a little bit ugly or campy or kitsche you know" / "maybe look at tom sachs, frank gehry, and dieter rams chair design principles you know" | -> rejected: the whole set's approach. Each chair depicts a thing (a spine, a church window, ribs, a halo, organ pipes, a leaf, thorns, a coil), so it reads as a themed prop or costume, not furniture (A10). Glossy black foam over even-gauge splayed legs made it read as a Halloween set piece. New principle A13 (restraint, one idea, made not depicted). Sachs, Gehry and Rams added to influences.md (Furniture: restraint) as the lead references for seating.
 
+
+- 2026-11-23 | VIGIL reference-to-result reel, final and v2 (v1 collage cards were the client's own earlier pieces:
+  lancet jail, the jewelry line, Durumi; v2 swapped in 16 public-domain flower prints: Hokusai, Temple of Flora, Heade) |
+  "bro the inspo images cant be my work" / "put like flowers or someshit" / "including the white versions or views
+  and sketches are good tho" / "more reference and better timing" / "the flower needs a little more pause before
+  opening as the inspo fades away" / "also inspo should be a lot faster and smoother motion" / "those flowers ur using
+  as inspo look nothing like the final product man" / "those are random ass flowers" | -> In a reference-to-result
+  reel the references are outside sources, never the owner's other pieces; the piece's own clay views and sketches
+  may close the collage. Every reference must visibly lead to the result: same silhouette, bud form, petal geometry
+  or colour (for VIGIL: nodding bud on a hooked stem, bells under a crown, hanging reflexed red petals). Generic
+  pretty flowers of the same broad category fail. Timing: cards fast (~0.1 s) with an eased glide, never a snap; the
+  collage clears fully, then the piece rests about a second before it moves.
+
+- 2026-11-23 | Moth joinery reel, final v1 (36 s, 9:16, 10 joint beats cut on a 12-frame beat, 50 to 80 mm macros,
+  whips between beats; tools shown as one top-down rack shot, plush never framed) | "moth reel is a bit short also a
+  few of your crops are pretty close and cut things off and dont give us time to see or understand the details also
+  we never get to see the tools or moth monster plush" / "do really like it thoigh" | -> Keep the look and the
+  edit's energy, but a product reel must let each detail read: frame the whole feature with air around it (no
+  macro that crops the casting or shows only a plank), hold each subject 2.5 to 4 s with a slow drift, and give
+  every signature element its own beat (each tool group, the plush). "No dead holds" means nothing static, not
+  short shots. Aim for 50 to 60 s when the piece has this many parts.

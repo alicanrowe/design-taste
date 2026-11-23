@@ -75,3 +75,6 @@ before showing anything.
 - In reels and stills of lights: a black void where only the glow shows and the lamp's form disappears. ("It looks
   pretty dark", 23 Nov) Shoot lamps in a white room at dusk: cool low ambient, warm pool of the lamp's own light on
   wall and floor.
+- In reference-to-result reels: references that only share a category with the piece ("random ass flowers" for a
+  flower lamp), or the owner's own earlier work used as inspiration. Each card must show a form the viewer can find in
+  the result. (23 Nov)
