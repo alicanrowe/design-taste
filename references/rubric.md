@@ -119,3 +119,10 @@ Add the line that would have caught it, in the same session, and publish (see SK
   paddle, a line or a cut-out outline, Surface scores 1 at most and the volume has to come from the parts (stacked,
   shingled, folded, slotted), not from one outline. Thorns, hooks or spikes drawn on a sheet's edge are depicted
   (A13); make them come out of how the parts sit (the flare of a row, the tip of a fold).
+
+## Added 23 Nov 2026 (product legibility, names)
+- Product reels: on each piece's beat, the piece is centred and fills about 40 to 60% of the frame height. Never let
+  black sky or empty ground take most of the frame, and never leave a piece cut off at the edge. ("really hard to see
+  the jewlery", 23 Nov) The loved reference is the the jewelry line drop-settings close-up.
+- Names: read each name against the render. If the motif it names isn't what a stranger would see (a "moth" that
+  reads as a butterfly), rename it. ("none of this looks like a moth", "way more butterfly coded", 23 Nov)
