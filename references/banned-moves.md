@@ -10,7 +10,8 @@ before showing anything.
   four-leg ring base, a bistro column). The body's own ribs, pipes, lames or strands carry on down to the floor,
   with the tube inside them. ("the legs feel separate from the boddies")
 - One part at lower fidelity or in another language than the rest (smooth chrome among carving, a default shell
-  under rich hardware). ("doesnt fit the rest of the piece", "inconsistent in quality")
+  under rich hardware). ("doesnt fit the rest of the piece", "inconsistent in quality") Also across variants of one project: a standing or table variant at lower detail than its sibling (Rachis standing
+  form beside the pendant, 23 Nov: "this design still isnt to the detail of the lightinng element").
 - Large flat, unmodelled panels or plates; flat laser-cut sheet standing in for a sculpted motif. ("a lot of flat
   surfaces", "this sucks")
 - Anything thin that dangles, flaps, droops, wobbles or floats free; thin single-layer points, tails and flaps.
@@ -41,6 +42,7 @@ before showing anything.
 - Variants that differ only by seed or colour. ("a bit samey", "meh samey")
 - Classic-benchmarked lookalikes when the brief asked for creative. ("super ugly and unoriginal")
 - Costume or cosplay reads; copying a game character's real garment.
+- Garments covered all over in a literal creature surface (dragon or armour scales, feathers, plates) or edged with free spiky tips (dagged scale hems, spiked shoulders). ("too costumey bro", SCALE jacket, 23 Nov)
 - Plain slab-and-plate furniture: flat panels, a plain fold, one bent plate between posts, where the only
   interest is one joint. ("i hate them all too boring", cast chairs, 23 Nov)
 - Furniture that depicts a thing: a spine or ribs for a back, a church window or lancet arch, a spiked halo,
@@ -82,3 +84,6 @@ before showing anything.
 - In reference-to-result reels: references that only share a category with the piece ("random ass flowers" for a
   flower lamp), or the owner's own earlier work used as inspiration. Each card must show a form the viewer can find in
   the result. (23 Nov)
+- In stills and reels: a piece overhanging its plinth or table edge ("kinda weird how its dangling off the edge", 23 Nov).
+  Seat the whole footprint on the plinth with a margin. In pair shots keep the two pieces close enough to read as one
+  composition ("the distance between the too is a bit much").
