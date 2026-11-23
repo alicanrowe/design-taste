@@ -280,9 +280,14 @@ named in the BOM.
 animation" (22 Nov, Moth reel). Before any animation or farm render: a few full-size stills of the materials, the
 key style frames and the shot list with timings go to the client first; the animation starts only on their OK.
 
-**A12. Near-twins are one project. (2)** "metamer and rachis should be one project they are so similiar", "same
+**A12. Near-twins are one project; one idea done well beats many demos of it. (3)** "metamer and rachis should be one project they are so similiar", "same
 with chrysalis and gill" (23 Nov). Two pieces that share a silhouette idea and a language are shown as one project
 with variants (one page, one name), not as rivals. Before a new piece gets its own page, compare it with every live
 piece; if it is a twin, make it a variant of the existing project or push it further apart. Second strike: "Writhe and cord
 could be one project" (23 Nov): two floor spires of plates stacked on a rod to a brass point. Twins by method count too,
-not only by silhouette.
+not only by silhouette. Third strike (23 Nov, the whole Flatwork set: "i think all of these are kinda stupid and bloat them
+into the site maybe find away to rework the thinking here into a single project"): a family of one-offs that each show the same
+technique on a different picture (a bud, an egg, a seed, an almond, a spear rack) is bloat, even when each page passed on its
+own. Before adding a piece, ask whether it is a new idea or another demo of a live one; if it is a demo, it becomes a variant
+or a use of the existing project (Kerf: one slit sheet, three uses), or it folds into a liked project (Gyre, Plissé). Keep the
+site to a few projects, each carried all the way.
