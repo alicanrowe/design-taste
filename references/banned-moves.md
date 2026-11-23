@@ -31,7 +31,7 @@ before showing anything.
 - Melting, drooping, Dali-like drips; lumpy junctions. ("too dali esque", "lumpy tumour")
 - Wavy bars and frames. ("wavy as hell")
 - The stock picture of a technique: a radial paper fan for "pleated", a plain rope coil for "knot", a flat
-  fan of folds stuck round a hub on a wall. ("the project sucks", Plissé v1, 23 Nov)
+  fan of folds stuck round a hub on a wall, a chain drawn as flat cut links with rivet dots ("Catena sucks", 23 Nov). ("the project sucks", Plissé v1, 23 Nov)
 - Hexagon cages or frames with a block hub. ("i hate the hexagon rework")
 - Curled-up toes on feet ("elf shoes"); one stock foot shared across variants.
 - Pentagram-like even radials (five equal points in a ring).

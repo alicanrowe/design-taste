@@ -74,6 +74,10 @@ already gone wrong and what passing looks like.
   not a wide blank panel with the piece laid on it.
 - A spur or brace lands on the plate or the next member; a thin point ending in air beside a screw reads as an
   afterthought.
+- Clear and metal laminations (Nave v3, 23 Nov): put structure in metal (floors, magnet and hardware layers, ribs,
+  handles) and the decorative layers in clear acrylic, so the construction (magnets, pins, the bands) shows through.
+  Bands of metal that line up across pieces (a deep bin's bands level with stacked trays beside it) read as one system.
+  Nothing hidden inside a clear wall: lightening pockets and glue lines show.
 - A repeated hollow in a grid plate keeps one orientation. Vesicas alternating ±45° cell to cell read as
   flowers, and spurs off the grid ribs read as barbs (Nave Plinth rounds, 23 Nov). Let the ribs and bosses carry it.
 
