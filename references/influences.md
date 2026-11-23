@@ -27,6 +27,21 @@ Each collection's own brief sets the weights; this is the shared list of who mea
 - **Studio Wenjüe Lu**: washed greys and indigo, scalloped petal hems, poetic names with archive codes.
 - **Komune NYC** (and what it stocks: gsongim, untitlab, XLIM, O.Files, Blackmerle, Ella Roberts): the quality and
   sellability bar.
+- **14th Addiction** (Japanese 90s-2000s archive leather; 23 Nov, the client: "add these as pretty heavily weighted
+  influences"). Reference piece: a 1-of-1 oxblood goatskin rider on a silk lining. Weight: HEAVY for jackets and boots.
+  What to take: a real fitted rider/cafe-racer pattern (stand collar with a buckle strap, two-piece sleeves to the
+  wrist, quilted elbows, sleeve zips); python-skin inlays on the collar lining, hem band and side panels; side seams
+  laced with leather cord ending in tassels; a raw, torn hem band; a horizontal chest zip crossing the centre zip
+  (pale zip tapes drawn as lines); a small silver plate on the back yoke; worn, waxy, finely creased leather.
+  Files: boots-bags/refs/influence_1123/14th_*.jpg.
+- **Y'2 Leather x IKIYA** "STEER OIL W RIDER'S COAT" (SR-55, made in Japan; same weight, same day). A long
+  double-rider coat in thick oiled steerhide: big notched lapel with snap studs, epaulets, asymmetric brass zip,
+  a large curved patch panel carrying a flap pocket and a zip pocket, sleeve zips, a western-point back yoke and a
+  centre-back vent, jade-green contrast stitching and a jade satin lining (the studio accent #1D847E).
+  What to take: heavy honest construction, contrast stitching as a design line, bright hardware on black, a coat
+  length. Files: boots-bags/refs/influence_1123/y2_*.jpg.
+- Both: transform, never copy. No logo plates, no copied pocket shapes or panel layouts; take the construction
+  language (real rider patterns, lacing, inlays, contrast stitch, distressing) into our own silhouettes and motifs.
 - Bayonetta and Devil May Cry, aesthetic only: gothic and baroque, angelic vs demonic, dramatic heels, ornate
   silver, sweeping coat-like lines. Never a character's actual garment; never named in public.
 
