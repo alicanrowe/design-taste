@@ -130,6 +130,17 @@ design principles". Take the principles, never their products (no Wiggle, no 620
   result. Use real sources only, never invented ones; references are shown, not named in captions (see the top
   of this page). For a longer cut, put a beat between groups, one per motif: "these thorns became this claw".
 
+- **"Neo-tribal" column pull** (tddsash reel Dfv_wF4K-WD, 23 Nov, "can this be used for one of our reels
+  somewhere"): 18 s, 1:1, a generative glyph of overlapping compass arcs welded at pinched nodes, in one teal on
+  pale ground. The motion is a column pull: the frame splits into vertical strips of uneven width; in each strip
+  the image shows below a cut row and that row is stretched upward and fades, so the glyph seems drawn up out of
+  streaks, strip by strip. Thin construction circles and hollow boxes sit over it. Hard cuts on the beat
+  (about every 1 to 2.5 s) reshuffle the composition. Worth taking: the strip pull as a reveal or transition, and
+  construction lines showing under the finished form. Not to copy: the arc-and-node glyph, the teal duotone, the
+  decorative circles. Ours (Flatwork reel "the pull", reels/flatwork-pull/pull.py): the piece is pulled up out of
+  its own real DXF cut sheet in strips; the cut row is an IKIYA-green hairline with a hollow square node (the
+  studio measuring mark); the same pull whips to the next piece. Real cut files only, never decorative geometry.
+
 - **"Volume X-ray" render** (Jess Wiseman reel Dd4amcZBKQm, 23 Nov, "this is super cool can we use it
   somewhere?"): a hard-surface product (a pod-shaped case with a ring pull) shown as a glowing see-through scan,
   every inner wall, boss and channel visible at once as grainy light. How it's made (caption: "model, volume,
