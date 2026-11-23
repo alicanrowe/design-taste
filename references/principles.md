@@ -212,6 +212,15 @@ alive, so "no dead holds" never means "short shots".
 them thatd be ideal"; the tools "based on the old ones ... improvements in the geometry and increasing the
 complexity". Keep silhouette, proportion and materials; add real-world detail.
 
+**E10. A set is presented and checked as a set. (1)** Nine Lives, 23 Nov: "the ninelives has inconsistency across
+the pieces bring them to more harmony", "some have low quality graphics or whatever and some have none". When pieces
+of one set are made in separate threads or rounds, they drift: one gets a build sheet and the others don't, renders
+come out at different resolutions, crops, close-up lists and spec formats, and a fixed line slips (Edge's work top).
+Before showing or publishing any piece of a set, put it beside every sibling: same render rig, camera, scale and
+resolution, same shot list in the same order, same graphics (3D, drawing, build sheet), same spec format, same
+fixed dimensions. A piece without the full kit is not finished. Keep each piece's own design (E1); harmony is the
+shared lines and the shared presentation, not sameness of motif.
+
 **E2. A liked change goes everywhere.** "i love these new feet for thread why arent they everywhere keep the
 updates eveyrwhere its a rule". Adapt it to each piece's motif. Named exceptions stay (Durumi's own feet).
 

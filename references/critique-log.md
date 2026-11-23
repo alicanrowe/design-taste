@@ -330,3 +330,10 @@ sculpted-metal-casting skill's `client-picks.md`; they are counted into the stri
 - 2026-11-23 | Governor r4 (machined/forged men's jewelry: rounded box links, hammered surfaces, one 18k gold part and a 1.5 mm ruby per piece), fourth pass after three rejections | "lets just scrap governor it isnt working" | Collection scrapped. Lesson: when a concept fails on form three times, polish (gold accents, hammering, rounder links) does not rescue it; propose a new concept or stop early instead of iterating surface treatments.
 
 - 2026-11-23 | Flatwork SC-20 Jalousie, live page /jalousie (brass letter and key rack: 13 louvres on a black steel lancet spine, each louvre ending in two knife-point upturned horns for key rings; pointed-oval wall plates) | "Jalousie is a lil sharp" | -> kept the design, took the sharpness out (v2): horn tips rounded R4, key-ring notches R5, louvre corners R14 to R22, front edge one fair arc instead of a kinked polyline, spine ends fully rounded, wall plate points R10, slot mouths R1, every cut edge broken about 1 mm. B4 extended: points on things the hand reaches into every day are rounded, not just wearables; rubric line 6 now fails knife points on handled objects.
+
+- 2026-11-23 | Nine Lives sawhorses, live page /nine-lives (nine pieces, each made in its own thread over rounds r7
+  to r12) | "the ninelives has inconsistency across the pieces bring them to more harmony", "some have low quality
+  graphics or whatever and some have none", "double check that everything works actually" | -> A set is shown as a
+  set: every piece gets the same full kit (heroes at one shared camera and scale, the same close-ups in the same
+  order, 3D viewer, dimension drawing, seat sheet, one spec format) made by one rig at one quality, and the shared
+  fixed lines are checked on all of them (Edge worked 1.9 cm lower than the rest). See E10.

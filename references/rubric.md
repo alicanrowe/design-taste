@@ -21,6 +21,9 @@ Write the result into the piece's notes as one line plus the fixes:
 - **G6 White background.** Every image that goes out sits on white unless the client asked otherwise (principles
   D3). Run the background check on the exported files themselves; a transparent render turns black on export.
 - **G5 Current.** The render, page, GLB and sheet all show the newest version of the model.
+- **G7 Set parity.** A piece of a set has the same kit as every sibling: same render rig, camera, scale and
+  resolution, same close-up list and order, same graphics (3D, drawing, build sheet), same spec format, same fixed
+  dimensions (principles E10). A piece missing any of it is not finished.
 
 ## Scored criteria (0 = fails, 1 = passable, 2 = strong)
 Bar to show: **no zeros, and at least 20 of 24.** For the client's own flagship pieces, aim for 22.
