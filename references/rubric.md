@@ -96,3 +96,9 @@ Add the line that would have caught it, in the same session, and publish (see SK
   cut it. Each piece gets a short beat, not a long hold, and travel between pieces runs faster than the beat.
   A social reel of a collection lands around 40 to 50 s. (After "the timing seemed super awkwardly long pauses",
   on the 1:30 the jewelry line reel, 22 Nov.)
+
+## Added 23 Nov 2026 (sculpture with a use)
+- **Gate G-use (sculpture and objects):** name the job in five words (holds rings, stores keys, lights a corner,
+  carries a tray). The job shows in the hero render (rings on the pins, light glowing, something in the bowl) and
+  grows from the motif, not a tray or bulb stuck on. A purely decorative flat wall piece fails (Oculus, 23 Nov:
+  "the dumbest thing ever").

@@ -266,3 +266,10 @@ sculpted-metal-casting skill's `client-picks.md`; they are counted into the stri
   jewelry render bar (B6). Governor fails a third time on form, not finish: polish cannot rescue a men's piece whose
   shapes are wrong. Next Governor round restarts from the Title of Work reference (plain heavy chain, bar, tube and
   ID-plate forms) and passes the men's-case self-check before any render.
+
+- 2026-11-23 | Flatwork sculptures round 1, live pages (Chord, Writhe, Cardoon, Pupa, Tympan, Vrille, Metamer, Knell,
+  Oculus, Husk: purely sculptural laser-cut and leather pieces) | "I think Oculus is like the dumbest thing ever, by
+  the way, so maybe just get rid of it. But I also prefer when the sculptures have like some sort of like actual
+  function. So maybe like storage devices or like jewelry holders or lighting elements, something more, a bit more
+  dynamic or multimodal." | -> new principle A11 (a sculpture has a real use built from its motif). Rejected:
+  Oculus (a flat terraced decorative wall disc, nothing to do but look at). Oculus taken off the site.

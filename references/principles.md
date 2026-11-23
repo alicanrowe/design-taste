@@ -66,6 +66,13 @@ A1 is about every part being designed, A9 about where the eye lands.
 run recursive checking until you think this is a product they would make stock". Artisanal, considered, made of
 real materials by a real process, hardware as jewelry. Not costume, not cosplay, not a render trick.
 
+**A11. A sculpture that does something. (1)** "I also prefer when the sculptures have like some sort of like
+actual function. So maybe like storage devices or like jewelry holders or lighting elements, something more, a bit
+more dynamic or multimodal" (23 Nov, Flatwork round 2). A pure object with no use reads as "the dumbest thing ever"
+(Oculus, a flat decorative wall roundel). Give every sculpture a real job: it holds, stores, hangs, lights or carries
+something, and the job is built from the motif (A2), not a tray or bulb added on. A purely decorative flat wall
+disc fails. Self-check: can you say in five words what it is for, and does the use show in the render?
+
 ## B. Line, form and finish
 
 **B1. Strokes swell and taper; curves accelerate. (4)** Every element is one continuous stroke: start, swell,
