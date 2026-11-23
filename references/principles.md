@@ -75,12 +75,17 @@ A1 is about every part being designed, A9 about where the eye lands.
 run recursive checking until you think this is a product they would make stock". Artisanal, considered, made of
 real materials by a real process, hardware as jewelry. Not costume, not cosplay, not a render trick.
 
-**A11. A sculpture that does something. (1)** "I also prefer when the sculptures have like some sort of like
+**A11. A sculpture that does something. (2)** "I also prefer when the sculptures have like some sort of like
 actual function. So maybe like storage devices or like jewelry holders or lighting elements, something more, a bit
 more dynamic or multimodal" (23 Nov, Flatwork round 2). A pure object with no use reads as "the dumbest thing ever"
 (Oculus, a flat decorative wall roundel). Give every sculpture a real job: it holds, stores, hangs, lights or carries
 something, and the job is built from the motif (A2), not a tray or bulb added on. A purely decorative flat wall
 disc fails. Self-check: can you say in five words what it is for, and does the use show in the render?
+Second strike: "they still seem kinda useless or pointless" (23 Nov, Chord and Writhe, round-1 spires with no job,
+still on the site after round 2 got uses). A use added to the new pieces does not excuse the old ones: when the client
+asks for function, go back over every live piece in the family. Best fix when merging two pure sculptures: take the way
+they were made (plates stacked on a rod) and let the use come from the same process (the plates become trays that swing
+on the rod), so the sculpture is the object in use, not a sculpture with a tray added.
 
 **A13. Made, not depicted: restraint over theme. (1, seating)** "all the caste chairs are a little bit ugly or
 campy or kitsche" (23 Nov, the cast chairs: a spine, a cathedral window, claw ribs, a spiked halo, organ pipes, a
@@ -236,7 +241,9 @@ named in the BOM.
 animation" (22 Nov, Moth reel). Before any animation or farm render: a few full-size stills of the materials, the
 key style frames and the shot list with timings go to the client first; the animation starts only on their OK.
 
-**A12. Near-twins are one project. (1)** "metamer and rachis should be one project they are so similiar", "same
+**A12. Near-twins are one project. (2)** "metamer and rachis should be one project they are so similiar", "same
 with chrysalis and gill" (23 Nov). Two pieces that share a silhouette idea and a language are shown as one project
 with variants (one page, one name), not as rivals. Before a new piece gets its own page, compare it with every live
-piece; if it is a twin, make it a variant of the existing project or push it further apart.
+piece; if it is a twin, make it a variant of the existing project or push it further apart. Second strike: "Writhe and cord
+could be one project" (23 Nov): two floor spires of plates stacked on a rod to a brass point. Twins by method count too,
+not only by silhouette.
