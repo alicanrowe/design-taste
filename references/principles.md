@@ -154,6 +154,13 @@ JPEG, so flatten onto white and run the background check (shop-machine-cad `scri
 website-publishing `scripts/check_image_backgrounds.py`) before anything is shown. A dark background is only for a
 piece the client asked to be dark; a dark photo of a real thing (a seller's lifestyle shot) is not a background.
 
+**D4. Overlay labels sit on a flat accent chip with knocked-out type. (1)** Reels and visuals label pieces with
+solid colour chips, white (or ink) type in them, tied to the piece by a hairline: "blue with like white ... kind of
+like a nod to like OG computing ... I don't hate that". Hairline-only labels read generic and are hard to read over
+a busy frame. The accent must suit the materials ("electric blue doesn't necessarily fit like the aesthetic of what
+we make"): an inky pigment colour, not a screen colour, and not the same hue as the work's own reds. The studio's
+accent and chip rules live in the brand kit's studio theme.
+
 ## E. How the client works with a design (process taste)
 
 **E1. When they like it, refine; don't redesign. (2)** Nave, 23 Nov: "I really like what you have right now, but I just want it to be a bigger project with a larger product line ... take the design language and kind of expand upon it": a liked piece grows into a family on its own grid, parts and motifs, never a restyle. "i do really like the designs tho so if we dont have to change
