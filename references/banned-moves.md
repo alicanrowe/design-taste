@@ -46,6 +46,9 @@ before showing anything.
 - In film and reels: hard jump cuts between shots when one continuous move would work; small floating islands
   of terrain in a void where an endless ground plane would do; cartoon puff clouds. ("no jumpcuts", "grass going
   forever into the horizon instead of these floating islands", "the clouds look pretty stupid", 21 Nov)
+- In reels and stills: a flat procedural texture as the backdrop (painted brick or block lines with no relief, lit
+  head-on so it reads as wallpaper). Build real relief and rake the light across it, or drop the wall (black depth,
+  velvet, haze). (VIGIL reel, 22 Nov: "the brick wall on Vigil doesn't look like up to par".)
 - In reels: long, even-speed holds on each item (4 to 5 s per piece, slow drifts with nothing new happening).
   ("the timing seemed super awkwardly long pauses", 22 Nov) Ramp speed: move fast between subjects, give each a
   short beat (about 1 to 2 s), and keep a whole social reel under about 50 s unless asked.

@@ -251,3 +251,18 @@ sculpted-metal-casting skill's `client-picks.md`; they are counted into the stri
   joints) | "sick, man. These are fucking incredible." | -> approval: the v8 materials are the bar for wood and
   polished metal (B6), and the dark one-light specimen-sheet frame is approved for the Moth reel.
 
+- 2026-11-22 | VIGIL reference-to-result reel (animatic: lamp on a plinth, cinder-block wall, one hard side key) |
+  "sick, man. These are fucking incredible." / "have a problem with is the brick wall on Vigil doesn't look like up
+  to par. Maybe we can up the brick wall look, or maybe it doesn't even need a brick wall. Maybe it could be
+  something different." | -> loved: the format and the cut. Banned: a flat procedural brick texture as a backdrop
+  (painted mortar lines, no relief, lit head-on so it reads as wallpaper). A backdrop needs real relief lit by a
+  raking light, or no wall at all (black depth, velvet, haze). Self-check: would the wall hold up in a full-res
+  still with the piece cropped out?
+
+- 2026-11-23 | Jewelry polish overhaul (Bombyx, HELIUM, Governor and the moth-wing pieces: raised chased relief, the photographic
+  fidelity look, cleaned nubs and mitres) | "All the jewelries look so much better. Yeah, push them to the site.
+  Governor, I think, is still kind of ugly. I think you can still improve it." | -> approval: the overhaul look
+  (oxidised recesses, hard warm sun, soft cast shadow on white, raised relief that keeps wall thickness) is the
+  jewelry render bar (B6). Governor fails a third time on form, not finish: polish cannot rescue a men's piece whose
+  shapes are wrong. Next Governor round restarts from the Title of Work reference (plain heavy chain, bar, tube and
+  ID-plate forms) and passes the men's-case self-check before any render.
