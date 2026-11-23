@@ -131,7 +131,7 @@ What passing needs:
 - Every page matches the newest page look (currently Nine Rests): same layout, type and theme. A page that passes
   the brand audit can still look old.
 - Every image, GLB and spec shows the newest model version. Caching or a stale file reads as "not done".
-- 3D viewers: no flicker, no shattered decimation, grain running along each part, stones in their colours.
+- 3D viewers: no flicker, no shattered decimation, grain running along each part, stones in their colours. Wood textures in a viewer are straight grain only, with real end grain on the ends; never a flat-sawn, cathedral or swirl image (the client, 23 Nov: "how did this grain get fucked again").
 - Interactive pieces feel like product pages: images act as controls where they look like buttons.
 - Reels: the preferred format is reference to result (influences, Presentation and grade): references stack
   over the piece, peel away, and the finished piece holds clean. Lamps are shot turning in the dark.
