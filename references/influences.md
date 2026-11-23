@@ -40,8 +40,12 @@ Each collection's own brief sets the weights; this is the shared list of who mea
   centre-back vent, jade-green contrast stitching and a jade satin lining (the studio accent #1D847E).
   What to take: heavy honest construction, contrast stitching as a design line, bright hardware on black, a coat
   length. Files: boots-bags/refs/influence_1123/y2_*.jpg.
-- Both: transform, never copy. No logo plates, no copied pocket shapes or panel layouts; take the construction
-  language (real rider patterns, lacing, inlays, contrast stitch, distressing) into our own silhouettes and motifs.
+- Both: transform, never copy. No logo plates, no copied pocket shapes or panel layouts.
+  23 Nov, the client on the round 5 boots and rider: "these are a bit copy-esque bro". Taking the refs' signature
+  details read as copying, even on our own silhouettes: python inlays, cord-laced side seams with tassels, jade contrast
+  stitch on black, crossing chest zips, torn hem bands. So take only the HAND: worn waxy hide, heavy honest
+  construction, small real cast hardware, the feeling of a 1-of-1. Every visible signature detail must come from our
+  own vocabulary (halo, horn, lancet arch, thorn, corset busk, armour lame, coat flap) and be drawn our way.
 - Bayonetta and Devil May Cry, aesthetic only: gothic and baroque, angelic vs demonic, dramatic heels, ornate
   silver, sweeping coat-like lines. Never a character's actual garment; never named in public.
 
