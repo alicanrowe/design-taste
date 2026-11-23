@@ -120,9 +120,13 @@ fucked", "body is weird". Long spikes and horns taper smoothly; junctions blend 
 "think these points should be sharper" (Bombyx streamer tips ending in rounded nubs). Every end tapers to a clean point, curls, or ends blunt in its
 own section.
 
-**B4. Spikes are sharp and grow from the member. (3)** "make this spike sharp and smoothly go into the rest of
+**B4. Spikes are sharp and grow from the member; points the hand meets are rounded. (4)** "make this spike sharp and smoothly go into the rest of
 the piece as its one piece of metal". Spikes wind along long runs ("spiked vines running up the posts"), never a
-straight comb ("these are ugly tho"). Wearables round off points ("prolly too sharp").
+straight comb ("these are ugly tho"). Wearables round off points ("prolly too sharp"). So does anything the hand
+meets every day (racks, hooks, handles, switch covers): "Jalousie is a lil sharp" (a brass key and letter rack with
+knife-point horns and a lancet spine). Keep the taper and the outline, but end every tip in a visible radius
+(R3 to R5 on a 3 mm plate), round notches and outer corners (R5 to R20), and break every cut edge about 1 mm.
+Sharp points belong on sculpture you look at, not on things you reach into.
 
 **B5. Taut where it should be taut. (2)** "wavy as hell", "eww wavy as hell": bars, frames and straps stay
 straight and tensioned. Melting or drooping forms are out ("too dali esque", "awful").

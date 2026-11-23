@@ -32,7 +32,7 @@ Bar to show: **no zeros, and at least 20 of 24.** For the client's own flagship 
 | 3 | **One language** | part inventory: every part named in the same language; no odd one out on the part sheet | a smooth, stock or other-language part | A3 |
 | 4 | **Even fidelity** | every close-up on the part sheet is equally modelled and finished | one part is a default shell, low poly, or a stitch line where others are relief | A4, B6 |
 | 5 | **Surface** | surfaces modelled in depth (layers, relief, moulding, crimping); rest fields bounded and deliberate | large flat or blank panels | A5 |
-| 6 | **Solidity** | details read thick, stiff, tied in; edges finished (turned, bound, boxed, filleted) | thin flaps, points, tails or wires that would hang or bend | A6, B5 |
+| 6 | **Solidity** | details read thick, stiff, tied in; edges finished (turned, bound, boxed, filleted) | thin flaps, points, tails or wires that would hang or bend; knife points or square laser edges on anything handled daily (tip radius under 3 mm) | A6, B4, B5 |
 | 7 | **Line** | strokes swell and taper, curves accelerate, tapers smooth, ends clean | even tubes, kinks, lumps, nubs, wobble | B1 to B4 |
 | 8 | **Focus** | one focal point, three or four motifs, quiet around it | busy, noisy, competing centres | A9 |
 | 9 | **Mood** | dark, gothic, considered; could only be this client's | pretty, cute, generic, costume | A7 |
