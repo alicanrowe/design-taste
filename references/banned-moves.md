@@ -33,6 +33,7 @@ before showing anything.
 - Wavy bars and frames. ("wavy as hell")
 - The stock picture of a technique: a radial paper fan for "pleated", a plain rope coil for "knot", a flat
   fan of folds stuck round a hub on a wall, a chain drawn as flat cut links with rivet dots ("Catena sucks", 23 Nov). ("the project sucks", Plissé v1, 23 Nov)
+- Stock lantern shapes from a technique: an expanded-metal or woven-cane lens/onion/drum lamp on a rod, a diamond-mesh basket. However honest the process, it reads as a catalogue object. ("kerf looks mad generci tho lil bro", 23 Nov)
 - Hexagon cages or frames with a block hub. ("i hate the hexagon rework")
 - Curled-up toes on feet ("elf shoes"); one stock foot shared across variants.
 - Pentagram-like even radials (five equal points in a ring).

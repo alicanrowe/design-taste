@@ -61,13 +61,15 @@ graded in one hue (Gyre v2 liners, crimson to pale pinks to white up the stack, 
 or base is built in the same language as the parts it carries, never a generic black plinth ("the base doesnt feel fully
 realised").
 
-**A8. Creative and original, never generic or classic. (4 strikes)** Boots r2: "super ugly and unoriginal ...
+**A8. Creative and original, never generic or classic. (5 strikes)** Boots r2: "super ugly and unoriginal ...
 your understanding of design is somehow getting worse. I want them to be more creative." Benchmarking against
 classic types produced classic-looking work. Take function and makeability from classics; take the look from the
 brief. Every design needs one silhouette idea you can see in the main view. Plissé v1, 23 Nov: "Plissé is a good name but the project sucks" (a paper-fan of radial folds round a hub, the
 first picture anyone has of "pleated"). A name or technique is a starting point, not the design: when the brief is a
 technique (pleat, weave, knot), find the maker who owns it (for pleats, Issey Miyake: one sheet becomes the form,
-the pleat is the structure) and take the idea, never the stock image or that maker's products.
+the pleat is the structure) and take the idea, never the stock image or that maker's products. Fifth strike (23 Nov, Kerf: "looks mad generci"): a
+slit sheet pushed open into a lantern lens, honest and computed, still matched the stock expanded-metal lamp. When asked to
+consolidate, grow the liked project (E1) rather than invent a neutral new object; and run the blind review on direction sheets too.
 
 **A9. One focal point and quiet space. (7 strikes)** "this is kinda busy", "too much going on" (twice), "messy",
 "the base of chrysallis is pretty ugly just looks like a black mess" (a foot of 16 thin twisting stepped steel slices: in
