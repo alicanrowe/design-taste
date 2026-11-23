@@ -106,6 +106,13 @@ Rams for the fix. Rules that come out of them:
   considered and thorough (Rams), so a quiet piece still holds up close.
 - Test: describe the piece without naming a thing it looks like. If the only description is "a chair shaped like
   a ___", it is kitsch.
+- **But restraint is not plainness. (23 Nov, same day: "i hate them all too boring")** The first restrained round
+  (a leaning slab chair, a plate between two posts, a folded-plane stool) passed the kitsch test and was rejected
+  as boring. Rams is a check on excess, not the look; the look still has to be bold. Take Gehry's *gesture* (a form
+  that moves: twists, sweeps, cantilevers, a material pushed to its limit) and Sachs's *personality* (the maker's hand
+  and process shown loud), not just their honesty. A piece must be striking in silhouette and worked in surface
+  (A1, A5, A7) and still depict nothing. Self-check: would it stop someone scrolling? If it reads as a tidy
+  catalogue object, it fails.
 - Third strike (23 Nov, Catena v1: "Catena sucks u think u can fix it or does it have to go"): a chain *drawn* in
   flat cut eye-shaped links with rivet dots and note-shaped hooks. The same day Plissé v2 got "plisse is kinda cool
   now": one sheet worked by hand into the form by a real technique, so the flat file and the object are the same
