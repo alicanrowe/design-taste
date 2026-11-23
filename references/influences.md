@@ -94,6 +94,20 @@ Each collection's own brief sets the weights; this is the shared list of who mea
   result. Use real sources only, never invented ones; references are shown, not named in captions (see the top
   of this page). For a longer cut, put a beat between groups, one per motif: "these thorns became this claw".
 
+- **"Volume X-ray" render** (Jess Wiseman reel Dd4amcZBKQm, 23 Nov, "this is super cool can we use it
+  somewhere?"): a hard-surface product (a pod-shaped case with a ring pull) shown as a glowing see-through scan,
+  every inner wall, boss and channel visible at once as grainy light. How it's made (caption: "model, volume,
+  solidify"): Blender Cycles; the mesh gets Mirror + Subdivision, then Solidify at about -0.02 m (Simple, Fill
+  rim on) so every surface becomes a thin shell; the material is a Volume Scatter (white, density about 11,
+  anisotropy 0) with no surface shader, so light builds up where you look through the most shell: edges and
+  inner walls glow and flat faces go faint. 500 samples, Blackman-Harris filter, rendered on black. Graded in
+  After Effects: monochrome tint, a Screen-mode halation layer for glow, stacked adjustment layers; the end
+  frames add thin mono UI type and a target ring. Worth taking: the construction is the image (hidden joints,
+  magnets, inner walls read in one frame), and the grainy scatter reads as a scan or specimen, not CG gloss.
+  Not to copy: the cyan-on-black gadget palette and the pod object. Ours: show hidden construction in our own
+  pieces, graded to the studio look (white ground, IKIYA green tags), e.g. as a radiograph negative (dark
+  scatter on white).
+
 ## Digital
 - **Syd Mead**: ultra-wide lens, chrome megastructure, sunset palettes; the bar for the fractal engine's Syd preset.
 
