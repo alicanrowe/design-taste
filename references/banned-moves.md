@@ -28,6 +28,8 @@ before showing anything.
 - Crosses, daggers, fleur-de-lis terminals. ("chrome hearts rip off")
 - Melting, drooping, Dali-like drips; lumpy junctions. ("too dali esque", "lumpy tumour")
 - Wavy bars and frames. ("wavy as hell")
+- The stock picture of a technique: a radial paper fan for "pleated", a plain rope coil for "knot", a flat
+  fan of folds stuck round a hub on a wall. ("the project sucks", Plissé v1, 23 Nov)
 - Hexagon cages or frames with a block hub. ("i hate the hexagon rework")
 - Curled-up toes on feet ("elf shoes"); one stock foot shared across variants.
 - Pentagram-like even radials (five equal points in a ring).

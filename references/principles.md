@@ -51,10 +51,13 @@ the jail moth hanging like a bat, thorned vines ("love the spiked vines running 
 oxblood leather ("perfect just make the leather red"), angelic vs demonic, baroque. Tidy, cute, generic or
 decorative-for-its-own-sake ornament fails even when clean.
 
-**A8. Creative and original, never generic or classic. (3 strikes)** Boots r2: "super ugly and unoriginal ...
+**A8. Creative and original, never generic or classic. (4 strikes)** Boots r2: "super ugly and unoriginal ...
 your understanding of design is somehow getting worse. I want them to be more creative." Benchmarking against
 classic types produced classic-looking work. Take function and makeability from classics; take the look from the
-brief. Every design needs one silhouette idea you can see in the main view.
+brief. Every design needs one silhouette idea you can see in the main view. Plissé v1, 23 Nov: "Plissé is a good name but the project sucks" (a paper-fan of radial folds round a hub, the
+first picture anyone has of "pleated"). A name or technique is a starting point, not the design: when the brief is a
+technique (pleat, weave, knot), find the maker who owns it (for pleats, Issey Miyake: one sheet becomes the form,
+the pleat is the structure) and take the idea, never the stock image or that maker's products.
 
 **A9. One focal point and quiet space. (7 strikes)** "this is kinda busy", "too much going on" (twice), "messy",
 "the base of chrysallis is pretty ugly just looks like a black mess" (a foot of 16 thin twisting stepped steel slices: in
