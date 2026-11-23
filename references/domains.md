@@ -56,6 +56,14 @@ already gone wrong and what passing looks like.
 - Hardware for an existing piece starts from that piece's own motifs (list them first).
 - Domain rules: sculpted-metal-casting `furniture-scale.md`, `design-coherence.md`, `buildable.md`.
 
+## Cast seating (chairs, 23 Nov)
+- Rejected: the ten cast PU chairs (spine, cathedral window, claw ribs, spiked halo, organ pipes, leaf, thorns,
+  coil, plates, sinews): "ugly or campy or kitsche". Each depicted a thing; glossy black foam on splayed tube legs
+  read as a Halloween prop.
+- Direction: A13 and the Sachs / Gehry / Rams entry in influences.md. One cast mass, one idea from the process,
+  the fewest other parts (stock plate cut and bent by file, stock bolts left visible), mood from proportion,
+  mass and pigment.
+
 ## Cut sheet, stacked (SendCutSend laminations: Nave, Ogive, Crocket)
 - Depth comes from stacking edge-on profiles, but the layer ends are where it fails. Fixed inward offsets of one
   outline leave each outer layer ending in a square step, which reads as a stub (blind critique of Crocket r1,

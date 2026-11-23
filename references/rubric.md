@@ -102,3 +102,11 @@ Add the line that would have caught it, in the same session, and publish (see SK
   carries a tray). The job shows in the hero render (rings on the pins, light glowing, something in the bowl) and
   grows from the motif, not a tray or bulb stuck on. A purely decorative flat wall piece fails (Oculus, 23 Nov:
   "the dumbest thing ever").
+
+## Added 23 Nov 2026 (cast chairs read as kitsch)
+- **Depiction test (scored under 9, Mood):** describe the piece without naming anything it looks like. If the only
+  honest description is "a chair shaped like a ___" (spine, window, halo, leaf, coil), score 0 on Mood: it is a
+  themed prop. 2 looks like: the idea is a way of making (a fold, a lean, a pour, a counterweight) and the mood
+  comes from proportion, mass and colour.
+- **Five-word idea:** write the piece's one idea in five words in its notes. If it takes two ideas, cut one.
+

@@ -39,6 +39,9 @@ before showing anything.
 - Variants that differ only by seed or colour. ("a bit samey", "meh samey")
 - Classic-benchmarked lookalikes when the brief asked for creative. ("super ugly and unoriginal")
 - Costume or cosplay reads; copying a game character's real garment.
+- Furniture that depicts a thing: a spine or ribs for a back, a church window or lancet arch, a spiked halo,
+  organ pipes, a leaf, thorns, a coil, a creature. It reads as a themed prop. ("a little bit ugly or campy or
+  kitsche", the cast chairs, 23 Nov) Glossy black moulded foam on splayed even-gauge legs reads the same way.
 - Glossy grey leather that reads as rubber; milky or untextured stones; low-poly facets; clipping of any kind.
 - Open-wire outline panels (a leaf, petal or wing drawn as an empty rim with a few thin struts) at sizes where the
   cells read as holes, about 8 mm across and up. ("kinda ugly", "basic and boring") Model them solid and carved

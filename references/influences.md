@@ -75,6 +75,23 @@ Each collection's own brief sets the weights; this is the shared list of who mea
   banded blocks offset like a shifted stack. For lamps (VIGIL), shoot it turning in the dark so the effect
   is the subject.
 
+## Furniture: restraint (lead references for seating, 23 Nov)
+The client, after the cast chairs read as kitsch: "maybe look at tom sachs, frank gehry, and dieter rams chair
+design principles". Take the principles, never their products (no Wiggle, no 620, no Sachs plywood replicas).
+- **Dieter Rams** (Braun, Vitsoe 620 chair programme): less, but better. As little design as possible; honest,
+  unobtrusive, long-lasting, thorough down to the last detail. Use: one idea, every part earning its place,
+  edges, feet and fixings designed as carefully as the main form. A quiet piece still has to be finished.
+- **Frank Gehry** (Easy Edges cardboard furniture, the bent-maple Cross Check chairs): the material makes the
+  gesture. Laminated cardboard shown edge-on, thin wood strips bent and woven so they hold each other with no
+  hardware. Use: one gesture that only this material and process can make (a fold, a pour, a lamination, a
+  bend), the section or edge left visible so you can read how it was made.
+- **Tom Sachs** (studio furniture and sculpture from plywood, foam core, steel and stock hardware; "Ten Bullets",
+  "always be knolling"): honest, visible fabrication. Standard stock, exposed screws and bolts, seams and marks
+  left in, nothing faked. Use: fasteners, tie holes, parting seams and cut edges as the only ornament; a part
+  list a shop could buy from.
+- Together, for cast seating: one cast mass and as few other parts as possible, joined with fixings you can see
+  and count, an idea that comes from the cast or the bend, mood from proportion and colour (principles A13).
+
 ## Metal, from the saves
 - Vintage watches with sculptural cases and quiet dials (Tank, Golden Ellipse, integrated bracelets) and infill
   planes in brass and exotic wood: the model for men's and machined pieces. Symmetrical spine and vertebra tattoo

@@ -49,7 +49,8 @@ deliberate (the unequal chain drops are the exception that was loved: short, cas
 **A7. Dark, gothic, menacing beats pretty. (4 strikes)** "a lot scarier or gothic", "have you learned nothing",
 the jail moth hanging like a bat, thorned vines ("love the spiked vines running up the posts"), oxidised metal,
 oxblood leather ("perfect just make the leather red"), angelic vs demonic, baroque. Tidy, cute, generic or
-decorative-for-its-own-sake ornament fails even when clean.
+decorative-for-its-own-sake ornament fails even when clean. On furniture (23 Nov) the dark mood comes from mass,
+proportion and material, not depicted gothic motifs: see A13.
 
 **A8. Creative and original, never generic or classic. (4 strikes)** Boots r2: "super ugly and unoriginal ...
 your understanding of design is somehow getting worse. I want them to be more creative." Benchmarking against
@@ -77,6 +78,25 @@ more dynamic or multimodal" (23 Nov, Flatwork round 2). A pure object with no us
 (Oculus, a flat decorative wall roundel). Give every sculpture a real job: it holds, stores, hangs, lights or carries
 something, and the job is built from the motif (A2), not a tray or bulb added on. A purely decorative flat wall
 disc fails. Self-check: can you say in five words what it is for, and does the use show in the render?
+
+**A13. Made, not depicted: restraint over theme. (1, seating)** "all the caste chairs are a little bit ugly or
+campy or kitsche" (23 Nov, the cast chairs: a spine, a cathedral window, claw ribs, a spiked halo, organ pipes, a
+leaf, thorns, a coil). An object that *depicts* something (a bone, an arch, a creature, a plant) reads as a themed
+prop: campy, costume, kitsch, however well it is modelled. The client pointed at Tom Sachs, Frank Gehry and Dieter
+Rams for the fix. Rules that come out of them:
+- **One idea per piece, said in five words** ("the back is a standing slab"). Everything else is quiet (Rams:
+  less, but better; as little design as possible).
+- **The idea comes from how it is made**: a fold, a pour, a lamination, a lean, a bolt, a counterweight. The
+  material makes the gesture (Gehry: the cardboard's edge, the bent maple strip), the process is not hidden (Sachs:
+  standard stock, visible fasteners, tie holes and seams left honest).
+- **Mood comes from mass, proportion, material and colour, never from a depicted motif.** A7's dark, gothic,
+  menacing still holds, but as a tall narrow proportion, a heavy black cast, a blade-thin steel edge, oxblood
+  pigment, a severe silhouette, not arches, thorns, bones or spikes. Newer word wins: on furniture, a gothic
+  *picture* (tracery, lancets, spikes) now fails; a gothic *weight and proportion* passes.
+- **Realised (A1) through detail at the joints, not ornament**: every edge, foot, bolt, washer, seam and section is
+  considered and thorough (Rams), so a quiet piece still holds up close.
+- Test: describe the piece without naming a thing it looks like. If the only description is "a chair shaped like
+  a ___", it is kitsch.
 
 ## B. Line, form and finish
 
@@ -128,10 +148,11 @@ different.
 
 ## C. Motif and meaning
 
-**C1. Never literal. (5)** "this butterfly motif is far too literal", "the literal bug sucks", "without the
+**C1. Never literal. (6)** "this butterfly motif is far too literal", "the literal bug sucks", "without the
 butterfly motif this is kinda cool", "feather antennas are still weird" (feathers used as antennae, 5 strikes).
 Creatures are suggested by structure (veins, bones, wing membranes that brace), may be partial or abstract, and
-are never clip-art or stencils.
+are never clip-art or stencils. On seating no creature, bone, plant or building is suggested at all (A13: the cast
+chairs read as "campy or kitsche").
 
 **C2. Motifs read at viewing distance. (3)** Small motifs that can't carry their detail get scaled up into real
 members or dropped. Stitch-only lines vanish on a garment; hardware under about 3 mm reads as nothing.
