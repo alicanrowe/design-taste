@@ -63,3 +63,7 @@ before showing anything.
   still has geometry issues")
 - Fake findings: an ear wire, post or hair-clip spring modelled fused into the casting. Findings are bought and
   soldered to a cast loop or pad. ("how are the hair clips actually being produced")
+- In reels: too much going on. Many pieces crowded into one frame (a lineup of six chairs), or a reel that tours five
+  unrelated pieces. One subject doing one thing (modules snapping together), or a tight pair at most. Cut pieces
+  until the idea still holds. ("It feels like too much going on", "maybe it should just be like the hooks and that one
+  lighting element", 23 Nov)
