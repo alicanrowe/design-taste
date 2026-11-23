@@ -100,5 +100,7 @@ Each collection's own brief sets the weights; this is the shared list of who mea
 ## Studio look for reels (23 Nov, the client: "all the reels we post ... feel like they're from the same design studio")
 Every reel finishes through the shared studio finishing kit (studio.py, STUDIO_LOOK.md): one key-light pool with
 falloff, neutral-warm palette, the same grade, brand type top-left with a mono counter, hairline crop marks, hairline
-tracking boxes (no filled chips), one white end card, and one continuous camera. This replaces the specimen sheet's
-ultramarine chips and end card.
+tracking boxes, one continuous camera. Revised the same night: labels sit on solid accent tags (title, spec,
+counter) with a hairline leader to the piece, and the end card is the accent; accent is IKIYA lining green #1D847E
+("electric blue doesn't necessarily fit the aesthetic of what we make"). Plain type with no tag read generic and
+hard to read.
