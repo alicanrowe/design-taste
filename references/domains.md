@@ -66,6 +66,8 @@ already gone wrong and what passing looks like.
   not a wide blank panel with the piece laid on it.
 - A spur or brace lands on the plate or the next member; a thin point ending in air beside a screw reads as an
   afterthought.
+- A repeated hollow in a grid plate keeps one orientation. Vesicas alternating ±45° cell to cell read as
+  flowers, and spurs off the grid ribs read as barbs (Nave Plinth rounds, 23 Nov). Let the ribs and bosses carry it.
 
 ## Wood furniture
 - The bar is the client's own carving (Fawn Orchard): long gouge scoops along the grain, pierced lancets, oiled
