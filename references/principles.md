@@ -156,7 +156,7 @@ piece the client asked to be dark; a dark photo of a real thing (a seller's life
 
 ## E. How the client works with a design (process taste)
 
-**E1. When they like it, refine; don't redesign.** "i do really like the designs tho so if we dont have to change
+**E1. When they like it, refine; don't redesign. (2)** Nave, 23 Nov: "I really like what you have right now, but I just want it to be a bigger project with a larger product line ... take the design language and kind of expand upon it": a liked piece grows into a family on its own grid, parts and motifs, never a restyle. "i do really like the designs tho so if we dont have to change
 them thatd be ideal"; the tools "based on the old ones ... improvements in the geometry and increasing the
 complexity". Keep silhouette, proportion and materials; add real-world detail.
 

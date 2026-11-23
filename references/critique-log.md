@@ -273,3 +273,12 @@ sculpted-metal-casting skill's `client-picks.md`; they are counted into the stri
   function. So maybe like storage devices or like jewelry holders or lighting elements, something more, a bit more
   dynamic or multimodal." | -> new principle A11 (a sculpture has a real use built from its motif). Rejected:
   Oculus (a flat terraced decorative wall disc, nothing to do but look at). Oculus taken off the site.
+
+- 2026-11-23 | Nave v1, live page (four magnetic tray modules: laminated SendCutSend plates, black tracery top,
+  lancet hollows terraced down to a red floor) | "I really like what you have right now, but I just want it to be a
+  bigger project with a larger product line. So maybe like toolboxes or maybe some sort of like tray system. Like, I
+  want that to be like a bigger product line that's more universal. So take the design language and kind of expand
+  upon it" | -> approval: Nave's language (terraced plate stacks, lancet/vesica hollows, red floor under black
+  tracery, bosses at grid crossings) is liked; E1 (refine, don't redesign) holds for every new Nave piece. New: a
+  liked system grows into a product line (bins, lids, bases, carriers) on the same grid, plates and magnets, with
+  the same motifs; A11 favours pieces that hold and carry things.
