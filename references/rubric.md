@@ -126,3 +126,11 @@ Add the line that would have caught it, in the same session, and publish (see SK
   the jewlery", 23 Nov) The loved reference is the the jewelry line drop-settings close-up.
 - Names: read each name against the render. If the motif it names isn't what a stranger would see (a "moth" that
   reads as a butterfly), rename it. ("none of this looks like a moth", "way more butterfly coded", 23 Nov)
+
+## Added 24 Nov 2026 (Shrine bench: clean sweep)
+- **Sweep test (flowing forms).** If the piece's idea is a flowing form (a twist, a laminated sweep), render it in
+  clay from the long side and the three-quarter. Any tool-mark texture, pierced hole, step left between layers, or a
+  second colour or finish on the same wood fails the gate; the form must read as one faired surface. ("clean sweep
+  no holes or carving marks", "no two tone", 24 Nov)
+- **Product shots are studio shots.** Site product images are on the studio theme (white seamless, soft high light,
+  contact shadow). A staged room, curtain or rug fails D3. ("should be on theme not whatever these are", 24 Nov)

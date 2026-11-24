@@ -82,11 +82,14 @@ already gone wrong and what passing looks like.
   flowers, and spurs off the grid ribs read as barbs (Nave Plinth rounds, 23 Nov). Let the ribs and bosses carry it.
 
 ## Wood furniture
-- The bar is the client's own carving (Fawn Orchard): long gouge scoops along the grain, pierced lancets, oiled
-  walnut. When asked for "only solid wood carving", every metal, ply or bought part goes (keep what the client
+- Fawn Orchard (the client's own carving: gouge scoops along the grain, pierced lancets) is that piece's language,
+  not a default. A sweeping laminated form is faired smooth, one wood, one finish (Shrine bench, 24 Nov: "clean
+  sweep no holes or carving marks", "smooth it all out like u would with an angle grinder", "all walnut with tung
+  oil", "no two tone"). When asked for "only solid wood carving", every metal, ply or bought part goes (keep what the client
   names, like upholstered seats).
 - Match photos one to one when modelling existing work; place every part exactly where the photo shows it.
-- Render like Gregory Beson: soft high light, paper sweep or limewash room, colour measured against his photos.
+- Render on the studio theme: white seamless studio, soft high light, a real contact shadow (D3). Not staged rooms,
+  curtains or rugs ("the site product photography should be on theme not whatever these are", 24 Nov).
 - Domain rules: hardwood-furniture-cad, seating-load-check.
 
 ## Leather: boots and bags

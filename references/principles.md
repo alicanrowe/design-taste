@@ -181,6 +181,13 @@ arc, circle or line, build that contour as one curve and hang the members off it
 and vines in a group share one rule: an even fan, a common wave, graded lengths, stacked in depth. They don't
 cross at random or merge into each other; a crossing is a single deliberate over-and-under.
 
+**B10. A sweep is one clean ground surface. (1)** "these are meant to be a clean sweep no holes or carving marks
+smooth it all out like u would with an angle grinder", "its like if u smoothed all the transitions between the
+layers" (24 Nov, Shrine bench). When the idea of a piece is a flowing form (a twisting plank, a stack-laminated
+sweep), the form carries it: fair every layer step and joint into one continuous surface, no tool marks, no
+piercings, no texture field over it. Carving language from another piece (Fawn Orchard scoops) is not a default
+for wood. And one material, one finish: "no two tone", "its all walnut with tung oil".
+
 **B7. Asymmetry is bold or absent. (3)** "aysmetrical details should be bigger and more obvious so they seem more
 purposeful", "asymetrical?" on a jittery wing. Mirror the pair, or make one element clearly, intentionally
 different.
@@ -212,9 +219,9 @@ it"). Same stone on both of a pair. Stones sit on a clear anchor ("odd placement
 **D2. Palette.** Black, washed charcoal, washed indigo, oxblood red, natural tan; bright or oxidised silver.
 Leather in black and red when asked for colourways.
 
-**D3. Backgrounds are white unless the client asks for another. (1)** Renders, page images, teasers, contact
+**D3. Backgrounds are white unless the client asks for another. (2)** Renders, page images, teasers, contact
 sheets, part photos and 3D stages all sit on white. "why are the dancers backgrounds all black they should always
-be white unless specififed". A transparent render shown or exported as is turns black in most viewers and every
+be white unless specififed", and "the site product photography should be on theme not whatever these are" (24 Nov, Shrine bench rendered on a linen-curtain set and in a limewash room with a sisal rug). Staged rooms are not product photography on this site. A transparent render shown or exported as is turns black in most viewers and every
 JPEG, so flatten onto white and run the background check (shop-machine-cad `scripts/check_backgrounds.py`,
 website-publishing `scripts/check_image_backgrounds.py`) before anything is shown. A dark background is only for a
 piece the client asked to be dark; a dark photo of a real thing (a seller's lifestyle shot) is not a background.
