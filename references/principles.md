@@ -51,10 +51,10 @@ deliberate (the unequal chain drops are the exception that was loved: short, cas
 the jail moth hanging like a bat, thorned vines ("love the spiked vines running up the posts"), oxidised metal,
 oxblood leather ("perfect just make the leather red"), angelic vs demonic, baroque. Tidy, cute, generic or
 decorative-for-its-own-sake ornament fails even when clean. On furniture (23 Nov) the dark mood comes from mass,
-proportion and material, not depicted gothic motifs: see A13. Newer word (23 Nov, twice: Nave "less gothic ... so it
-isnt so samey", the Vesper switch cover "soo dark and gothic still"): black anodise + gothic arches is no longer a
-default. Products and household objects get their own material identity, lighter (clear acrylic, bare bead-blasted
-metal, brass) and plain in geometry; dark-gothic only when the brief asks for it.
+proportion and material, not depicted gothic motifs: see A13. On 23 Nov two pieces were asked
+to be less gothic (Nave "less gothic ... so it isnt so samey", the Vesper switch cover "soo dark and gothic still"):
+that was about those pieces matching everything else, not a ban. Gothic arches and tracery are not a banned move
+(the client, 24 Nov: "that isnt a rule"); just don't let every project land on the same black gothic look.
 Third strike (23 Nov, Flatwork reel: "dont love the black and gold colors maybe like malachite", "green and white could be
 better"): black + gold/brass is out as a default palette too. Colour can carry a piece's story: a set of repeated parts
 graded in one hue (Gyre v2 liners, crimson to pale pinks to white up the stack, "a flower going through spring"). A foot
@@ -109,8 +109,8 @@ Rams for the fix. Rules that come out of them:
   standard stock, visible fasteners, tie holes and seams left honest).
 - **Mood comes from mass, proportion, material and colour, never from a depicted motif.** A7's dark, gothic,
   menacing still holds, but as a tall narrow proportion, a heavy black cast, a blade-thin steel edge, oxblood
-  pigment, a severe silhouette, not arches, thorns, bones or spikes. Newer word wins: on furniture, a gothic
-  *picture* (tracery, lancets, spikes) now fails; a gothic *weight and proportion* passes.
+  pigment, a severe silhouette, rather than a chair that pictures a thing (cast chairs, "campy or kitsche"). Gothic
+  arches and tracery are not banned; they just can't be the whole idea.
 - **Realised (A1) through detail at the joints, not ornament**: every edge, foot, bolt, washer, seam and section is
   considered and thorough (Rams), so a quiet piece still holds up close.
 - Test: describe the piece without naming a thing it looks like. If the only description is "a chair shaped like

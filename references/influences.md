@@ -16,8 +16,7 @@ Each collection's own brief sets the weights; this is the shared list of who mea
   Gothic quatrefoil and trefoil tracery inside a plain bezel rim, pierced shoulders carrying the ornament down the
   shank, oxidised near-black recesses against polished high points, worn with wide brushed and hairline-textured plain
   bands. What the client likely likes: real voids (pierced, not just carved), heavy signet mass, ornament held inside a
-  clean rim, old worn-silver contrast, one loud piece set off by quiet textured bands. Jewelry only: this does not lift
-  the ban on gothic arches as the look of products and furniture (`banned-moves.md`).
+  clean rim, old worn-silver contrast, one loud piece set off by quiet textured bands.
 
 ## Leather, bags and boots
 - **Japanese craft leather workshops** (from the client's saves, the most-saved makers overall): veg-tan,
