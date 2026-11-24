@@ -95,6 +95,8 @@ asks for function, go back over every live piece in the family. Best fix when me
 they were made (plates stacked on a rod) and let the use come from the same process (the plates become trays that swing
 on the rod), so the sculpture is the object in use, not a sculpture with a tray added.
 
+**A13 scope note (24 Nov, press-on nails): for wearable fashion pieces (nails, and by extension statement accessories) a bold depicted theme is welcome ("look how creative and cool these look bro" about mantis, flower and skeleton nails). Restraint applies to furniture and household objects. For nails the extension past the finger is the design: 2 to 4 times the nail length, sweeping, layered, many-pointed, strong in profile; show them worn on a real-looking hand in hard light, never on a mannequin.**
+
 **A13. Made, not depicted: restraint over theme. (3: seating, Flatwork Tensor, Flatwork Catena)** "all the caste chairs are a little bit ugly or
 campy or kitsche" (23 Nov, the cast chairs: a spine, a cathedral window, claw ribs, a spiked halo, organ pipes, a
 leaf, thorns, a coil). An object that *depicts* something (a bone, an arch, a creature, a plant) reads as a themed
