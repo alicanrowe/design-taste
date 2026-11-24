@@ -88,3 +88,6 @@ before showing anything.
 - In stills and reels: a piece overhanging its plinth or table edge ("kinda weird how its dangling off the edge", 23 Nov).
   Seat the whole footprint on the plinth with a margin. In pair shots keep the two pieces close enough to read as one
   composition ("the distance between the too is a bit much").
+- Wearables built as a stock base shape with one effect applied at the end (a press-on nail whose tip twists, or turns
+  into a lattice): delete the effect and a plain nail remains. Gyroid / lattice infill as decoration is the stock
+  picture of 3D printing. ("they both suck", press-on nails Actias and Kallima, 24 Nov)
