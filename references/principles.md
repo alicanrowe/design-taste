@@ -291,6 +291,14 @@ named in the BOM.
 animation" (22 Nov, Moth reel). Before any animation or farm render: a few full-size stills of the materials, the
 key style frames and the shot list with timings go to the client first; the animation starts only on their OK.
 
+**E11. Tools: precision you can adjust, not just a pretty part. (1)** "our tweesers are nowhere as precise as metmo
+... we have no knurled dial or spring or anything keep what u got now because it looks pretty but we need a more done up
+version with more advanced complications" (24 Nov, Ogive). A hand tool for jewelry or model making is judged against
+precision machined objects: it should carry working "complications" (a knurled dial with detents, a return spring,
+a lock, an adjustment for alignment, swappable working parts), each a real part with a stated job and number (clicks
+per turn, mm per click, force). When the client likes the look of a tool but wants more, keep the liked version and add
+a second, done-up model beside it (E1), built from the same silhouette and materials.
+
 **A12. Near-twins are one project; one idea done well beats many demos of it. (3)** "metamer and rachis should be one project they are so similiar", "same
 with chrysalis and gill" (23 Nov). Two pieces that share a silhouette idea and a language are shown as one project
 with variants (one page, one name), not as rivals. Before a new piece gets its own page, compare it with every live
