@@ -87,6 +87,11 @@ already gone wrong and what passing looks like.
   sweep no holes or carving marks", "smooth it all out like u would with an angle grinder", "all walnut with tung
   oil", "no two tone"). When asked for "only solid wood carving", every metal, ply or bought part goes (keep what the client
   names, like upholstered seats).
+- A laminated piece looks laminated: every layer and stave its own board, figure breaking at the glue lines,
+  layer rings as contour bands where the surface is ground through the stack ("the grain wouldnt look like that
+  because they are multiple pieces laminated not a single board being bent", Shrine bench, 24 Nov). One tone still.
+- Upholstery follows the wood's curve, plush with soft rolled edges (dense short-pile mohair/velvet refs), in the
+  colours the client set: Shrine bench seats stay one mint, one pink ("i still want one pink and one kinda mint seat").
 - Match photos one to one when modelling existing work; place every part exactly where the photo shows it.
 - Render on the studio theme: white seamless studio, soft high light, a real contact shadow (D3). Not staged rooms,
   curtains or rugs ("the site product photography should be on theme not whatever these are", 24 Nov).
