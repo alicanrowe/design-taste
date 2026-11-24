@@ -258,6 +258,14 @@ resolution, same shot list in the same order, same graphics (3D, drawing, build 
 fixed dimensions. A piece without the full kit is not finished. Keep each piece's own design (E1); harmony is the
 shared lines and the shared presentation, not sameness of motif.
 
+**E11. Don't publish below the bar, and don't credit the studio's own pieces as sources. (1)** Ince Bel, 24 Nov:
+shipped on "just push it" after blind reviews of 9/24 and 7/24, and it was "fucking sucks", "super ugly and the
+woodworking is a mess", "also dont mention fawn orchard". "No approval needed" covers publishing a passing design,
+not skipping the bar: if the blind review fails, say so and show the client before it goes live. Page copy never
+names another of the client's pieces as the reference ("carved the way X is"); use the reference privately. When
+borrowing from the studio's own work, take its structure, mass and construction, not its surface texture, and judge
+the wood as real woodwork: deliberate cuts, clean edges, calm fields, no noisy scoops at one scale everywhere.
+
 **E2. A liked change goes everywhere.** "i love these new feet for thread why arent they everywhere keep the
 updates eveyrwhere its a rule". Adapt it to each piece's motif. Named exceptions stay (Durumi's own feet).
 
