@@ -176,6 +176,20 @@ design principles". Take the principles, never their products (no Wiggle, no 620
 
 ## Digital
 - **Syd Mead**: ultra-wide lens, chrome megastructure, sunset palettes; the bar for the fractal engine's Syd preset.
+- **Edge-aware colour ASCII** (TikTok @pythonascii 7709815274593111328, 25 Nov, "this looks nice"): 17 s, 9:16,
+  one locked screen recording, no cuts, ambient synth. Top two thirds: a flower time-lapse (a stem rising, a
+  bud swelling and opening) redrawn every frame as monospace characters on pure black; bottom third: the real
+  Python script (ascii_player.py, OpenCV) in a dark editor. What makes it look good rather than generic ASCII:
+  glyphs follow the form's edges (a Sobel pass picks / \ | - by gradient angle on contours, a density ramp fills
+  the inside), so petals read as drawn line, not noise; each character takes the source pixel's colour with a
+  saturation boost (pinks, reds, blues, greens) instead of mono green; everything below a low brightness is
+  left blank, so the form floats as a clean silhouette with a lot of air; an organic, growing subject rendered
+  in rigid type; and the code that makes it is part of the frame (the construction is the image, like the
+  X-ray). Worth taking: edge-direction glyphs, colour held only in the form, the tool shown under the result.
+  Not to copy: the stock rainbow flower clip, the code-editor-screenshot layout as a whole, black-ground by
+  default (stills stay white unless the client says otherwise). Natural fits: Pinion (TouchDesigner can do this
+  live), the GLOSSA subtitle choker's text display, or a studio reel/page treatment that turns a piece's
+  turntable into type.
 
 ## Studio look for reels (23 Nov, the client: "all the reels we post ... feel like they're from the same design studio")
 Every reel finishes through the shared studio finishing kit (studio.py, STUDIO_LOOK.md): one key-light pool with
