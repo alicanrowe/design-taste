@@ -128,7 +128,7 @@ sculpted-metal-casting skill's `client-picks.md`; they are counted into the stri
   modelled leaves and fewer, larger stones beat open outlines and many small ones
 - Bombyx | BUYAO hair clip (a spare branch, veined leaves, ruby buds on fine sprung stems) | "super well done" |
   -> approval: a spare elegant line with detail at the terminals (A9)
-- The Dancers (group name, site card and page) | the name and the "she/her" copy | "i believe i asked for this to be renamed because of the problematic imagery of a bunch of subservient robots being women you know"; on the fungus-name proposal: "come up with something else i think queen bee is a good name and should stay" | -> domains: Machines (no servant or women framing, machines are "it"); renamed to The Hive, machine names kept (25 Nov 2026)
+- The Dancers (group name, site card and page) | the name and the "she/her" copy | "i believe i asked for this to be renamed because of the problematic imagery of a bunch of subservient robots being women you know"; on the fungus-name proposal: "come up with something else i think queen bee is a good name and should stay" | -> domains: Machines (no servant or women framing, machines are "it"); picked The Hive, then "hivemind" and "come up with new names for the dancers tho": group is Hivemind, Queen Bee stays, the other 23 got ungendered bee and hive names (25 Nov 2026)
 - Dancers (all 24, live page) | every image | "why are the dancers backgrounds all black they should always be
   white unless specififed"; "why did this happen fix the skill so this doesnt happen again" | -> D3, domains: site
   pages and renders, rubric gate (background check); cause: the page builder flattened transparent renders to black
