@@ -1,3 +1,5 @@
+![Design taste: One self-improving record of what gets approved, what gets rejected, and why, across every medium.](.github/banner.png)
+
 # Design taste skill
 
 A Claude skill that holds one client's design taste across every medium they work in (cast jewelry, cast-metal
