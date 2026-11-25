@@ -321,3 +321,5 @@ technique on a different picture (a bud, an egg, a seed, an almond, a spear rack
 own. Before adding a piece, ask whether it is a new idea or another demo of a live one; if it is a demo, it becomes a variant
 or a use of the existing project (Kerf: one slit sheet, three uses), or it folds into a liked project (Gyre, Plissé). Keep the
 site to a few projects, each carried all the way.
+
+**Lineups share one scale. (1)** When several pieces sit in one image (a banner, a family shot, a contact sheet), show them at one real-world scale on a shared floor line, so a stool reads smaller than a cabinet; jewelry goes in its own panel with its scale stated, never blown up to furniture size. Pick the flagship pieces, not filler (the client, 25 Nov: "scale seems random and inconsistent and project choice is weird").
