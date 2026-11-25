@@ -44,6 +44,7 @@ before showing anything.
 - Garments covered all over in a literal creature surface (dragon or armour scales, feathers, plates) or edged with free spiky tips (dagged scale hems, spiked shoulders). ("too costumey bro", SCALE jacket, 23 Nov)
 - Plain slab-and-plate furniture: flat panels, a plain fold, one bent plate between posts, where the only
   interest is one joint. ("i hate them all too boring", cast chairs, 23 Nov)
+- Swapping the reference's object type: answering "something like this" with a different kind of object (a closed laminated step stool for a clamp-on cantilevered boot stage). ("this looks nothing like ... the given instagram posts", 25 Nov)
 - Furniture that depicts a thing: a spine or ribs for a back, a church window or lancet arch, a spiked halo,
   organ pipes, a leaf, thorns, a coil, a creature. It reads as a themed prop. ("a little bit ugly or campy or
   kitsche", the cast chairs, 23 Nov) Glossy black moulded foam on splayed even-gauge legs reads the same way.
