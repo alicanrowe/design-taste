@@ -90,6 +90,8 @@ already gone wrong and what passing looks like.
 - A laminated piece looks laminated: every layer and stave its own board, figure breaking at the glue lines,
   layer rings as contour bands where the surface is ground through the stack ("the grain wouldnt look like that
   because they are multiple pieces laminated not a single board being bent", Shrine bench, 24 Nov). One tone still.
+  Everywhere it is shown: the site's 3D viewer too, not only the renders ("grain is wrong again", 25 Nov: the viewer
+  wrapped one flat texture round the twist). Wood is a solid; no texture may follow a curve like a bent board.
 - Upholstery follows the wood's curve, plush with soft rolled edges (dense short-pile mohair/velvet refs), in the
   colours the client set: Shrine bench seats stay one mint, one pink ("i still want one pink and one kinda mint seat").
 - Match photos one to one when modelling existing work; place every part exactly where the photo shows it.
