@@ -94,3 +94,6 @@ before showing anything.
   that nothing motivates ("random jump cuts too"); lighting or grain that boils from frame to frame ("lights are
   flickering weird"). Move between two strong angles, hold on a beat, carry one continuous move or a matched
   transition, and check frame by frame for flicker before showing.
+- In metal with colour: enamel or resin that wraps round a curved form and fades out at a grazing, feathered edge
+  with no metal wall to hold it ("looks kinda messy and unrealsitc", HELIUM, 25 Nov). Colour sits in a cast cell
+  with a crisp rim, a little below it, and the maker can say how it is filled.
