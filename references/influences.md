@@ -31,6 +31,7 @@ Each collection's own brief sets the weights; this is the shared list of who mea
 - **gsongim**: crushed soft leather against crisp metal, knots and tethers as closures, stacked straps, ivory
   thread, poetic Korean names. The bojagi seat came from here and was loved.
 - **Studio Wenjüe Lu**: washed greys and indigo, scalloped petal hems, poetic names with archive codes.
+- **Kapital** (the client's own wardrobe; 25 Nov, "heavily weighted" for shop uniforms): the very wide calf-length shorts that read as a skirt, and a Lee Riders-inspired Kapital denim jacket, worn as one dark tonal denim set with a leather belt and lace-up boots (the client's Info page portrait). What the client values is use: the shorts' pockets run front to back as one unit, big enough for two Stanley Bedrock planes or a board. Take the volume, the tonal set and the working pockets; never a Kapital signature (boro patch, smile, kountry motifs).
 - **Professor.E** (Taiwanese, founder Ken Rao; the client named it 25 Nov as a heavy weight for shop uniforms): deconstructed patchwork that mixes fabrics, a Tang suit taken apart and rebuilt in Japanese kendo cloth, shrouded and hooded figures, gender-fluid cuts. Take the method (rebuild a traditional work garment from honest work cloth, seams and patches shown), never a signature piece.
 - **Komune NYC** (and what it stocks: gsongim, untitlab, XLIM, O.Files, Blackmerle, Ella Roberts): the quality and
   sellability bar.
