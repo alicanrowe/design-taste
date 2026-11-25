@@ -127,6 +127,8 @@ What passing needs:
   (not one zone); structured parts (collars, peplums, tails, wings) built as stiffened double layers with finished
   edges; hardware cast in the motif and sized to read at full-garment view; each jacket the boot's twin at a
   glance.
+- Renders (the client, 25 Nov): always on a plain white faceless figure (CLO's mannequin, or the avatar painted flat
+  white with no hair, briefs or shoes). Never a realistic person.
 
 ## Machines (the Dancers)
 - Real parts only, matched to their listings; no stand-in boxes. Saturated colours must survive the renderer.
