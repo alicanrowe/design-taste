@@ -24,10 +24,14 @@ The point is to get it right before the client sees it, instead of finding taste
 - `references/instagram-saves.md`: patterns from the client's saved Instagram posts (about 2,500): materials,
   makers, surfaces, colours and staging they keep returning to. Lower weight than critique; use it to pick
   references and break ties. Where it conflicts with a principle, the principle wins.
+- `references/productdesign-account.md`: how products are shot and rendered, from all 88 posts of the
+  @productdesign account (25 Nov): the carousel frame order, camera angles, bleed crops, light recipes,
+  backgrounds and material tells, plus our default shot plan. Read it before planning any render set, product page
+  or IG carousel. Lower weight than critique and saves; D3 white still wins.
 
 ## Use it (every design task)
 1. **Before sketching.** Read `principles.md`, `banned-moves.md`, the section of `domains.md` for your
-   medium, and the matching signals in `instagram-saves.md`. Read the project's own brief and picks file. Write the brief in four lines: the one silhouette idea,
+   medium, and the matching signals in `instagram-saves.md` (for renders, pages and reels, also the shot plan in `productdesign-account.md`). Read the project's own brief and picks file. Write the brief in four lines: the one silhouette idea,
    the language every part is built from (named motifs, from the host piece if there is one), the focal point,
    and the two or three references you will hold it against.
 2. **Design to the rubric, not to the checklist after.** The rubric's top failures are structural (a plain base
