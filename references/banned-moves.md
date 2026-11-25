@@ -89,3 +89,8 @@ before showing anything.
 - Wearables built as a stock base shape with one effect applied at the end (a press-on nail whose tip twists, or turns
   into a lattice): delete the effect and a plain nail remains. Gyroid / lattice infill as decoration is the stock
   picture of 3D printing. ("they both suck", press-on nails Actias and Kallima, 24 Nov)
+- In reels: camera spins and orbits that sweep through weak angles between the good ones ("chairs spin into odd
+  compositions", 25 Nov); even-speed moves with no holds or beat ("timing is awkward"); hard cuts between framings
+  that nothing motivates ("random jump cuts too"); lighting or grain that boils from frame to frame ("lights are
+  flickering weird"). Move between two strong angles, hold on a beat, carry one continuous move or a matched
+  transition, and check frame by frame for flicker before showing.
