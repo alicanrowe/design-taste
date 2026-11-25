@@ -11,6 +11,8 @@ concrete-mold-casting, shop-machine-cad, website-publishing and any new one) poi
 their own craft rules.
 
 The point is to get it right before the client sees it, instead of finding taste by many rounds of edits.
+Taste is the job, not a finishing pass: when anything can be built, knowing what is worth making and making it
+look and feel great is the work (client reference, 25 Nov).
 
 ## Files
 - `references/principles.md`: the taste itself. What the client likes and hates, as rules, each with the
