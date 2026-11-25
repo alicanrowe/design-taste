@@ -61,6 +61,7 @@ Each collection's own brief sets the weights; this is the shared list of who mea
 - **Gregory Beson**: the render and staging bar for furniture (soft high window light, paper sweep, linen curtain,
   limewash room, measured walnut tone).
 - Krenov, the Center for Furniture Craftsmanship: joinery and proportion.
+  Owner asked for Krenov's hand on a boot display stand (25 Nov): quiet small-cabinet scale, figure matched across one board, soft hand-planed edges, nothing shouting. Reference post: rolling_dub_trio BOOTS STAGE (borrow the idea of one pair's own stage, never its wooden-screw clamp).
 - From the client's saves (`instagram-saves.md` S3): Nakashima (live edge, butterfly keys), sculpted rockers in
   the Maloof line, Windsors, wiped-urushi Japanese cabinets, carved gouge-ripple and fluted surfaces, wood paired
   with stone or clear resin as equals.
