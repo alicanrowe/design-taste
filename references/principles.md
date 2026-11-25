@@ -284,7 +284,10 @@ reference (colour, light, camera) rather than eyeballing.
 
 **E7. Physically real.** "recursively check for real world fabricability", "keep in mind what leather i will buy
 ... so it can be actually produced", "would these wires be purchased?". Every part names its material, stock size
-and process.
+and process. It also has to do its job at real-world rates: GLOSSA, 25 Nov ("doesnt seem like it will fit enough text ... like if
+you were talking at normal speed"). A piece that shows or holds something states the real-use number (speech about 190 wpm /
+18 characters a second; readers need about 2 x 37 characters on screen) next to its capacity, from research, before the form
+is drawn.
 
 **E8. Automated production first: laser-cut and SendCutSend parts. (2)** "automated as much possible shold be
 the goal for all design stuff laser cut or use send cut send as much as possible you know tjat kinda stuff"
