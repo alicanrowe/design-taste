@@ -31,6 +31,7 @@ Each collection's own brief sets the weights; this is the shared list of who mea
 - **gsongim**: crushed soft leather against crisp metal, knots and tethers as closures, stacked straps, ivory
   thread, poetic Korean names. The bojagi seat came from here and was loved.
 - **Studio Wenjüe Lu**: washed greys and indigo, scalloped petal hems, poetic names with archive codes.
+- **Professor.E** (Taiwanese, founder Ken Rao; the client named it 25 Nov as a heavy weight for shop uniforms): deconstructed patchwork that mixes fabrics, a Tang suit taken apart and rebuilt in Japanese kendo cloth, shrouded and hooded figures, gender-fluid cuts. Take the method (rebuild a traditional work garment from honest work cloth, seams and patches shown), never a signature piece.
 - **Komune NYC** (and what it stocks: gsongim, untitlab, XLIM, O.Files, Blackmerle, Ella Roberts): the quality and
   sellability bar.
 - **14th Addiction** (Japanese 90s-2000s archive leather; 23 Nov, the client: "add these as pretty heavily weighted
