@@ -130,10 +130,10 @@ What passing needs:
 - Renders (the client, 25 Nov): always on a plain white faceless figure (CLO's mannequin, or the avatar painted flat
   white with no hair, briefs or shoes). Never a realistic person.
 
-## Machines (the Hive, formerly the Dancers)
+## Machines (Hivemind, formerly the Dancers)
 - Never frame machines or robots as people serving someone, and never as women: a machine is "it", not "she" or "her".
   The group was renamed from The Dancers on 25 Nov 2026 because the theme read as "a bunch of subservient robots
-  being women" (the client). Individual machine names can stay playful (the client kept Queen Bee).
+  being women" (the client). the client kept Queen Bee; the other machines got bee and hive names with no gender (no "worker" or "drone"). Renamed group: Hivemind.
 - Real parts only, matched to their listings; no stand-in boxes. Saturated colours must survive the renderer.
 - Look is engineered and honest; the taste rules on coherence and fidelity still apply (one part rendered
   rougher than the rest stands out).
