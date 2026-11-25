@@ -201,3 +201,6 @@ tracking boxes, one continuous camera. Revised the same night: labels sit on sol
 counter) with a hairline leader to the piece, and the end card is the accent; accent is IKIYA lining green #1D847E
 ("electric blue doesn't necessarily fit the aesthetic of what we make"). Plain type with no tag read generic and
 hard to read.
+
+## Materials the client owns
+- La Perla Azzurra (Santa Croce sull'Arno) Soft Condor veg-tan bovine double shoulders: CON-01 light peach (#F6CBAA scan) and CON-32 dark ashy grey-brown (#534C49 scan), 1.8-2.0 mm, ~6.1 m2 each bought Feb 2026 (also 1.6 mm hides of the same two colours, Sept 2024). Default leather for the client's leather pieces unless told otherwise; design at its real thickness.
