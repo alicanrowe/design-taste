@@ -158,7 +158,7 @@ Sharp points belong on sculpture you look at, not on things you reach into.
 **B5. Taut where it should be taut. (2)** "wavy as hell", "eww wavy as hell": bars, frames and straps stay
 straight and tensioned. Melting or drooping forms are out ("too dali esque", "awful").
 
-**B6. Real-world fidelity in the render. (6)** "crazy low poly", "is the metal clipping through the glass that
+**B6. Real-world fidelity in the render. (7)** "crazy low poly", "what the fuck is that low poly CAD shit ... Photoreal CAD" (kei trucks, 26 Nov: context objects count too: a truck, tool or prop next to the piece gets the same photo-matched detail: glazing, grille, mirrors, lamps, seams, tyres, badges), "is the metal clipping through the glass that
 isnt possible", leather that renders like rubber, milky stones, and "how can we up our jewlery collections to reach
 this fidelity" (21 Nov, holding up phone photos of a maker's real oxidised, densely carved sterling in low sun).
 The bar is a photo of a real, finished piece: dense geometry, real bevels, matte calf, sterling oxidised black in
