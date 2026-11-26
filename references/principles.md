@@ -335,3 +335,5 @@ site to a few projects, each carried all the way.
 
 **Use first: where the person stands. (1)** Before shaping a piece, decide who uses it, where they stand and who watches. An event bench in a truck is a raised stage: the maker stands in the bed, elevated above the crowd (the client, 26 Nov: "stand in the bed of the truck, elevated"). Every render of a piece built around a body shows a figure in place, so the use is never guessed.
 
+
+**Studio print carries the motto. (1)** Anything that stands for the studio in someone's hand (business cards, tags, invitations) has "gravity and grace" on it, and the object itself should act the motto out in its material (weight, balance, light), not in a clever paper format. Ten paper, wood and steel cards without the motto were all rejected (the client, 26 Nov: "i want gravity on grace on the business cards and i dont like any of these", then "brass business cards could be the move"). A short line that plays on the making wins ("lend a hand" on a work glove invite: "a fire line ... a sick idea").
