@@ -132,6 +132,15 @@ What passing needs:
 - Renders (the client, 25 Nov): always on a plain white faceless figure (CLO's mannequin, or the avatar painted flat
   white with no hair, briefs or shoes). Never a realistic person.
 
+- Shop uniform (the client, 25-26 Nov, rounds 5-9): the liked baseline is the round-5 two-tone set (Soft Condor peach
+  and ash, straight six-tail dovetail yoke, boxy cropped jacket, wide calf-length skirt-shorts); iterate small from it.
+  A dovetail joint is the actual cut edge where two leather panels meet (tails cut into one panel, pins into the
+  other, sharp laser corners, flared tails), never tail shapes applied on top or rounded "castle" fingers. A trade
+  uniform earns its identity from storage for that trade's real tools (two Bridge City combination squares, a 6 in
+  flat rule, Blackwing pencils, a plane in the trouser bag), and every pocket is shown holding its real tool;
+  an empty pocket strip reads as a mess. Hidden hardware (magnets, stiffeners) shows only as a soft dome and a
+  stitched ring; a disc or button sitting on the surface is a fake.
+
 ## Machines (Hivemind, formerly the Dancers)
 - Never frame machines or robots as people serving someone, and never as women: a machine is "it", not "she" or "her".
   The group was renamed from The Dancers on 25 Nov 2026 because the theme read as "a bunch of subservient robots
