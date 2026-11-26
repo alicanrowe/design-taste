@@ -534,3 +534,6 @@ sculpted-metal-casting skill's `client-picks.md`; they are counted into the stri
 - Cathedrals that radiate out fully to the edges look weird; real flat-sawn boards run out to straight grain near the edges. "It's okay, but it could be improved."
 - Bark "not the same quality": dark interlacing ridges over deep furrows, no pale net.
 - A piece designed by someone else gets their credit on the ending and links where it belongs (the skill page), not to an unrelated collection.
+
+## 26 Nov 2026: Chrysalis lamps scrapped
+- Chrysalis (black steel root-foot table lamp with a twisting stack of red-to-clear acrylic slices, plus the 1.5 m floor lamp with red vanes in a black steel cage): "scrap this project i hate it now and it is beyond saving". The whole set is rejected, not one detail. Read it as: black spiky steel cage + striped red/white acrylic slice stacks on a thin stalk with splayed root feet did not hold up; do not reuse that look for new lights.
