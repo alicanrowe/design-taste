@@ -150,6 +150,8 @@ What passing needs:
   rougher than the rest stands out).
 
 ## Site pages and renders
+- Composition (framing, fill per format, camera height and lens, square crops, groups): `composition.md`; run
+  `scripts/composition_check.py` on every still, card and reel before showing (G12).
 - Plan the frames before rendering: hero, bleed-crop details, ortho pair, scale, process, family (`productdesign-account.md` section 10).
 - White backgrounds by default (D3): every render, page image, teaser and part photo. Check the actual output
   file, not the render: a transparent PNG flattened with a plain RGB convert lands on black.

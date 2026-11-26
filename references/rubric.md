@@ -32,6 +32,13 @@ Write the result into the piece's notes as one line plus the fixes:
   two panels they join), never shapes stuck on top. Pockets and holders hold the real object they are for. Nothing
   floats: magnets, latches and screws sit in the part that holds them.
 - **G10 Whole work (25 Nov 2026).** No image crops the work: no forced 4:5 or square cover crop that cuts off a piece.
+- **G12 Composition (26 Nov 2026).** Every still, card, carousel frame and reel passes `scripts/composition_check.py`
+  for its format (`composition.md`): the whole piece in frame with air on every side (no CUT/EDGE), fill inside the
+  format's band (card 78-90 % on the limiting axis, reel 40-60 % of the height inside the safe zone, hero 50-75 % of
+  the height, square 66-88 %), centred with the floor line a little low, a group close enough to read as one picture
+  on one floor line (no SPREAD), clean ground (no BUSY), and a set framed alike (no SETFILL). By eye, also: camera
+  height and lens per composition.md section 2 (long lens, level verticals, one camera across a set), the long axis on
+  the frame's long axis, no tilted or floating object. "i think ur taste skill is not getting composition yet."
 - **G11 Not generic (26 Nov 2026).** A bag, a stand, a page each has an idea tied to its use; a stock silhouette
   (a plain doctor bag) fails ("the bag looks super generic and boring").
 

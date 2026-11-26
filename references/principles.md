@@ -240,6 +240,15 @@ whole hinge, the handle on its ridge), hold 2.5 to 4 s on a slow drift, and give
 piece its own beat. Fast whips between subjects are fine; fast cuts inside one are not. Movement keeps a hold
 alive, so "no dead holds" never means "short shots".
 
+**D6. Composition: the whole piece, with air, centred, framed alike across a set. (7: Moth reel, Nave snap, Rachis
+pair, Rachis card, GitHub banner x2, site cards)** "few of your crops are pretty close and cut things off", "this
+framing is a bit awkward" (a tray cut by the edge), "the distance between the too is a bit much", "scale seems random
+and inconsistent", "these previews are actually all over the place", and on 26 Nov "i think ur taste skill is not
+getting composition yet". Every part inside the frame with margin in every pose; fill set by the format, not by eye;
+centred with the floor line a little low; long lens, level camera, long axis on the frame's long axis; a group close
+enough to read as one picture on one floor line at real scale. The numbers and the check: `composition.md`,
+`scripts/composition_check.py` (gate G12).
+
 ## E. How the client works with a design (process taste)
 
 **E1. When they like it, refine; don't redesign. (2)** Nave, 23 Nov: "I really like what you have right now, but I just want it to be a bigger project with a larger product line ... take the design language and kind of expand upon it": a liked piece grows into a family on its own grid, parts and motifs, never a restyle. "i do really like the designs tho so if we dont have to change

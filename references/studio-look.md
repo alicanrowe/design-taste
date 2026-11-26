@@ -99,6 +99,8 @@ wise because when the reels are on the main grid it ensures u get a good preview
 9. No clipping or interference in the piece (standing rule).
 10. Checked side by side against the last approved reel: it looks like the same studio.
 11. Site cards: a loop from the card kit, same fill, framing and size as the rest (section 9).
+12. Composition: `design-taste/scripts/composition_check.py` passes for the format (`--set` for cards and carousels);
+    the rules and numbers are in design-taste `references/composition.md`.
 
 ## 9. Site cards: one studio loop per card (the client, 26 Nov 2026 12:31-12:34 AM ET)
 the client on the index cards: "these previews are outdated we are now doing groups for previews when it makes sense",
