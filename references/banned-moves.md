@@ -49,6 +49,7 @@ before showing anything.
   organ pipes, a leaf, thorns, a coil, a creature. It reads as a themed prop. ("a little bit ugly or campy or
   kitsche", the cast chairs, 23 Nov) Glossy black moulded foam on splayed even-gauge legs reads the same way.
 - Glossy grey leather that reads as rubber; milky or untextured stones; low-poly facets; clipping of any kind.
+- 3D previews with bulging or smeared flat panels, soft (averaged) hard edges, curves shaded flat, or visible polygons on a gloss finish (Moth case, 26 Nov 2026: "polygons on moth are fucked again"). Every GLB passes `glb_shading_check.py`.
 - Open-wire outline panels (a leaf, petal or wing drawn as an empty rim with a few thin struts) at sizes where the
   cells read as holes, about 8 mm across and up. ("kinda ugly", "basic and boring") Model them solid and carved
   (rib and engraved veins, like the loved carved feathers) or fill the cells.
