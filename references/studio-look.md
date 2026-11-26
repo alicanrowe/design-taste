@@ -70,20 +70,20 @@ grain. Hero and Instagram stills must also pass as a photograph (photoreal.md).
 - Length: 20 to 30 s for reels and TikToks (50 s at most). YouTube films set their own length, same rules.
 - Sound: real shop and material sound first. Trending audio only on TikTok, low under the real sound.
 
-## 7. Endings: no card, the reel comes to rest in its own world (26 Nov, round 2)
-the client on the site card: "still kind of feels like corporate ... slop", "your video shouldn't just end abruptly either",
-"the cropping is kind of cute". So no reel ends on a card. It ends inside its own world, in one of three ways
-(samples in the brand kit):
-- **A. Settle (default, every set).** The last camera move eases to a stop (about 1.4 s of deceleration, never a cut
-  while moving), the frame keeps breathing (live grain), and one tag fades in the usual low-left slot: the name on a
-  chip and the url under it. Holds 2 s. About 3.4 s in all.
-- **B. Lights down (dark sets, jewelry, metal).** After the settle the room goes dark first and the piece's own
-  glints go last, the tag on the dark. About 5.4 s. In a real render do it in Blender: dim the world and fill over
-  2 s and keep only the light linked to the piece.
-- **C. Crop (stills-led reels, carousels).** After the settle the frame closes into a centred square on white, with
-  hairline marks round it and one mono line under it (`name · url`). No logo, no spec stack. About 4.4 s.
-- Code: `studio.ending('settle' | 'lights_down' | 'crop', tail_frames, name, url)`; tail = the last ~1 s of clean frames.
-- The carousel's last slide is the C still. `studio.endcard()` (the site card) is retired with the green slab.
+## 7. Endings: no card, the reel closes into a square (the client picked C, 26 Nov 12:41 AM ET)
+the client on the site card: "still kind of feels like corporate ... slop", "your video shouldn't just end abruptly either".
+Of the three in-world endings (samples in the brand kit), the client picked the crop: "3rd is the way to go and is also
+wise because when the reels are on the main grid it ensures u get a good preview because of the crop".
+- **Default, every reel and TikTok: Crop.** The last camera move eases to a stop (about 1.4 s, never a cut while
+  moving), then the frame closes into a centred 760 px square on white over 0.9 s, hairline marks round it, and one
+  mono line fades in under it (`name · url`). Holds 2 s, about 4.4 s in all. No logo, no spec stack, no chip.
+- **The cover is that last frame.** Upload the crop's final frame as the reel's cover (Instagram and TikTok both show
+  a centred 3:4 window on the profile grid; the square and its line sit inside it), so every grid tile is the piece in
+  a square on white and the grid reads as one studio. `studio.cover(tail, name, url)` returns it.
+- **The carousel's last slide** is the same still.
+- Settle and Lights down stay in `studio.ending` only for a case the client asks for. `studio.endcard()` (the site
+  card) and the green slab are retired.
+- Code: `studio.ending('crop', tail_frames, name, url)`; tail = the last ~1 s of clean frames.
 - Never: a card bolted on after the reel, a logo stack, specs paragraphs, "follow for more", arrows, stickers, a hard
   cut while the camera is still moving.
 
@@ -95,6 +95,6 @@ the client on the site card: "still kind of feels like corporate ... slop", "you
 5. Tags lowercase mono on chips, low-left; counter top-right; nodes only on real parts.
 6. `grade` + `unify` ran; the world is grey and the piece carries the colour.
 7. Frame 1 is the piece; no title card; no flicker, spins or jump cuts; length within the limit.
-8. Ends in-world (section 7: settle, lights down or crop), never on a card or a cut while moving.
+8. Ends on the crop (section 7) and the cover is its last frame; never a card or a cut while moving.
 9. No clipping or interference in the piece (standing rule).
 10. Checked side by side against the last approved reel: it looks like the same studio.
