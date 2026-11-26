@@ -28,6 +28,10 @@ Write the result into the piece's notes as one line plus the fixes:
 - **G8 Real objects at photo fidelity (26 Nov 2026).** Every real-world thing shown, context included (vehicles, tools,
   bought hardware, mannequins, bags, buildings), is modelled like the real product from photos: no low-poly, boxy,
   primitive or stand-in object anywhere in frame. "what the fuck is that low poly CAD shit ... Photoreal CAD, dude."
+  Applies to reels and animations the same as stills and site pages, and to machines (plasma tables, press brakes,
+  lathes): name the real maker + model, build from its official dimensions, and pass the site gate's
+  photo_match.py against >=3 product photos (front, side, 3/4) before any sample still is shown. Keep the match
+  sheets next to the reel. "pretty low poly shit that shouldn't be flying. I don't know how this passed the checks."
 - **G9 Integrated detail (26 Nov 2026).** Joinery, seams and motifs are part of the material (dovetails cut into the
   two panels they join), never shapes stuck on top. Pockets and holders hold the real object they are for. Nothing
   floats: magnets, latches and screws sit in the part that holds them.
