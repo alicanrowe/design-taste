@@ -323,3 +323,6 @@ or a use of the existing project (Kerf: one slit sheet, three uses), or it folds
 site to a few projects, each carried all the way.
 
 **Lineups share one scale. (3)** When several pieces sit in one image (a banner, a family shot, a contact sheet), show them at one real-world scale on a shared floor line, so a stool reads smaller than a cabinet; jewelry sits as a small quiet detail pair with names only (no boxed panel, no mm labels), never blown up to furniture size. Every render is keyed to the same pure white with no crop edges, grey grounds or stray shadows showing. Render the lineup as ONE scene (one floor, one light, one camera), never as separate renders composited in a row. Pick the flagship pieces, not filler (the client, 25 Nov: "scale seems random and inconsistent and project choice is weird"; then "these look awkward in the github banner"; then "they look un unified maybe render them all together in one scene").
+
+**Use first: where the person stands. (1)** Before shaping a piece, decide who uses it, where they stand and who watches. An event bench in a truck is a raised stage: the maker stands in the bed, elevated above the crowd (the client, 26 Nov: "stand in the bed of the truck, elevated"). Every render of a piece built around a body shows a figure in place, so the use is never guessed.
+
