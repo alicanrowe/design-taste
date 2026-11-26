@@ -31,6 +31,12 @@ look and feel great is the work (client reference, 25 Nov).
   backgrounds and material tells, plus our default shot plan. Read it before planning any render set, product page
   or IG carousel. Lower weight than critique and saves; D3 white still wins.
 
+- `references/composition.md`: COMPOSITION (26 Nov 2026): how a piece sits in its frame, as checkable rules: air and
+  whole-in-frame, fill bands per format (card, reel, hero, square, detail, lineup), centring, camera height and lens by
+  kind of piece, crops to square and the grid, groups, ground; reconciled with the client's critique (which wins) and
+  with research and pro practice (sources listed). `scripts/composition_check.py` measures it on any image or video
+  (rubric gate G12); give its output to the blind reviewer too.
+
 - `references/studio-look.md`: THE LOOK GUIDE (26 Nov 2026), a hard rule for every reel, TikTok, video, post,
   still, sheet and page: two font families in four cuts, one palette, fixed logo sizes, frame layout, motion rules,
   the site-card end card, and a 10-line gate. Nothing is shown or posted until it passes that gate.
@@ -45,7 +51,8 @@ look and feel great is the work (client reference, 25 Nov).
    patched at the end. Decide how the motif *is* the structure before modelling.
    Check the bare form first: one matte clay render from every named view (rubric, "form study before surface")
    before any material goes on.
-3. **Score before showing.** Run `rubric.md` on the real render, including a close-up of every part. Write the
+3. **Score before showing.** Run `scripts/composition_check.py` on every frame that will be shown (`--set` for a set of
+   cards or a carousel) and fix the camera until it passes. Then run `rubric.md` on the real render, including a close-up of every part. Write the
    scores in the piece's notes. Anything that fails a gate or scores under the bar is fixed and re-rendered, not
    shown. Use the domain skill's own checks (clipping, casting, fit) as gate G1 to G3.
 4. **Blind critique before anything is shown or published (26 Nov 2026: was only for picking among variants).** Anything
@@ -73,6 +80,7 @@ Each of these is a shortcut that ends in a broken result. If you catch yourself 
 | "That critique is obvious, no need to log it" | Log the exact words in the critique log the same session and distil them into the principles. |
 | "I scored it myself, it passes" | For a set or a pick, run the blind cross-critique in step 4; the maker misses its own flaws. |
 | "The variants are different enough" | Run the sameness check; variants that differ only by colour, seed or stone fail. |
+| "The framing is fine, it's a nice render" | Run the composition check; a piece cut by the edge, floating small or set apart from its group fails G12 however good the render is. |
 | "The finish will carry it" | Render it in plain clay from every side first; if the form doesn't hold up bare, rework the form. |
 
 ## Keep it improving (standing rule, every thread, every project)
