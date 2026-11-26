@@ -134,3 +134,15 @@ Add the line that would have caught it, in the same session, and publish (see SK
   no holes or carving marks", "no two tone", 24 Nov)
 - **Product shots are studio shots.** Site product images are on the studio theme (white seamless, soft high light,
   contact shadow). A staged room, curtain or rug fails D3. ("should be on theme not whatever these are", 24 Nov)
+
+## Added 26 Nov 2026 (shop uniform round 9 in 3D)
+- **Joint truth.** A seam sold as a joint (dovetail, finger, lap) must be modelled as the cut edges of the two
+  parts meeting. Zoom on the joint: tail shapes laid on top of a panel, rounded fingers or straight-sided tabs fail.
+  ("the dovetail details on the jacket are separate pieces and not actually part of the original ... leather panel")
+- **Holder shows its object.** Any pocket, holster, sleeve, cradle or case is rendered holding the real object it
+  is for, as photo-matched CAD; stand-in blocks or empty pockets fail. ("they need to have the actual objects
+  they're holding in them", 26 Nov)
+- **Hidden hardware stays hidden.** Magnets and stiffeners inside leather render as a dome and a stitch ring;
+  visible discs fail. ("the magnets are a mess. I don't think that's how it would look in real life")
+- **A carrier needs an idea tied to its use.** A plain bag silhouette (doctor bag, duffel) with hardware added is
+  generic and fails C1; the form should come from how it is used (e.g. opens flat into the bench layout).
