@@ -31,6 +31,10 @@ look and feel great is the work (client reference, 25 Nov).
   backgrounds and material tells, plus our default shot plan. Read it before planning any render set, product page
   or IG carousel. Lower weight than critique and saves; D3 white still wins.
 
+- `references/studio-look.md`: THE LOOK GUIDE (26 Nov 2026), a hard rule for every reel, TikTok, video, post,
+  still, sheet and page: two font families in four cuts, one palette, fixed logo sizes, frame layout, motion rules,
+  the site-card end card, and a 10-line gate. Nothing is shown or posted until it passes that gate.
+
 ## Use it (every design task)
 1. **Before sketching.** Read `principles.md`, `banned-moves.md`, the section of `domains.md` for your
    medium, and the matching signals in `instagram-saves.md` (for renders, pages and reels, also the shot plan in `productdesign-account.md`). Read the project's own brief and picks file. Write the brief in four lines: the one silhouette idea,
