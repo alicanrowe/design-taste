@@ -199,7 +199,7 @@ design principles". Take the principles, never their products (no Wiggle, no 620
 Every reel finishes through the shared studio finishing kit (studio.py, STUDIO_LOOK.md): one key-light pool with
 falloff, neutral-warm palette, the same grade, brand type top-left with a mono counter, hairline crop marks, hairline
 tracking boxes, one continuous camera. Revised the same night: labels sit on solid accent tags (title, spec,
-counter) with a hairline leader to the piece, and the end card was the accent (retired 26 Nov for the white site-card end card, studio-look.md section 7); accent is IKIYA lining green #1D847E
+counter) with a hairline leader to the piece, and the end card was the accent (retired 26 Nov; reels now end in-world with no card, studio-look.md section 7); accent is IKIYA lining green #1D847E
 ("electric blue doesn't necessarily fit the aesthetic of what we make"). Plain type with no tag read generic and
 hard to read.
 
