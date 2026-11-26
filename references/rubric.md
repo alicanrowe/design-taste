@@ -146,3 +146,7 @@ Add the line that would have caught it, in the same session, and publish (see SK
   visible discs fail. ("the magnets are a mess. I don't think that's how it would look in real life")
 - **A carrier needs an idea tied to its use.** A plain bag silhouette (doctor bag, duffel) with hardware added is
   generic and fails C1; the form should come from how it is used (e.g. opens flat into the bench layout).
+
+## Added 26 Nov 2026 (kei truck CAD review)
+- G8 No stand-ins. Every real-world object in a render or 3D viewer (vehicle, tool, fixture, prop) is checked side by side against a photo of the real thing at the same angle: glazing and frames, grille, mirrors, lamps, seams, wheels and tyres, badges all present and shaped like the photo. Matching only the overall dimensions fails.
+
