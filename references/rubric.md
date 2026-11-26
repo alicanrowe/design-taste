@@ -168,6 +168,11 @@ Add the line that would have caught it, in the same session, and publish (see SK
   visible discs fail. ("the magnets are a mess. I don't think that's how it would look in real life")
 - **A carrier needs an idea tied to its use.** A plain bag silhouette (doctor bag, duffel) with hardware added is
   generic and fails C1; the form should come from how it is used (e.g. opens flat into the bench layout).
+- **No clipping, ever.** No object may pass through cloth, leather or another object, even in a close crop. Tools are
+  rigid colliders that cloth drapes around; a penetration check (~0.5 mm) must pass on every frame shown, plus an eye
+  check of the closest views. ("clipping bro clipping", 26 Nov)
+- **Show the whole outfit.** A garment set is reviewed as the full fit on one figure (hood + jacket + pants + apron),
+  not only as separate pieces. ("can i see the whole fit together", 26 Nov)
 
 ## Added 26 Nov 2026 (kei truck CAD review)
 - G8 No stand-ins. Every real-world object in a render or 3D viewer (vehicle, tool, fixture, prop) is checked side by side against a photo of the real thing at the same angle: glazing and frames, grille, mirrors, lamps, seams, wheels and tyres, badges all present and shaped like the photo. Matching only the overall dimensions fails.

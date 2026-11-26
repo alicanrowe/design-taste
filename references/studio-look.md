@@ -67,8 +67,19 @@ grain. Hero and Instagram stills must also pass as a photograph (photoreal.md).
 - One continuous camera move, or hard cuts between holds of about 1.5 s. No spins into odd compositions, no flicker,
   no random jump cuts, no zoom punches, slides, bounces or whip transitions.
 - Tags and type fade in and out over 0.6 s, ease `cubic-bezier(.65,0,.35,1)`, 0.08 s stagger.
-- Length: 20 to 30 s for reels and TikToks (50 s at most). YouTube films set their own length, same rules.
-- Sound: real shop and material sound first. Trending audio only on TikTok, low under the real sound.
+- Length: 20 to 30 s for reels and TikToks, 50 s at most by default, and **never 90 s or longer (HARD FAIL)**:
+  Instagram won't allow music on a reel of 90 s or more (the client, 26 Nov 11:33 AM ET: "all reels need to be under
+  90seconds because instagram wont let me put music then"). Aim for 89 s at the very most, including the ending.
+  YouTube films set their own length, same rules.
+- Frame rate: 24 fps for every reel, the ending included (`ending('crop', tail, name, url, fps=24)`).
+- Sound: **the method of K** (the studio's K concrete vessels reels): nothing recorded,
+  every track generated and timed to the animation itself, frame by frame from the scene's own events. A low drone and
+  air underneath; a struck material tone (stone, wood, metal, glass: the piece's own material) when a big part lands;
+  quiet clicks on the exact frame each part seats, each clamp bites, each bolt turns, each joint closes; a process
+  sound modelled physically (K's pour climbs in pitch as the column fills, like a bottle); pieces knock when they meet.
+  Check every mix as a spectrogram (time across, Hz up, dB colour) against the event list before it ships. No stock
+  music bed; trending audio only on TikTok, low under the real sound. Reels stay under 90 s so the client can add music
+  in the app.
 
 ## 7. Endings: no card, the reel closes into a square (the client picked C, 26 Nov 12:41 AM ET)
 the client on the site card: "still kind of feels like corporate ... slop", "your video shouldn't just end abruptly either".
@@ -87,6 +98,23 @@ wise because when the reels are on the main grid it ensures u get a good preview
 - Never: a card bolted on after the reel, a logo stack, specs paragraphs, "follow for more", arrows, stickers, a hard
   cut while the camera is still moving.
 
+## 7b. One studio: the same room for every animation (the client, 26 Nov 2026 11:14 AM ET)
+the client: "i want all the animations to have a consistent look and possibly enviroment you know", then "all should
+look like they came from the same studio decide which background u think is best". Decision: **one white studio**.
+- Kit: the one-studio kit (`one_studio.py`, README there). Every reel builds its scene in it, or imports it around its own
+  animated scene: `import one_studio as OS; OS.scene_setup(1080, spp); OS.studio(piece_meshes, room="white")`.
+- Room: white seamless cyc (albedo 0.88) lit only by a floor pool and a soft wall wash (light-linked), so the wall reads
+  near white and the floor falls off gently, with real contact shadows. The piece is lit only by the house key / fill /
+  rim, two rim strips and camera-invisible gloss boxes, plus two black flags for metal. All of it scales with the piece.
+- White because it is the site's colour, the standing "backgrounds are white" rule, and the crop ending closes the reel
+  onto the white page with no jump. `room="charcoal"` (Moth look B) only for a reel the client asks to be dark.
+- Camera: 50 mm, 3/4 from the front left (az 214, el about 8, as the site cards), piece about half the frame height.
+  Moves follow section 6 (one continuous move or held angles on a beat; close-ups are push-ins on the same rig).
+- Fixed noise seed 7, no adaptive sampling, AgX Medium High Contrast, 24 fps. Finish: grade('light') > unify(keep=0.08)
+  > overlay2 > ending('crop', fps=24). The room is neutral, so unify must not grey the piece (wood keeps its colour).
+- No props, plinths or fake architecture unless the piece is used on them (a coat hook on a wall plane, a table lamp
+  on a table); a pendant hangs with its canopy off the top edge.
+
 ## 8. The gate (pass every line before anything is shown or posted)
 1. Only the four font cuts above appear. No platform text or stickers.
 2. Colours: white, the greys, `#1D847E` on chips only, and the piece's own colour.
@@ -94,13 +122,15 @@ wise because when the reels are on the main grid it ensures u get a good preview
 4. Nothing but crop marks in the top 220 / bottom 380 px of a vertical frame.
 5. Tags lowercase mono on chips, low-left; counter top-right; nodes only on real parts.
 6. `grade` + `unify` ran; the world is grey and the piece carries the colour.
-7. Frame 1 is the piece; no title card; no flicker, spins or jump cuts; length within the limit.
+7. Frame 1 is the piece; no title card; no flicker, spins or jump cuts; length within the limit. **A reel of 90 s or
+   more is a hard fail** (no music on Instagram).
 8. Ends on the crop (section 7) and the cover is its last frame; never a card or a cut while moving.
 9. No clipping or interference in the piece (standing rule).
 10. Checked side by side against the last approved reel: it looks like the same studio.
 11. Site cards: a loop from the card kit, same fill, framing and size as the rest (section 9).
 12. Composition: `design-taste/scripts/composition_check.py` passes for the format (`--set` for cards and carousels);
     the rules and numbers are in design-taste `references/composition.md`.
+13. One studio: shot in `one_studio.py` (white room, house rig, 50 mm), 24 fps, sound made by the method of K.
 
 ## 9. Site cards: one studio loop per card (the client, 26 Nov 2026 12:31-12:34 AM ET)
 the client on the index cards: "these previews are outdated we are now doing groups for previews when it makes sense",
