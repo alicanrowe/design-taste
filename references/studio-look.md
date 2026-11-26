@@ -70,15 +70,22 @@ grain. Hero and Instagram stills must also pass as a photograph (photoreal.md).
 - Length: 20 to 30 s for reels and TikToks (50 s at most). YouTube films set their own length, same rules.
 - Sound: real shop and material sound first. Trending audio only on TikTok, low under the real sound.
 
-## 7. End card: the site card (replaces the full-green card)
-The last frame of the reel shrinks, over 0.6 s, into the portfolio square of the piece's page. Then the type fades in
-(0.5 s) and holds for 1.5 s, 2.6 s in all. It reads as the reel landing on the site, not as an ad.
-- White page, crop marks, the logo at its fixed size top-left, `the client rowe studio · year` in mono top-right on the logo's foot.
-- An 880 px square of the final frame (no tags on it), then the NAME (Newsreader 200, uppercase), one or two mono
-  spec lines (materials, process), and the url on one green chip. Everything sits inside the safe zone.
-- The same card, as a still, is the last slide of every carousel.
-- Code: `studio.endcard(name, url, frame=last, specs=[...])` for the still, `studio.endcard_frames(...)` for the move.
-- Never: a full-colour slab, a centred logo stack, "follow for more", arrows, stickers, a subscribe button.
+## 7. Endings: no card, the reel comes to rest in its own world (26 Nov, round 2)
+the client on the site card: "still kind of feels like corporate ... slop", "your video shouldn't just end abruptly either",
+"the cropping is kind of cute". So no reel ends on a card. It ends inside its own world, in one of three ways
+(samples in the brand kit):
+- **A. Settle (default, every set).** The last camera move eases to a stop (about 1.4 s of deceleration, never a cut
+  while moving), the frame keeps breathing (live grain), and one tag fades in the usual low-left slot: the name on a
+  chip and the url under it. Holds 2 s. About 3.4 s in all.
+- **B. Lights down (dark sets, jewelry, metal).** After the settle the room goes dark first and the piece's own
+  glints go last, the tag on the dark. About 5.4 s. In a real render do it in Blender: dim the world and fill over
+  2 s and keep only the light linked to the piece.
+- **C. Crop (stills-led reels, carousels).** After the settle the frame closes into a centred square on white, with
+  hairline marks round it and one mono line under it (`name · url`). No logo, no spec stack. About 4.4 s.
+- Code: `studio.ending('settle' | 'lights_down' | 'crop', tail_frames, name, url)`; tail = the last ~1 s of clean frames.
+- The carousel's last slide is the C still. `studio.endcard()` (the site card) is retired with the green slab.
+- Never: a card bolted on after the reel, a logo stack, specs paragraphs, "follow for more", arrows, stickers, a hard
+  cut while the camera is still moving.
 
 ## 8. The gate (pass every line before anything is shown or posted)
 1. Only the four font cuts above appear. No platform text or stickers.
@@ -88,6 +95,6 @@ The last frame of the reel shrinks, over 0.6 s, into the portfolio square of the
 5. Tags lowercase mono on chips, low-left; counter top-right; nodes only on real parts.
 6. `grade` + `unify` ran; the world is grey and the piece carries the colour.
 7. Frame 1 is the piece; no title card; no flicker, spins or jump cuts; length within the limit.
-8. Ends on the site card (section 7), never a colour slab.
+8. Ends in-world (section 7: settle, lights down or crop), never on a card or a cut while moving.
 9. No clipping or interference in the piece (standing rule).
 10. Checked side by side against the last approved reel: it looks like the same studio.
