@@ -98,3 +98,29 @@ wise because when the reels are on the main grid it ensures u get a good preview
 8. Ends on the crop (section 7) and the cover is its last frame; never a card or a cut while moving.
 9. No clipping or interference in the piece (standing rule).
 10. Checked side by side against the last approved reel: it looks like the same studio.
+11. Site cards: a loop from the card kit, same fill, framing and size as the rest (section 9).
+
+## 9. Site cards: one studio loop per card (the client, 26 Nov 2026 12:31-12:34 AM ET)
+the client on the index cards: "these previews are outdated we are now doing groups for previews when it makes sense",
+"these previews are actually all over the place" (flat grey CAD next to photoreal, one tile cropped tight while others
+float small, backgrounds and scale that don't match), and "i think hivemind's animation looping is prolly the best
+direction because in pentesting i think ull find urself getting stuck on the 3d assets that can be moved with the mouse".
+- Every index card (home, Sculpture, Furniture, Robotics, AI, and the home hero's object panel) is a short seamless
+  **loop**, never a draggable 3D viewer and never a still. The 3D viewer stays on the project page.
+- **Groups when it makes sense:** a collection or family shows as its group (Nine Lives' nine, Imago, Bombyx, Helium,
+  Cast Chairs, Ogive, Chrysalis, Rachis, Nave, Vestiaire, Whorl & Cinch), true relative scale, nothing touching.
+- One studio for all: Cycles, AgX Medium High Contrast, the house key/fill/rim/top fixed in the world (highlights travel
+  as the camera drifts), a dark grey reflection world plus two black flags so metal reads as metal, a shadow catcher
+  floor, composited onto the card fill **#F3F3F3**. Built from the latest GLBs by the card kit `card_loop.py`; the
+  framing lives in the card kit `cards.json`.
+- One camera for all: orthographic, 3/4 from the front left (az 214, el 17 by default; long pieces turn further so
+  they read, jewellery trays look down at 24-38), drifting +-8 deg in azimuth on one sine period, so frame 120 is frame 0.
+  No spin, no cut, no zoom.
+- Hivemind-tight framing: the subject fills 86% of the card on its limiting axis, centred, floor line a little low.
+  Centred framing also survives the grid's square crop.
+- 4:5, 720 x 900, 24 fps, 120 frames (5 s), H.264 under 2.5 MB at `/files/cards/<id>.mp4`; poster = frame 0 at
+  `/img/cards/<id>-card-still.jpg`. Markup: `<video class="loop" ... muted loop playsinline autoplay preload="metadata">`;
+  pages play loops only while on screen.
+- Renders on the tower (never the Mac). Re-render a card whenever its piece or group changes.
+- Exceptions (in the site gate's allow list): the Mandelbulb tiles (2D art) and the Claude Skills text card.
+- The site gate checks every card (`tools/gate/cards.py`: CARD3D, CARDSTILL, CARDLOOP, CARDFILL, CARDSIZE).
