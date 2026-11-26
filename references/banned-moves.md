@@ -98,3 +98,11 @@ before showing anything.
 - In metal with colour: enamel or resin that wraps round a curved form and fades out at a grazing, feathered edge
   with no metal wall to hold it ("looks kinda messy and unrealsitc", HELIUM, 25 Nov). Colour sits in a cast cell
   with a crisp rim, a little below it, and the maker can say how it is filled.
+
+## Added 26 Nov 2026
+- Low-poly, boxy or stand-in CAD of any real-world object, anywhere in frame, context included (kei truck boxes,
+  block tools, block mirrors): "what the fuck is that low poly CAD shit ... Photoreal CAD, dude."
+- Joinery or motifs appliquéd on top of a panel instead of cut into it: "I hate how the dovetail details on the jacket
+  are separate pieces and not actually part of the original ... leather panel".
+- Empty pockets or holders shown without the real object they are for: "they need to have the actual objects
+  they're holding in them".
