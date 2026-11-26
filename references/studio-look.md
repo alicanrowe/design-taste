@@ -166,6 +166,16 @@ next weeks (different beats, never the same edit twice). X gets the CAD/tooling 
 (the crop still). The gate (section 8) runs on both cuts; the film adds: script approved by the client, captions inside the safe area,
 voice/caption timing within 2 frames, chapters in the description.
 
+**LinkedIn (the client, 26 Nov).** A third version of the short, not a new edit: the short
+reframed to 4:5 (1080 x 1350) from the same renders, 30 to 90 s, captions burned in (most watch muted), ending on the crop.
+Native upload only, never a YouTube or IG link in the post; the film or site link goes in the first comment. Or a carousel of
+6 to 10 stills on white. Personal profile posts 1 a week (Tue to Thu, about 9 AM ET), plain first person, 3 to 6 short
+paragraphs, human-voice checked, max 3 hashtags, no "excited to announce", never asks to buy. Rotation: the making, the system
+(own CAD, render tower, agents), the business (Brooklyn woodshop, the LLC, May 2027 collection, team),
+milestones. The company page (from 27 Nov) posts 2 a month: pieces, films, shop opening, hiring, the one drop
+post; the profile lists it as employer. First post = "Hello, from the bench" draft, after the profile is done
+and the client says go.
+
 **Order (first films).** Lead with the pieces that need only small tweaks: 1 VIGIL (inspo to petal, best hook), 2 PM case,
 3 Moth, then 4 Whorl & Cinch, 5 Ogive, 6 Nine Lives, 7 Stay chairs (after the order is placed, so the film shows real bending
 and plasma cutting), 8 Vestiaire (after the recolour is approved). Shorts can go out ahead of their film.
