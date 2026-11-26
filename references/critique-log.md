@@ -538,10 +538,4 @@ sculpted-metal-casting skill's `client-picks.md`; they are counted into the stri
 ## 26 Nov 2026: Chrysalis lamps scrapped
 - Chrysalis (black steel root-foot table lamp with a twisting stack of red-to-clear acrylic slices, plus the 1.5 m floor lamp with red vanes in a black steel cage): "scrap this project i hate it now and it is beyond saving". The whole set is rejected, not one detail. Read it as: black spiky steel cage + striped red/white acrylic slice stacks on a thin stalk with splayed root feet did not hold up; do not reuse that look for new lights.
 
-## 26 Nov 2026: site card audit (wrong sides, Moth hero, flicker)
-- "bro ur showing the wrong side" (Vesper back plate), "wrong side" (Stay chairs), "wrong side too" (Fairy Ring, back of the lid), "weird ass preview prolly flip it" (HISS), "these are outdated / showing the wronge side" (Vestiaire). Rule: every card and preview shows the piece's front or display face, the side its page leads with; a back plate or cable side is never the hero.
-- Glossa: "prolly show the screen side with some scrolling text or something". A display piece shows its display working.
-- Moth hero: "this preview is a fucking disaster": cropped at the edge, caption over the legs, blown-out gloss, low-res. Whole piece with air, caption in its own space, gloss tops not blown out, sharp.
-- Ogive: "weird framing" for two tweezers in opposite corners. A pair sits together, aligned and centred.
-- Rachis: "make the mounting ... cropped over the edge just a hair so it looks like it is mounted to the header". A pendant's canopy can bleed a hair past the top edge, the one allowed crop.
-- "some flickering on the hivemind preview", "fix flickering on stinger anim". Loops must be temporally clean: no shimmering noise.
+- 2026-11-26 18:35 UTC | Fawn Orchard page, "In 3D" section (live spinning GLB viewer between the CAD render and the dimension drawing) | "remove the in 3d part of fawn orchard it is bad and isnt needed" | -> on a page for a finished, photographed piece, the photos carry it; a live 3D viewer of a photo-rebuilt model is not needed and reads as worse than the real thing. Removed; render + dimensions + specs kept. Do not add a 3D viewer to a photographed past piece unless the client asks.
