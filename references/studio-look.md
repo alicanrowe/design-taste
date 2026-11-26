@@ -55,7 +55,14 @@ Tokens live in the brand kit's `theme.json`; the code is the studio finishing ki
 - Counter `04 / 10` on a chip, top-right at y 244. URL in tiny mono top-left, first frame only.
 - Tags: bottom-left stack ending at `TAG_Y` (1500): name (mono 700) and one spec line (mono 400), lowercase, on chips.
 - Nodes: 16 px hollow squares on real named parts, one hairline joining them, part names on small chips.
-- The piece fills 40 to 60% of the frame height, with air around it.
+- The piece fills 40 to 60% of the frame height, with air around it. Reels sit at the top of that range (about 55 to
+  60%, `one_studio.FILL` 0.58): they are watched on small phone screens (the client, 26 Nov 2026), so the piece stays
+  large in every frame, never below 40%, and close-ups are push-ins on the same rig.
+- **Names are Numbers** (the client picked them 26 Nov 2026 2:10 PM ET: "i like numbers go ahead with it"): every tag,
+  sheet, caption and crop line names a piece by its line number and noun, `4·01 table lamp` (middle dot U+00B7),
+  url `the clientrowe.com/4-01`. Source of truth `naming/numbers.json`; in code `names.py` in the one-studio kit
+  (`names.tag()`, `names.label()`, `names.url()`). Only the house names (the studio, its brand and one locked piece) stay words. The name
+  chip is the number (mono 700), the spec chip starts with the noun. Media file names stay as they are.
 - 16:9 and square crops keep the same marks and tag slot, scaled with `theme.scale()`.
 
 ## 5. Grade
@@ -66,6 +73,8 @@ grain. Hero and Instagram stills must also pass as a photograph (photoreal.md).
 - Frame 1 is the piece. No title card, no logo sting, no intro.
 - One continuous camera move, or hard cuts between holds of about 1.5 s. No spins into odd compositions, no flicker,
   no random jump cuts, no zoom punches, slides, bounces or whip transitions.
+- Phone screens (the client, 26 Nov): no big zoom-outs (never pull back so the piece shrinks by more than about a
+  fifth), no jump cuts. Wide establishing shots of a whole room or line are out; the piece carries the frame.
 - Tags and type fade in and out over 0.6 s, ease `cubic-bezier(.65,0,.35,1)`, 0.08 s stagger.
 - Length: 20 to 30 s for reels and TikToks, 50 s at most by default, and **never 90 s or longer (HARD FAIL)**:
   Instagram won't allow music on a reel of 90 s or more (the client, 26 Nov 11:33 AM ET: "all reels need to be under
