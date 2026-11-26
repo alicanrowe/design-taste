@@ -131,3 +131,41 @@ direction because in pentesting i think ull find urself getting stuck on the 3d 
   photo i think"); the loop is for pieces that exist as renders.
 - Exceptions (in the site gate's allow list): the Mandelbulb tiles (2D art) and the Claude Skills text card. Fawn Orchard (photo).
 - The site gate checks every card (`tools/gate/cards.py`: CARD3D, CARDSTILL, CARDLOOP, CARDFILL, CARDSIZE).
+
+## 10. Two cuts for every animation: short for IG/TikTok, long film for YouTube (the client, 26 Nov 2026)
+Every animation ships as two cuts made from the same renders, in this one look. They are different edits, not a trim of one video.
+
+| | Short cut | Long cut (film) |
+|---|---|---|
+| For | IG Reel + TikTok (+ YouTube Short) | YouTube (+ site page) |
+| Length | 20 to 45 s, 89 s hard max (section 6) | 4 to 8 min, 3 min floor |
+| Frame | 1080 x 1920, 24 fps, logo 150 px | 1920 x 1080 (3840 x 2160 if rendered), 24 fps, logo 72 / 144 px |
+| Story | one idea: the hook in frame 1, one beat, the crop | idea, design, making, the piece (4 chapters) |
+| Words | none spoken; mono tags only (low left) | a short written script; captions always |
+| Sound | the K method (section 6) | the K method under the voice, ducked 8 to 10 dB |
+| Ending | the crop (section 7); its last frame is the grid cover | the crop at 16:9, then 2 s of rest; no end screen card, no "subscribe" |
+
+**Script (long cut).** Every film has a written script, about 130 words a minute, so 500 to 1,000 words. Plain first person,
+how the client talks, no hype words (run it through the human-voice skill). Default delivery = on-screen captions in IBM Plex Mono 400,
+lowercase, centred low in the 16:9 safe area, one line, max 42 characters, never over the piece. A quiet voiceover by the client is
+the upgrade when the client records it (a phone in a closet is fine); never a synthetic voice. Burn the captions in AND upload the .srt.
+Chapters: 0:00 idea (refs, the why), design (CAD, sheets, the cuts), making (shop, laser, glue-up, the real tools), the piece
+(the studio turn, details, the crop). Real shop footage and CAD screen captures sit between the renders, graded to section 5.
+
+**What each cut does in the strategy.** The short is discovery and the grid (IG = the finished piece, TikTok = the making, one
+different hook each: IG opens on the piece, TikTok opens on a cut or a tool). The film is the depth that turns a viewer into a
+follower or a buyer, and it is the one place the link to the piece/drop lives. Neither says "buy".
+
+**Linking.** Short captions end with one line: "full film on youtube, link in bio". The film description links the site page
+and the drop/email list; the short goes up as its YouTube Short with "related video" set to the film. The site page embeds the film.
+
+**Cadence.** One film a month (the first Friday), its short the same week, then 2 more shorts from the same renders over the
+next weeks (different beats, never the same edit twice). X gets the CAD/tooling clip, never the reel.
+
+**Files.** `<piece>_short_v#.mp4`, `<piece>_film_v#.mp4`, `<piece>_film_v#.srt`, `<piece>_script_v#.md`, `<piece>_cover.jpg`
+(the crop still). The gate (section 8) runs on both cuts; the film adds: script approved by the client, captions inside the safe area,
+voice/caption timing within 2 frames, chapters in the description.
+
+**Order (first films).** Lead with the pieces that need only small tweaks: 1 VIGIL (inspo to petal, best hook), 2 PM case,
+3 Moth, then 4 Whorl & Cinch, 5 Ogive, 6 Nine Lives, 7 Stay chairs (after the order is placed, so the film shows real bending
+and plasma cutting), 8 Vestiaire (after the recolour is approved). Shorts can go out ahead of their film.
