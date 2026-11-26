@@ -162,3 +162,10 @@ cut by the frame, and the retired green end card (EMPTY). It measures framing on
 - Museum object photography guides (lens at the object's middle height, levelled; the object nearly fills the view
   with a little background; background well behind the object; 50 mm standard, longer for small objects).
 The research notes behind this file (with URLs) are kept in the project, not in this repo.
+
+## Known limit: dark sets (26 Nov 2026)
+`composition_check.py` models the background from a light seamless. On a dark void or charcoal set with a lit back wall
+and a plinth (VIGIL's reel), it takes the wall glow and plinth as the subject and fails EDGE, HIGH and SAFE on every
+frame. Until it has a dark mode, check those frames by measuring the piece's own box by hand (VIGIL v4: arch top to
+root foot ~50% of frame height, centred by the end of the move) and run the script on the white crop cover, where it
+is reliable.
