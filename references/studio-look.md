@@ -122,5 +122,10 @@ direction because in pentesting i think ull find urself getting stuck on the 3d 
   `/img/cards/<id>-card-still.jpg`. Markup: `<video class="loop" ... muted loop playsinline autoplay preload="metadata">`;
   pages play loops only while on screen.
 - Renders on the tower (never the Mac). Re-render a card whenever its piece or group changes.
-- Exceptions (in the site gate's allow list): the Mandelbulb tiles (2D art) and the Claude Skills text card.
+- Pieces sit the way they are used (the client, 26 Nov 10:06 AM ET: "if it is ceiling mounted why is it on the ground here"):
+  a pendant or ceiling piece hangs at its mounted height with its canopy meeting the top edge (`"z"` per item plus
+  `"flush_top"` in cards.json), a wall piece sits on a wall plane, never laid on the floor.
+- Built pieces with real photos keep the photo on their cards (the client, 26 Nov 10:05 AM ET: "fawn orchard should show a
+  photo i think"); the loop is for pieces that exist as renders.
+- Exceptions (in the site gate's allow list): the Mandelbulb tiles (2D art) and the Claude Skills text card. Fawn Orchard (photo).
 - The site gate checks every card (`tools/gate/cards.py`: CARD3D, CARDSTILL, CARDLOOP, CARDFILL, CARDSIZE).
