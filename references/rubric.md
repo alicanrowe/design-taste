@@ -25,6 +25,16 @@ Write the result into the piece's notes as one line plus the fixes:
   resolution, same close-up list and order, same graphics (3D, drawing, build sheet), same spec format, same fixed
   dimensions (principles E10). A piece missing any of it is not finished.
 
+- **G8 Real objects at photo fidelity (26 Nov 2026).** Every real-world thing shown, context included (vehicles, tools,
+  bought hardware, mannequins, bags, buildings), is modelled like the real product from photos: no low-poly, boxy,
+  primitive or stand-in object anywhere in frame. "what the fuck is that low poly CAD shit ... Photoreal CAD, dude."
+- **G9 Integrated detail (26 Nov 2026).** Joinery, seams and motifs are part of the material (dovetails cut into the
+  two panels they join), never shapes stuck on top. Pockets and holders hold the real object they are for. Nothing
+  floats: magnets, latches and screws sit in the part that holds them.
+- **G10 Whole work (25 Nov 2026).** No image crops the work: no forced 4:5 or square cover crop that cuts off a piece.
+- **G11 Not generic (26 Nov 2026).** A bag, a stand, a page each has an idea tied to its use; a stock silhouette
+  (a plain doctor bag) fails ("the bag looks super generic and boring").
+
 ## Scored criteria (0 = fails, 1 = passable, 2 = strong)
 Bar to show: **no zeros, and at least 20 of 24.** For the client's own flagship pieces, aim for 22.
 
@@ -55,6 +65,11 @@ After scoring, answer these in the notes, in a sentence each. They catch what th
 2. Which part would the client pin first, and what would they write?
 3. Is any detail here because it was easy to model rather than because it is right?
 4. Would the best maker named in the brief put their name on it?
+
+## Who scores
+Never the maker alone. Before anything is published, the site's quality gate (`tools/gate.py` in the site repo) runs a
+blind critique: a different model, given only what a visitor sees, 3D close-ups and this guide, scores it on these
+gates and criteria, and the page can't go live under the bar. The maker's own score is a pre-check, not the pass.
 
 ## When a critique gets past this rubric
 Add the line that would have caught it, in the same session, and publish (see SKILL.md).
